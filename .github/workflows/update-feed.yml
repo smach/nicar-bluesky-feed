@@ -1,0 +1,70 @@
+name: Update NICAR Bluesky Feed
+
+on:
+  schedule:
+    # Conference mode: every 20 minutes
+    # Post-conference: change to  0 */3 * * *  and remove the timezone check step
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pages: write
+      id-token: write
+
+    steps:
+      - name: Check if within active hours (7am-midnight ET)
+        id: timecheck
+        run: |
+          HOUR=$(TZ="America/New_York" date +%H)
+          if [ "$HOUR" -ge 7 ]; then
+            echo "active=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "active=false" >> "$GITHUB_OUTPUT"
+            echo "Skipping: $(TZ='America/New_York' date) is outside 7am-midnight ET"
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.timecheck.outputs.active == 'true'
+
+      - name: Set up R with r2u
+        if: steps.timecheck.outputs.active == 'true'
+        uses: eddelbuettel/github-actions/r2u-setup@master
+
+      - name: Install R packages
+        if: steps.timecheck.outputs.active == 'true'
+        run: |
+          install.packages(c(
+            "bskyr", "dplyr", "stringr",
+            "htmltools", "jsonlite", "glue", "purrr"
+          ))
+        shell: Rscript {0}
+
+      - name: Fetch and render feed
+        if: steps.timecheck.outputs.active == 'true'
+        env:
+          BLUESKY_APP_USER: ${{ secrets.BLUESKY_APP_USER }}
+          BLUESKY_APP_PASS: ${{ secrets.BLUESKY_APP_PASS }}
+        run: Rscript run.R
+
+      - name: Commit updated output
+        if: steps.timecheck.outputs.active == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/
+          git diff --staged --quiet || git commit -m "Update feed $(TZ='America/New_York' date '+%Y-%m-%d %H:%M ET')"
+          git push
+
+      - name: Upload Pages artifact
+        if: steps.timecheck.outputs.active == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: output/
+
+      - name: Deploy to GitHub Pages
+        if: steps.timecheck.outputs.active == 'true'
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,2004 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<style>body{background-color:white;}</style>
+
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>NICAR 2026 Bluesky Feed</title>
+  <style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background: #f0f2f5;
+    color: #1a1a1a;
+    line-height: 1.5;
+  }
+  .feed-header {
+    max-width: 640px;
+    margin: 2rem auto 1rem;
+    padding: 0 1rem;
+  }
+  .feed-header h1 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #0085ff;
+  }
+  .feed-header .subtitle {
+    color: #666;
+    font-size: 0.9rem;
+    margin-top: 0.25rem;
+  }
+  .feed { max-width: 640px; margin: 0 auto; padding: 0 1rem 2rem; }
+  .card {
+    background: #fff;
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin-bottom: 0.75rem;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.08);
+    border-left: 3px solid #0085ff;
+  }
+  .card-header {
+    display: flex;
+    align-items: center;
+    gap: 0.625rem;
+    margin-bottom: 0.5rem;
+  }
+  .avatar {
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    object-fit: cover;
+    flex-shrink: 0;
+  }
+  .author-info { flex: 1; min-width: 0; }
+  .display-name {
+    font-weight: 600;
+    font-size: 0.95rem;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .handle {
+    color: #888;
+    font-size: 0.8rem;
+    display: block;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+  .timestamp {
+    color: #888;
+    font-size: 0.8rem;
+    text-decoration: none;
+    white-space: nowrap;
+    flex-shrink: 0;
+  }
+  .timestamp:hover { text-decoration: underline; }
+  .post-text {
+    font-size: 0.95rem;
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  .post-images {
+    margin-top: 0.75rem;
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  }
+  .post-image {
+    width: 100%;
+    border-radius: 8px;
+    max-height: 400px;
+    object-fit: cover;
+  }
+  .reply-badge {
+    display: inline-block;
+    font-size: 0.7rem;
+    color: #666;
+    background: #eee;
+    padding: 0.1rem 0.4rem;
+    border-radius: 4px;
+    margin-left: 0.35rem;
+    vertical-align: middle;
+    font-weight: 500;
+  }
+  .card-footer {
+    margin-top: 0.5rem;
+    text-align: right;
+  }
+  .view-link {
+    font-size: 0.8rem;
+    color: #0085ff;
+    text-decoration: none;
+  }
+  .view-link:hover { text-decoration: underline; }
+  .empty-message {
+    text-align: center;
+    color: #888;
+    padding: 3rem 1rem;
+    font-size: 1.1rem;
+  }
+  @media (max-width: 480px) {
+    .feed-header { margin-top: 1rem; }
+    .feed-header h1 { font-size: 1.4rem; }
+    .card { padding: 0.875rem 1rem; }
+  }
+  </style>
+</head>
+<html lang="en">
+  <body>
+    <header class="feed-header">
+      <h1>NICAR 2026 on Bluesky</h1>
+      <p class="subtitle">101 posts | Updated February 28, 2026 20:18 EST</p>
+    </header>
+    <main class="feed">
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg" class="avatar" alt="smachlis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Sharon Machlis
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@smachlis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfxaywao4c2a" target="_blank" rel="noopener" class="timestamp">Feb 28, 2026 22:19 UTC</a>
+        </div>
+        <p class="post-text">Alt text by gemma3:12b running on ollama: "Presentation: Running LLMs locally! Aarushee Sahejpel &amp; Dhrumil Mehta discuss at NICAR 26 (Indianapolis, March 5-8). Thursday, 3:45-4:45pm. Featuring race track graphic &amp; speaker headshots."</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfxaywao4c2a" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidgvfluiay6jfvda33hosift4afcvpxieesm6b25xu3aa7gsy62sm@jpeg" class="avatar" alt="dwillis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Derek Willis</span>
+            <span class="handle">@dwillis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mfwnkj7hac22" target="_blank" rel="noopener" class="timestamp">Feb 28, 2026 16:31 UTC</a>
+        </div>
+        <p class="post-text">Just playing around with some NICAR-L archives:</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidaoql6sewdh4cvko5arzoa24uiga5cpangprkl5w3yfw4fhe4gke@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mfwnkj7hac22" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:2layh5hiy5cyqolgupiuwk7y/bafkreicjzxurlkr47nwe3wincftydvrhjntztxmohzna5fxdkwtuig3xxa@jpeg" class="avatar" alt="the-word.news" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">The Word</span>
+            <span class="handle">@the-word.news</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:2layh5hiy5cyqolgupiuwk7y/post/3mfwe3wj2bm2q" target="_blank" rel="noopener" class="timestamp">Feb 28, 2026 13:41 UTC</a>
+        </div>
+        <p class="post-text">Our March issue comes out Thursday. This month we're talking about:
+• what it's like to start a #newsletter when you can't see the screen
+• #NICAR26
+• dealing with #trauma as a journalist
+• and more! 
+
+Are you excited? We're excited.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:2layh5hiy5cyqolgupiuwk7y/post/3mfwe3wj2bm2q" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:f4oqzopads42k7wmx5dqoqno/bafkreiedgioapp2qweqzt6ugs5t6haoh2mu5z24xyltqtnrbn26ypiyf5e@jpeg" class="avatar" alt="allanlasser.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Allan Lasser</span>
+            <span class="handle">@allanlasser.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:f4oqzopads42k7wmx5dqoqno/post/3mfup47au2k2l" target="_blank" rel="noopener" class="timestamp">Feb 27, 2026 21:53 UTC</a>
+        </div>
+        <p class="post-text">Working on some Jupyter notebooks for #NICAR. One of my favorite ways to write and think about code.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:f4oqzopads42k7wmx5dqoqno/post/3mfup47au2k2l" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfuhvczdzm2p" target="_blank" rel="noopener" class="timestamp">Feb 27, 2026 19:44 UTC</a>
+        </div>
+        <p class="post-text">We’re going LIVE in 15 minutes! 
+
+Join us for an Instagram Live AMA!
+
+We’re talking:
+✨ How we got into journalism
+✨ What we actually do
+✨ #NICAR26 + #IRE26
+✨ Memberships, programming &amp; projects
+
+🕒 12 p.m. PT / 3 p.m. ET
+📍 LIVE on IG @ire_nicar + @poynter_institute</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreih4h42iuiimtzcuuirpqgs7scezouh4zgeswqtcb4fvv4sg63dqmy@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfuhvczdzm2p" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg" class="avatar" alt="smachlis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Sharon Machlis
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@smachlis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfua26wcf22x" target="_blank" rel="noopener" class="timestamp">Feb 27, 2026 17:23 UTC</a>
+        </div>
+        <p class="post-text">[NICAR 2026 is a data journalism conference happening next week in Indianapolis #ddj ]</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfua26wcf22x" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg" class="avatar" alt="smachlis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Sharon Machlis</span>
+            <span class="handle">@smachlis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfu6dpbuzs2x" target="_blank" rel="noopener" class="timestamp">Feb 27, 2026 16:53 UTC</a>
+        </div>
+        <p class="post-text">Browse, search, and filter all the NICAR 2026 posts on Bluesky R Shiny app collects all the posts with the #NICAR26 or #NICAR2026 hashtags
+App: apps.machlis.com/shiny/nicar2...
+#RStats code: github.com/smach/bskyconf
+#RShiny 
+[Did this for Twitter years ago, now updated]</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreia6bbbprk6cdpvnyf2ghu3i7nndnaci3xrxwvguc62qjwnhjyr72a@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfu6dpbuzs2x" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfu2zmxamq2g" target="_blank" rel="noopener" class="timestamp">Feb 27, 2026 15:54 UTC</a>
+        </div>
+        <p class="post-text">In this hands-on #NICAR26 session, you’ll learn how to run large language models like Llama, Mistral, and Gemma. 
+
+This session is perfect for beginners. 
+
+Led by Aarushi Sahejpal from American University and Dhrumil Mehta from Columbia University. Register for #NICAR26: https://bit.ly/4oDxQJH</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiat7o66yhdo5jd2y3fmq5ptym7jfon7ib6zy7jzzq7hnfhlb7pg5q@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfu2zmxamq2g" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfs72wrbun2u" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 22:01 UTC</a>
+        </div>
+        <p class="post-text">Want to build a dynamic, data-driven voter guide for your local elections? 
+
+At this hands-on #NICAR26 session, Adam Marton and Jerry Zremski from the University of Maryland will show you how the Local News Network creates its signature online voter guides using SvelteKit + Datasette.</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiduxfoxwhafiisvaveczqj5hhlbq7lglef3hr756xrroils3ths6q@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfs72wrbun2u" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:c42poah6jpwr5augawgdwm26/bafkreianjwntyvnih5x2bt22thxk62lk7ooltv6xppajje5dehtcbzkrai@jpeg" class="avatar" alt="equalaccesspublicmedia.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Equal Access Public Media (EAPM)</span>
+            <span class="handle">@equalaccesspublicmedia.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:c42poah6jpwr5augawgdwm26/post/3mfrspbipcc2r" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 18:19 UTC</a>
+        </div>
+        <p class="post-text">The Equal Access Public Media chief of editorial @stacykess.bsky.social is getting ready for @ire.org’s #NICAR26…</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:c42poah6jpwr5augawgdwm26/post/3mfrspbipcc2r" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:xyvwy33gyvh2gac7y3ynyogz/bafkreigvacf4xshidmu4hqnhfgfyoycbw7qg5vnuhoyig2wpnkjyqggova@jpeg" class="avatar" alt="newsmediahelpdesk.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">News Media Help Desk</span>
+            <span class="handle">@newsmediahelpdesk.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:xyvwy33gyvh2gac7y3ynyogz/post/3mfrsjcok672y" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 18:16 UTC</a>
+        </div>
+        <p class="post-text">The Help Desk will be at #NICAR26 in Indianapolis! 
+
+Find us in the exhibitor area, where you can pick up swag, tell us about what’s working for your news organization or tell us about a challenge your newsroom is facing.
+https://www.ire.org/training/conferences/nicar-2026/ </p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xyvwy33gyvh2gac7y3ynyogz/bafkreiekbdp7rh5uu3aggfqjur5a2w3qhfcpady4ucgosqqj5k42zukote@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:xyvwy33gyvh2gac7y3ynyogz/post/3mfrsjcok672y" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfri5sbsz52g" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 15:11 UTC</a>
+        </div>
+        <p class="post-text">Immigration data can feel overwhelming. 
+
+At #NICAR26, “Using Immigration Data to Tell Stories in Your Community” breaks it down and shows you how to turn messy data into meaningful local stories.
+
+Come ready to dig in.</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibmzvgvkac6wnihvs235vjxlttxjjrhsfy7zamlmwbgqd3xcqsl3m@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfri5sbsz52g" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:wq2jjrsl5usoprkkr7oamjaz/bafkreig3juy33nvcbnsuozcck3beejlits4srwnknwrhmrx7roybbixx2a@jpeg" class="avatar" alt="silviacanelon.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Silvia Canelón</span>
+            <span class="handle">@silviacanelon.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:wq2jjrsl5usoprkkr7oamjaz/post/3mfrfzt4mm22e" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 14:33 UTC</a>
+        </div>
+        <p class="post-text">I'm thrilled to be a fellow at the #NICAR26 data journalism conference this year!
+
+I'll also be coaching a hands-on session on #RStats data analysis + plotting using #tidyverse packages. 📊 
+Maybe I'll see you there! 👇🏽
+schedules.ire.org/nicar-2026/#...
+
+#ddj @ire.org</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:wq2jjrsl5usoprkkr7oamjaz/post/3mfrfzt4mm22e" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa@jpeg" class="avatar" alt="laurakurtzberg.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Laura Kurtzberg 🌻</span>
+            <span class="handle">@laurakurtzberg.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mfrdnygsq22d" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 13:50 UTC</a>
+        </div>
+        <p class="post-text">NICAR is next week already? I just added a bunch more speakers to the starter pack! Should be up-to-date now! Also, check out the NICAR schedule: schedules.ire.org/nicar-2026</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mfrdnygsq22d" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg" class="avatar" alt="reponytt.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Reponytt</span>
+            <span class="handle">@reponytt.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfra6hjmoq24" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 12:48 UTC</a>
+        </div>
+        <p class="post-text">muckrock har nettopp åpnet repoet MuckRock/NICAR: https://github.com/MuckRock/NICAR
+
+NICAR-sesjoner av MuckRock-ansatte</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfra6hjmoq24" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg" class="avatar" alt="reponytt.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Reponytt</span>
+            <span class="handle">@reponytt.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfra6grymf2l" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 12:48 UTC</a>
+        </div>
+        <p class="post-text">ireapps har nettopp åpnet repoet ireapps/nicar-2026-local-guide: https://github.com/ireapps/nicar-2026-local-guide
+
+En guide til lokal mat, attraksjoner og logistikk i Indianapolis for NICAR 2026-konferansen.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfra6grymf2l" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreifbrocxwrtavfyng2geebedudemk5jyxt4vpin2cymhzxgjdrtit4@jpeg" class="avatar" alt="palewi.re" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Ben Welsh</span>
+            <span class="handle">@palewi.re</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mfqzrgumyag2" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 11:22 UTC</a>
+        </div>
+        <p class="post-text">RE: https://mastodon.palewi.re/@palewire/116119773803070204
+
+"First LLM Classifier" is soooold out! #NICAR26 is ready to rip.
+
+Fret not. You can still hit the wait list. And we will be releasing an online textbook with the full script for anyone to play at home.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mfqzrgumyag2" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreichud6tkswbjowwpfqatbbffmcp4b3ubahianxrsjrs4welsxsn7e@jpeg" class="avatar" alt="hinklej.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Josh Hinkle</span>
+            <span class="handle">@hinklej.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mfq3cextus2n" target="_blank" rel="noopener" class="timestamp">Feb 26, 2026 01:48 UTC</a>
+        </div>
+        <p class="post-text">LEARN LIKE A BOSS! Are you a news leader attending #NICAR26 in Indy next week who could use some specialized, FREE @ire.org training? Register for our “Managing Investigators” master class (featuring tips for navigating AI)! And stick around for our manager networking session after the class! (1/2)</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreiamht3k3ouxgd47jhftzv3p5psxy4uzof4k3w6rbdacbf5lfta2xi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mfq3cextus2n" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibikjf7zexyk77myf3ksuiu5vu344oemss52jrbbitaftnuvrrrxq@jpeg" class="avatar" alt="datab.ae" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Steven Rich</span>
+            <span class="handle">@datab.ae</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mfptg4xnis2w" target="_blank" rel="noopener" class="timestamp">Feb 25, 2026 23:27 UTC</a>
+        </div>
+        <p class="post-text">i'm so excited and terrified to announce that my lightning talk for #NICAR26 was accepted and that i'll give it next week in indianapolis. it will detail something i've struggled quietly with and kept largely private but am ready to talk more openly about. www.ire.org/2026/02/25/a...</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreihorexscrtn3ucu2f6oxu7udd7lmi62its2ucrpbjrrvyqttvlchu@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mfptg4xnis2w" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:o5yc4qeobzkqthrnwrmvzqwg/bafkreihujvpe2dfcwk4hwvqgy7zfsuyi4emx36fl3x2tqejzxsryt3pg4m@jpeg" class="avatar" alt="openjournalism.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Open Journalism Bot</span>
+            <span class="handle">@openjournalism.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mfponcu2xf2v" target="_blank" rel="noopener" class="timestamp">Feb 25, 2026 22:01 UTC</a>
+        </div>
+        <p class="post-text">New open GitHub repo from IRE/NICAR!
+
+https://github.com/ireapps/nicar-2026-local-guide</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mfponcu2xf2v" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:iaccghrltyonpt6kfbgmrepx/bafkreihj37r5g3cs6thw5ksx5n6dnyqsksm6h6hwnlrjerhajf7hjcaqti@jpeg" class="avatar" alt="patrickmgarvin.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Patrick Garvin</span>
+            <span class="handle">@patrickmgarvin.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:iaccghrltyonpt6kfbgmrepx/post/3mfpmwxugbs2c" target="_blank" rel="noopener" class="timestamp">Feb 25, 2026 21:31 UTC</a>
+        </div>
+        <p class="post-text">For any and all who will be at @ire.org's NICAR this year, please come to these sessions about accessibility! #NICAR26</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:iaccghrltyonpt6kfbgmrepx/post/3mfpmwxugbs2c" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg" class="avatar" alt="emiliaruzicka.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Emilia Ruzicka
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@emiliaruzicka.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mfplgjf2us2y" target="_blank" rel="noopener" class="timestamp">Feb 25, 2026 21:04 UTC</a>
+        </div>
+        <p class="post-text">Speaking aside, I’m pumped to connect with friends new and old this year at #NICAR26. I’m also still on the hunt for a full-time job, so if you or someone you know is looking for a data/investigative journalist, editor, or something related, please don’t hesitate to shoot me a message! (4/4)</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mfplgjf2us2y" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg" class="avatar" alt="emiliaruzicka.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Emilia Ruzicka</span>
+            <span class="handle">@emiliaruzicka.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mfplghnaqk2y" target="_blank" rel="noopener" class="timestamp">Feb 25, 2026 21:04 UTC</a>
+        </div>
+        <p class="post-text">I am impossibly excited to be speaking at #NICAR26 in Indianapolis!
+
+On Friday, I’ll be kicking things off with @stacykess.bsky.social and @patrickmgarvin.bsky.social for “Accessibility Basics.” We’ll give you a crash course in implementing more accessible practices in your own newsroom! (1/4)</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreidklrnmj7mkawtoh5w5gffd3iq7ewg3jag4gx4ulllzb35cfjbzxy@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mfplghnaqk2y" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfozuq2g6u2b" target="_blank" rel="noopener" class="timestamp">Feb 25, 2026 15:50 UTC</a>
+        </div>
+        <p class="post-text">Are you going #NICAR26? Attend "Fun with Hypotheticals: Investigating Your Dubious Data Dilemmas in Real Time". 
+
+Bring your silliest data question and watch journalists break down how they’d actually report it using real investigative methods. 
+
+Submit your hypothetical:
+https://bit.ly/4qTpUoE</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibwqint2c4mdkw74fan7rn5vrvxatydxfo4uik5rvpv4qnfr3627u@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfozuq2g6u2b" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg" class="avatar" alt="smachlis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Sharon Machlis</span>
+            <span class="handle">@smachlis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfnbrrfg7s2p" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 23:06 UTC</a>
+        </div>
+        <p class="post-text">Ooo just spotted on GitHub: Scraping Sports Data With R
+"Three R notebooks with step by step instructions on how to scrape data when it's easy, when it's a little harder, and when it's the NCAA and is awful."
+github.com/mattwaite/ni...
+For a #NICAR26 #RStats workshop by @mattwaite.bsky.social</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfnbrrfg7s2p" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:4t74pkdbpx6rri4zsb5qc6hi/bafkreidsapfpeized23bpxztz5o7kibpmr7flyqtgtgzv36vawky6yyadq@jpeg" class="avatar" alt="tylermachado.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Tyler Machado</span>
+            <span class="handle">@tylermachado.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:4t74pkdbpx6rri4zsb5qc6hi/post/3mfmslo4mns2n" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 18:34 UTC</a>
+        </div>
+        <p class="post-text">I'll be at #NICAR26 next week, and I am so excited to once again to be leading the "Building your first SvelteKit data app" hands-on demo. Now with more Svelte 5. But the same number of cats.</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4t74pkdbpx6rri4zsb5qc6hi/bafkreifjk6u53elehsusa7obaxdnexyfl6qgxtvgsvczq5et5jtkybmoyi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:4t74pkdbpx6rri4zsb5qc6hi/post/3mfmslo4mns2n" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmmnhjqqz2b" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 16:48 UTC</a>
+        </div>
+        <p class="post-text">Meet the #NICAR26 Fellows! 
+
+Sotiris Sideris is an investigative data journalist and educator from Athens, Greece, and a Nieman Fellow at Harvard based in Cambridge, Massachusetts. 
+
+He's looking forward to learning how journalists are actually applying AI in real-world investigative reporting. </p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreickztteetjxshm4do3q27qmj5p26xlwkknvpxiyk3jmky3gzb3iym@jpeg" class="post-image" loading="lazy"/>
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibrrvmopynk6mvpbefzg4g24i3y7zxiiozbv72ksxabtztvbqtpju@jpeg" class="post-image" loading="lazy"/>
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigslc3xnajfsmlcifsbct2neb4dfvx6neyozpdg4iyphkhzebjetm@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmmnhjqqz2b" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmmnglz5d22" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 16:48 UTC</a>
+        </div>
+        <p class="post-text">Meet the #NICAR26 Fellows! 
+
+Bella Davis is an Indigenous affairs reporter at New Mexico In Depth and a proud Yurok tribal member based in Albuquerque. Her reporting focuses on critical issues affecting Native communities across New Mexico. </p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibi2ijshcn3faq4xbqkijg4sgckafnngsxotkhdlkgw3tk5caefve@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmmnglz5d22" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmkann3b42u" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 16:05 UTC</a>
+        </div>
+        <p class="post-text">Meet the #NICAR26 Fellows!
+
+Jordan Gass-Pooré @jgasspoore.bsky.social is a podcast producer &amp; investigative journalist based in NYC 
+
+She is looking forward to sharpening her skills in incorporating data into audio investigations &amp; analyzing global environmental datasets for local reporting.</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifi5jrgqajjkykskuq2hnrud6fhlq2p6cyl5ator6sy6jmao7jnzy@jpeg" class="post-image" loading="lazy"/>
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiehxhvfaypab4zmvs2h2bfsomoxos4slb5n3veirnswnuixw2wbnm@jpeg" class="post-image" loading="lazy"/>
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibcjvwvmxhp3iiqbout7jbrx7eibdiszly2tnm3rwwk45rtwkavwe@jpeg" class="post-image" loading="lazy"/>
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigwkhjpsltdd7veumotjgpwbxqxxc7ud3s32yl2qrcf6h5qi3y7a4@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmkann3b42u" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmjjcxine2z" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 15:52 UTC</a>
+        </div>
+        <p class="post-text">Meet #NICAR26 Fellow Silvia Canelón, a data scientist and journalist based in Philadelphia. 
+
+She is hoping to bring back accountability story ideas for Philly and sharpen her ability to create custom interactive data visualizations. 
+
+Meet the rest of the #NICAR26 Fellows: https://bit.ly/4cAtujW</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifu2vnrmkoxyj54fjp4ftn2udetlwfs7d7rqichntkkg7xojcqjym@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmjjcxine2z" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmbu7htmb2w" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 13:35 UTC</a>
+        </div>
+        <p class="post-text">Meet your #NICAR26 Fellows!
+
+Stacy Kess, Chief of Editorial at Equal Access Public Media, is gearing up for #NICAR26 the only way she knows how: with coffee. Lots of it.
+
+Catch Stacy and her coffee-fueled data brilliance at #NICAR26!</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifhzxtqgqnloomah7g572sy2phar3t7met3f4d3b6e3x2nrzlpkj4@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfmbu7htmb2w" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:6fnzney5yhgjcbw664awibcm/bafkreihjk4w3qruyqxmbezkf2dsdjnf5f4pmgbu3bhp2bgvurll273j4ui@jpeg" class="avatar" alt="karenho.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Karen K. Ho</span>
+            <span class="handle">@karenho.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mfl7dxghfk2x" target="_blank" rel="noopener" class="timestamp">Feb 24, 2026 03:17 UTC</a>
+        </div>
+        <p class="post-text">This is like when I told other journalists "Anchorman" was 21 years old before my presentation at NICAR last year and they all made faces at me in reply.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mfl7dxghfk2x" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:sqfrmfs64l2mpqcxe5e6cpwf/bafkreiaakkunrykhglu35yxkmtooy5lz6uui2pkrxtk6zdz3s4k3a2mcbu@jpeg" class="avatar" alt="jpgarnham.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Juan Pablo Garnham</span>
+            <span class="handle">@jpgarnham.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:sqfrmfs64l2mpqcxe5e6cpwf/post/3mfktjvql3c2l" target="_blank" rel="noopener" class="timestamp">Feb 23, 2026 23:46 UTC</a>
+        </div>
+        <p class="post-text">Are you coming to the #NICAR26 conference? 
+
+Join @amondry.bsky.social and me for a conversation about how to report on housing and homelessness challenges!
+More info here: schedules.ire.org/nicar-2026/#... @ire.org</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sqfrmfs64l2mpqcxe5e6cpwf/bafkreigmnqkqsnr6rgj3wznvj6ojqtjlcnchcvfmeppokxjb7s3hbeegeq@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:sqfrmfs64l2mpqcxe5e6cpwf/post/3mfktjvql3c2l" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii@jpeg" class="avatar" alt="mikereilley.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Mike Reilley</span>
+            <span class="handle">@mikereilley.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mfkqyokhs22i" target="_blank" rel="noopener" class="timestamp">Feb 23, 2026 23:00 UTC</a>
+        </div>
+        <p class="post-text">Anyone going to #NICAR26 in Indy next week: Swing by my Thursday 9 a.m. session, "AI Tools for Journalists". We'll focus on data and other multimedia tools. 
+
+Two-hour, hands-on session. Good fun. Tools, exercises to take with you. Good fun.</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreihnr5gvco7ccx5vshsvpxenubwjgzqtwqjixwuenjmwghgywl5my4@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mfkqyokhs22i" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreibeqkamwonjotfonibm3qrc4d24n75gr3beqhp5pslqbo64exr4jm@jpeg" class="avatar" alt="jillcastellano.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Jill Castellano</span>
+            <span class="handle">@jillcastellano.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gfpljqwcoruybsvjxi5rlfsl/post/3mfkqsb5a222q" target="_blank" rel="noopener" class="timestamp">Feb 23, 2026 22:57 UTC</a>
+        </div>
+        <p class="post-text">Catch me at the #NICAR26 data journalism conference next week!</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreiggexrwkou55i6v3g3bju5woyvd4a4dh5rndhiijqoxxu6cefgwqa@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gfpljqwcoruybsvjxi5rlfsl/post/3mfkqsb5a222q" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:hieu5evszvpm4bgfhme727ie/bafkreidoggibxq2oztu5xqrpmaymr5ezfpt6ssrofhkoigvehjzf6u3ke4@jpeg" class="avatar" alt="walinchus.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Lucia Walinchus
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@walinchus.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:hieu5evszvpm4bgfhme727ie/post/3mfknynsvel27" target="_blank" rel="noopener" class="timestamp">Feb 23, 2026 22:06 UTC</a>
+        </div>
+        <p class="post-text">4/8 Next, pull in the schedule:
+
+NICAR2026 &lt;- rio::import("https://ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/nicar-2026/nicar-2026-schedule.json")
+
+Make a dataframe of all the speakers:
+
+speakers &lt;- NICAR2026$speakers
+
+ And get their socials:
+
+socials &lt;- speakers$social</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:hieu5evszvpm4bgfhme727ie/post/3mfknynsvel27" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:hieu5evszvpm4bgfhme727ie/bafkreidoggibxq2oztu5xqrpmaymr5ezfpt6ssrofhkoigvehjzf6u3ke4@jpeg" class="avatar" alt="walinchus.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Lucia Walinchus</span>
+            <span class="handle">@walinchus.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:hieu5evszvpm4bgfhme727ie/post/3mfknymkx2c27" target="_blank" rel="noopener" class="timestamp">Feb 23, 2026 22:06 UTC</a>
+        </div>
+        <p class="post-text">1/8 So you're excited to go to the @ire.org 2026 NICAR data journalism conference!
+
+And you want to follow all the speakers online. This tutorial will show you how do this quickly with #Rstats and @bsky.app.
+
+schedules.ire.org/nicar-2026/#/</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:hieu5evszvpm4bgfhme727ie/post/3mfknymkx2c27" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:kk2a54fcplihszfwvzqprfwn/bafkreiar7pmsyyk34edj6rgeqmw6xaquhvtrqcb4bcth7lxx2h2m4btz2a@jpeg" class="avatar" alt="emilyhopkins.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Emily Hopkins is reporting for Mirror Indy</span>
+            <span class="handle">@emilyhopkins.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:kk2a54fcplihszfwvzqprfwn/post/3mfjw4xiqhc2y" target="_blank" rel="noopener" class="timestamp">Feb 23, 2026 14:59 UTC</a>
+        </div>
+        <p class="post-text">Can't believe #NICAR26 is next week! Excited to see Indy crawling with data nerds. 😎</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:kk2a54fcplihszfwvzqprfwn/post/3mfjw4xiqhc2y" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:c42poah6jpwr5augawgdwm26/bafkreianjwntyvnih5x2bt22thxk62lk7ooltv6xppajje5dehtcbzkrai@jpeg" class="avatar" alt="equalaccesspublicmedia.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Equal Access Public Media (EAPM)</span>
+            <span class="handle">@equalaccesspublicmedia.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:c42poah6jpwr5augawgdwm26/post/3mffqgytavk2a" target="_blank" rel="noopener" class="timestamp">Feb 21, 2026 23:07 UTC</a>
+        </div>
+        <p class="post-text">So proud of our founder and chief of editorial @stacykess.bsky.social, one of the 19 fantastic #NICAR26 Fellows!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:c42poah6jpwr5augawgdwm26/post/3mffqgytavk2a" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:o2tkkq3qnpzfbsozy3nqkssu/bafkreigxk7gt6jlou2kfvrcdgaq4wdc5dtuhni5div2yuqwkzr56gkhtji@jpeg" class="avatar" alt="loganfinney.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Logan Finney 🗒️</span>
+            <span class="handle">@loganfinney.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:o2tkkq3qnpzfbsozy3nqkssu/post/3mfdi3tpmnk2v" target="_blank" rel="noopener" class="timestamp">Feb 21, 2026 01:32 UTC</a>
+        </div>
+        <p class="post-text">Thank you #NICAR for the skills that made this 330+ row Flourish monstrosity possible. @ire.org</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:o2tkkq3qnpzfbsozy3nqkssu/post/3mfdi3tpmnk2v" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfdd4ivk4f2t" target="_blank" rel="noopener" class="timestamp">Feb 21, 2026 00:03 UTC</a>
+        </div>
+        <p class="post-text">We’re proud to share that IRE is sponsoring 19 fellowships for journalists attending #NICAR26 in Indianapolis on March 5–8.
+
+All fellows meet IRE’s membership standards, engaging substantially in news gathering, production, research or journalism education. 
+
+Read more here: https://bit.ly/4cAtujW</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreih6na3krfqvkxtjayubcoajhehyzzvmiw4depjpk5yllljstanvn4@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfdd4ivk4f2t" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg" class="avatar" alt="reponytt.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Reponytt</span>
+            <span class="handle">@reponytt.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfc5656efp24" target="_blank" rel="noopener" class="timestamp">Feb 20, 2026 12:44 UTC</a>
+        </div>
+        <p class="post-text">ireapps har nettopp åpnet repoet ireapps/nicar-2026-dining: https://github.com/ireapps/nicar-2026-dining
+
+En guide til alle de beste spisestedene på NICAR 2026 i Indianapolis.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfc5656efp24" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfalvygxry2g" target="_blank" rel="noopener" class="timestamp">Feb 19, 2026 22:03 UTC</a>
+        </div>
+        <p class="post-text">A new Quick Hits newsletter from Investigative Reporters and Editors is out!
+
+Inside:
+- A Worldwide Virtual IRE Meetup
+- NICAR26 updates
+- $10K reporting grants
+- Award nominations
+- IRE26 early-bird deadline
+
+Check your inbox. 
+Subscribe: https://www.ire.org/newsletters/</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreib7qlaltg5ipahvwdzzhu3egrjmkn2ddi6wvlw7uouokzuapzk4ou@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfalvygxry2g" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:o5yc4qeobzkqthrnwrmvzqwg/bafkreihujvpe2dfcwk4hwvqgy7zfsuyi4emx36fl3x2tqejzxsryt3pg4m@jpeg" class="avatar" alt="openjournalism.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Open Journalism Bot</span>
+            <span class="handle">@openjournalism.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mfa6f7nnoc2n" target="_blank" rel="noopener" class="timestamp">Feb 19, 2026 18:01 UTC</a>
+        </div>
+        <p class="post-text">New open GitHub repo from IRE/NICAR!
+
+https://github.com/ireapps/nicar-2026-dining</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mfa6f7nnoc2n" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg" class="avatar" alt="reponytt.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Reponytt</span>
+            <span class="handle">@reponytt.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mf7msk3dna2y" target="_blank" rel="noopener" class="timestamp">Feb 19, 2026 12:46 UTC</a>
+        </div>
+        <p class="post-text">ireapps har nettopp åpnet repoet ireapps/NICAR26-Intro-to-R: https://github.com/ireapps/NICAR26-Intro-to-R</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mf7msk3dna2y" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:o5yc4qeobzkqthrnwrmvzqwg/bafkreihujvpe2dfcwk4hwvqgy7zfsuyi4emx36fl3x2tqejzxsryt3pg4m@jpeg" class="avatar" alt="openjournalism.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Open Journalism Bot</span>
+            <span class="handle">@openjournalism.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mf5nw3tezx2x" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 18:00 UTC</a>
+        </div>
+        <p class="post-text">New open GitHub repo from IRE/NICAR!
+
+I think this is an empty repo.
+
+https://github.com/ireapps/NICAR26-Intro-to-R</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mf5nw3tezx2x" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:jwcnmli4jkle63x4oqouiylu/bafkreicmw62o4p3saxv23ynseapfvvjdxcbegf3ylci7d5hp2g76rgj3nm@jpeg" class="avatar" alt="bunkum.us" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Forest Gregg
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@bunkum.us</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:jwcnmli4jkle63x4oqouiylu/post/3mf5julsxbs2a" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 16:48 UTC</a>
+        </div>
+        <p class="post-text">it's like early 2010s NICAR</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:jwcnmli4jkle63x4oqouiylu/post/3mf5julsxbs2a" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mf5dcs7udd27" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 14:51 UTC</a>
+        </div>
+        <p class="post-text">#NICAR26 has several pre-registration workshops that go deep into data analysis, coding, scraping and investigative techniques. 
+
+Register now and secure your seat: 
+https://www.ire.org/training/conferences/nicar-2026/ </p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreif7f3yvudrq5bbsw477lqynmfc44n4tntpe5h24wpb4zoxeflo4sy@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mf5dcs7udd27" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Stacy Kess, -30-
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mf57es5a3k25" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 13:40 UTC</a>
+        </div>
+        <p class="post-text">But wait, #NICAR26! There's more! After Accessibility Basics is the all new Implementing Accessibility hands-on session. Great for:
+• learning how to write alt text.
+• a refresher on how to use alt text.
+• practicing your alt text chops.
+• scoring goodies.
+
+schedules.ire.org/nicar-2026/#...
+2/</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mf57es5a3k25" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mf57ergvak25" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 13:40 UTC</a>
+        </div>
+        <p class="post-text">With @ire.org #NICAR26 on the brain (because I'm putting the polishing touch on the presentations), I want to remind you that you definitely want to be there for Accessibility Basics. Come for the data, stay for the digital accessibility-Star Wars tie-in.
+
+schedules.ire.org/nicar-2026/#...
+
+1/</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mf57ergvak25" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreifbrocxwrtavfyng2geebedudemk5jyxt4vpin2cymhzxgjdrtit4@jpeg" class="avatar" alt="palewi.re" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Ben Welsh</span>
+            <span class="handle">@palewi.re</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mf4uvguysbt2" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 10:33 UTC</a>
+        </div>
+        <p class="post-text">🤓 Coming to #NICAR26? Looking for things to do?
+
+Join Scott Klein and me for a free dinner on Wed. night! OpenNews is hosting a discussion of our recent story on the state of open-source in journalism.
+
+The full menu of community meals is at […]</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mf4uvguysbt2" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:ttnwl3lquudgol2wy2dihjal/bafkreih5pvrswey242b4hzpszfodxoip5ecobchrv5sfe4ejc7b7hvudde@jpeg" class="avatar" alt="tpuckey.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Tara Puckey</span>
+            <span class="handle">@tpuckey.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:ttnwl3lquudgol2wy2dihjal/post/3mf4utn3yis2r" target="_blank" rel="noopener" class="timestamp">Feb 18, 2026 10:32 UTC</a>
+        </div>
+        <p class="post-text">Really looking forward to speaking at @ire.org's NICAR Conference next month. We'll be talking about better teams (my favorite) and generally working better with other humans (necessary, IMO). 
+
+👯 Relationships are the most important piece
+
+Will I see you there?</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttnwl3lquudgol2wy2dihjal/bafkreifc2byjugepc2iq36smkwt7c77cjq64xjdyzn5qa5ugu4u5oc77ze@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:ttnwl3lquudgol2wy2dihjal/post/3mf4utn3yis2r" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mf364rckvh2e" target="_blank" rel="noopener" class="timestamp">Feb 17, 2026 18:12 UTC</a>
+        </div>
+        <p class="post-text">Heading to Indy for #NICAR26? 
+
+Sign up for a 20-min one-on-one session with a manager or newsroom leader with expertise. 
+
+#NICAR26 Office Hours will be held on Saturday, March 7 from 10:15-12:30 PM ET in Room 208: https://bit.ly/3MsiZEP
+
+Sign up before Feb. 20. 
+
+</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mf364rckvh2e" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:aljpcrrf7qt6lhlnumjum6oz/bafkreig2g4jgkwkocxq7n54rsbislm3m4bmt4wtz6euuaodx5fqhiz45ym@jpeg" class="avatar" alt="olihawkins.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Oli Hawkins</span>
+            <span class="handle">@olihawkins.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:aljpcrrf7qt6lhlnumjum6oz/post/3met5a5dcl22z" target="_blank" rel="noopener" class="timestamp">Feb 14, 2026 13:35 UTC</a>
+        </div>
+        <p class="post-text">If you're a data journalist using Python and you are going to be at NICAR, we are running an introduction to Polars workshop.
+
+schedules.ire.org/nicar-2026/#...
+bsky.app/profile/emil...</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:aljpcrrf7qt6lhlnumjum6oz/post/3met5a5dcl22z" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3meripmr4wm2o" target="_blank" rel="noopener" class="timestamp">Feb 13, 2026 21:55 UTC</a>
+        </div>
+        <p class="post-text">If you’re joining us for #NICAR26 in March and hoping to get (or give!) one-on-one guidance, the deadline to sign up for the mentorship program is TODAY, Friday, Feb. 13 at 11:59 P.M. ET. 
+
+It's one of the most meaningful parts of the conference. Sign up here: https://bit.ly/4rJjGZc</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifu7ueubpruf63yyfujdnafe4fmfdcmopnsj7lqfstbcz7n54kisi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3meripmr4wm2o" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:6fnzney5yhgjcbw664awibcm/bafkreihjk4w3qruyqxmbezkf2dsdjnf5f4pmgbu3bhp2bgvurll273j4ui@jpeg" class="avatar" alt="karenho.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Karen K. Ho</span>
+            <span class="handle">@karenho.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3meqm4qdix22p" target="_blank" rel="noopener" class="timestamp">Feb 13, 2026 13:24 UTC</a>
+        </div>
+        <p class="post-text">My hesitancy to attend NICAR in Minneapolis next month is part of a wider trend of Canadians avoiding travel the US for multiple years: www.usatoday.com/story/travel...</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3meqm4qdix22p" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3meoedqrcnk2r" target="_blank" rel="noopener" class="timestamp">Feb 12, 2026 15:59 UTC</a>
+        </div>
+        <p class="post-text">Hey #NICAR26! We're putting together a hands-on session you all know you want and need called Implementing Accessibility. 
+
+It focuses on Alt Text best practices, and how to do it for photos, graphics, maps, and more. We'll give you practice plus some goodies! 
+
+#AltText @ire.org</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3meoedqrcnk2r" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3memfqqaiu22r" target="_blank" rel="noopener" class="timestamp">Feb 11, 2026 21:19 UTC</a>
+        </div>
+        <p class="post-text">Are you heading to @ire.org #NICAR26? Looking for a job?  Sign up for a 1-on-1 feedback or career advice session with a manager!
+
+Bring your resume, a clip, or a career question and we'll match you with an expert. (Possibly me.) 
+
+Sign up: forms.gle/o2mCuhWvBa4R.... We have about 50 slots left!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3memfqqaiu22r" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3melhneemmk2r" target="_blank" rel="noopener" class="timestamp">Feb 11, 2026 12:20 UTC</a>
+        </div>
+        <p class="post-text">March is conference month! 
+
+I'll be talking about #AccessibilityBasics and teaching how to implement #Accessibility at @ire.org's #NICAR26 in Indy. Then I'll head to Detroit to talk about #AccessibleCommuniction at #NTC26 (Nonprofit Tech Conference), representing @equalaccesspublicmedia.org.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3melhneemmk2r" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mejtphgpbj2l" target="_blank" rel="noopener" class="timestamp">Feb 10, 2026 20:51 UTC</a>
+        </div>
+        <p class="post-text">It's now time to vote for your favorite #NICAR26 t-shirt designs! You have until 11:59 p.m. on Feb. 13 to vote. 
+
+Click here to vote: https://bit.ly/4cli8A8</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mejtphgpbj2l" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mejm4egvhk2f" target="_blank" rel="noopener" class="timestamp">Feb 10, 2026 18:35 UTC</a>
+        </div>
+        <p class="post-text">Voting for #NICAR26 Lightning Talks is now open!
+
+Lightning Talks are fast, 5-minute presentations focused on practical skills, tools and techniques. 
+
+Voting is open now and closes Feb. 20.
+
+The selected talks will be presented Friday, March 6 at #NICAR26.
+
+Have your say: https://bit.ly/4qrmZDa</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreia3puq6ivndhn4bcqgt7gq74cdt44cwk7do3a5w5j7juzoupvh2wu@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mejm4egvhk2f" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg" class="avatar" alt="emiliaruzicka.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Emilia Ruzicka</span>
+            <span class="handle">@emiliaruzicka.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mejczhmflk2s" target="_blank" rel="noopener" class="timestamp">Feb 10, 2026 15:52 UTC</a>
+        </div>
+        <p class="post-text">Can’t wait to join @stacykess.bsky.social and @patrickmgarvin.bsky.social to present #AccessibilityBasics and #ImplementingAccessibility at #NICAR26! If you’ll be there, come join us!!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mejczhmflk2s" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mej4zgp5yc27" target="_blank" rel="noopener" class="timestamp">Feb 10, 2026 14:05 UTC</a>
+        </div>
+        <p class="post-text">By the way, NICAR is my favorite journalism conference of the year.
+
+And it's not just all the data nerds and free coffee.
+
+I swear.
+
+(But the free coffee and being around a bunch of people who totally get me helps.)</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mej4zgp5yc27" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mej4mu2y2227" target="_blank" rel="noopener" class="timestamp">Feb 10, 2026 13:58 UTC</a>
+        </div>
+        <p class="post-text">It is less than a month until #NICAR26, and I'm headed back to Indianapolis to teach #AccessibilityBasics with my two favorite people @emiliaruzicka.bsky.social and @patrickmgarvin.bsky.social. But wait! There's more! Stick around for the new hands-on #ImplementingAccessibility session!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mej4mu2y2227" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mej44e6qoh2d" target="_blank" rel="noopener" class="timestamp">Feb 10, 2026 13:49 UTC</a>
+        </div>
+        <p class="post-text">Have questions about NICAR26 or other upcoming IRE events? Join IRE President @hinklej.bsky.social, Executive Director @ddfonline.bsky.social and Training Director Laura Moscoso  
+
+for virtual office hours this Wednesday, Feb. 11 at 1 PM ET.
+
+Register now: https://bit.ly/4kq5aDl</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibgtmacjd5gieczevzwkakra5nnjblbvw4waydc2334d2gptx5pgi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mej44e6qoh2d" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:2layh5hiy5cyqolgupiuwk7y/bafkreicjzxurlkr47nwe3wincftydvrhjntztxmohzna5fxdkwtuig3xxa@jpeg" class="avatar" alt="the-word.news" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              The Word
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@the-word.news</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:2layh5hiy5cyqolgupiuwk7y/post/3megvmh3hns27" target="_blank" rel="noopener" class="timestamp">Feb 09, 2026 16:47 UTC</a>
+        </div>
+        <p class="post-text">Reporter Hashim Quraishi is preparing a big preview of #NICAR26.
+
+And Akinyele Michael will have some great columns in store for you!
+
+If you have news to send us for the March edition, or you know a source (or a source) for one of these articles, email editor@the-word.news.
+
+3/</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:2layh5hiy5cyqolgupiuwk7y/post/3megvmh3hns27" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3megmdkcul22w" target="_blank" rel="noopener" class="timestamp">Feb 09, 2026 14:01 UTC</a>
+        </div>
+        <p class="post-text">IRE Board President @hinklej.bsky.social explains why IRE’s 2026 conference season is so critical — and how NICAR26 (March 5–8 in Indianapolis) will help journalists sharpen their reporting, storytelling and data skills.
+
+Learn more and sign up: https://bit.ly/4oDxQJH</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3megmdkcul22w" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreifbrocxwrtavfyng2geebedudemk5jyxt4vpin2cymhzxgjdrtit4@jpeg" class="avatar" alt="palewi.re" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Ben Welsh
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@palewi.re</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3megezlrhjc22" target="_blank" rel="noopener" class="timestamp">Feb 09, 2026 11:50 UTC</a>
+        </div>
+        <p class="post-text">Want to talk more about it? If you're attending the upcoming #NICAR26 conference in Indianapolis, you should join us for the OpenNews dinner we're sponsoring.
+
+More details soon. DM me if you want in.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3megezlrhjc22" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:erviwprddtaax4tuu5w2m6z3/bafkreiexvkl74jbs3rjnfbl3ggmqf3blb4ya7wngn5e3r4fl4bpwswwkta@jpeg" class="avatar" alt="ddfonline.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Diana Fuentes
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@ddfonline.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:erviwprddtaax4tuu5w2m6z3/post/3meedtnqwbc2n" target="_blank" rel="noopener" class="timestamp">Feb 08, 2026 16:24 UTC</a>
+        </div>
+        <p class="post-text">Your concerns are real, of course, Karen. There are no easy answers for safety issues. We do have lower rates for NICAR26 for unemployed members; email info@ire.org for details. If you can’t attend NICAR26, I hope you’ll consider attending AccessFest in October; same great training, all online.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:erviwprddtaax4tuu5w2m6z3/post/3meedtnqwbc2n" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg" class="avatar" alt="smachlis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Sharon Machlis</span>
+            <span class="handle">@smachlis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3meeds2lgu22e" target="_blank" rel="noopener" class="timestamp">Feb 08, 2026 16:23 UTC</a>
+        </div>
+        <p class="post-text">Conference app chatbot built in R that:
+- Answers schedule questions
+- Includes both chatbot and searchable table
+- One-click button filters table to see only sessions AI bot mentions
+Code: github.com/smach/NICAR2...
+App: smach-nicar2026-chatbot.share.connect.posit.cloud
+#RStats #RShiny #NICAR26</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibv45fxfafb3teifs5ejn5ycdrlduighqtg26jmim46zevikclc5q@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3meeds2lgu22e" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:erviwprddtaax4tuu5w2m6z3/bafkreiexvkl74jbs3rjnfbl3ggmqf3blb4ya7wngn5e3r4fl4bpwswwkta@jpeg" class="avatar" alt="ddfonline.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Diana Fuentes
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@ddfonline.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:erviwprddtaax4tuu5w2m6z3/post/3meedjbqkrk2n" target="_blank" rel="noopener" class="timestamp">Feb 08, 2026 16:18 UTC</a>
+        </div>
+        <p class="post-text">Sorry for delay in replying, Karen. And about your situation. I wish everyone could be @NICAR26. It’s our homecoming; IRE’s first confab was in Indy in 1976. Like now, journalists were under attack. It’s so much worse. But we can’t let them stop us from holding the powerful to account.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:erviwprddtaax4tuu5w2m6z3/post/3meedjbqkrk2n" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3meebyprjic2p" target="_blank" rel="noopener" class="timestamp">Feb 08, 2026 15:51 UTC</a>
+        </div>
+        <p class="post-text">⚡ DEADLINE ALERT ⚡
+
+Submit your #NICAR26 Lightning Talk pitch by tonight at 11:59 p.m. ET (Feb. 8): https://bit.ly/4kpI53I
+
+5-minute talks • anonymous submissions • attendee voting
+
+Voting opens Feb. 9.
+Talks take place March 6 at #NICAR26 in Indianapolis.
+
+Pitch it while you still can. </p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifnovatcdvk7oipaas6y5ge4tfdhuiqaujsezgpds3woltlbogfmi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3meebyprjic2p" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreichud6tkswbjowwpfqatbbffmcp4b3ubahianxrsjrs4welsxsn7e@jpeg" class="avatar" alt="hinklej.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Josh Hinkle
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@hinklej.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mebsghuzwc2j" target="_blank" rel="noopener" class="timestamp">Feb 07, 2026 16:07 UTC</a>
+        </div>
+        <p class="post-text">Join us at #NICAR26!
+-Conference Registration: tinyurl.com/38p7d556
+-Management Master Class: tinyurl.com/dfbbptzw
+-Manager Networking: tinyurl.com/4rxj6sz8
+
+@ire.org</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreiggagbkaa622vjoj4avssqaqpho3nrpj5gwng7demkkush5av2the@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mebsghuzwc2j" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreichud6tkswbjowwpfqatbbffmcp4b3ubahianxrsjrs4welsxsn7e@jpeg" class="avatar" alt="hinklej.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Josh Hinkle</span>
+            <span class="handle">@hinklej.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mebse7y5yk2j" target="_blank" rel="noopener" class="timestamp">Feb 07, 2026 16:05 UTC</a>
+        </div>
+        <p class="post-text">Headed to #NICAR26 next month in Indy? Know a news leader who could use this specialized, FREE training? Join our “Managing Investigators” master class (with tips for navigating AI)! Stick around for our manager networking session, too! Links in the 🧵!
+
+@ire.org @ecg.bsky.social @justinmyers.net</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreibz5seghjhdpbw7kwsefhi4loykdiiqb4twmtf37u54lchc5bylqi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mebse7y5yk2j" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:6fnzney5yhgjcbw664awibcm/bafkreihjk4w3qruyqxmbezkf2dsdjnf5f4pmgbu3bhp2bgvurll273j4ui@jpeg" class="avatar" alt="karenho.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Karen K. Ho</span>
+            <span class="handle">@karenho.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3meah7lryg22r" target="_blank" rel="noopener" class="timestamp">Feb 07, 2026 03:13 UTC</a>
+        </div>
+        <p class="post-text">it is not fun to realize I should probably not attend the NICAR conference next month in Indianapolis for safety and financial reasons</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3meah7lryg22r" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me7btxvy4n2f" target="_blank" rel="noopener" class="timestamp">Feb 06, 2026 16:05 UTC</a>
+        </div>
+        <p class="post-text">The #NICAR26 T-Shirt Contest deadline is approaching! If you’ve ever had a clever data-journalism T-shirt idea, now’s the time.
+
+- Submit your design
+- Community voting
+- Bragging rights
+
+For more guidelines: https://bit.ly/4qhrcJE
+
+Deadline: Friday, Feb. 6. Email the design to conference@ire.org</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me7btxvy4n2f" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me4rnzbbxg2w" target="_blank" rel="noopener" class="timestamp">Feb 05, 2026 16:10 UTC</a>
+        </div>
+        <p class="post-text">The #NICAR26 T-Shirt Contest deadline is approaching! If you’ve ever had a clever data-journalism T-shirt idea, now’s the time.
+
+- Submit your design
+- Community voting
+- Bragging rights
+
+For more guidelines: https://bit.ly/4qhrcJE
+
+Deadline: Friday, Feb. 6. Email the design to conference@ire.org</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me4rnzbbxg2w" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me4rm6ferd2c" target="_blank" rel="noopener" class="timestamp">Feb 05, 2026 16:09 UTC</a>
+        </div>
+        <p class="post-text">Still thinking about NICAR? This is your sign. 
+
+#NICAR26 is a true homecoming for IRE.
+
+2026 marks 50 years since our first conference in Indianapolis. Get your hotel discount at the JW Marriott by Feb. 9. 
+
+Don’t wait — register now.  https://www.ire.org/training/conferences/nicar-2026/</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibu5ijx5oazyaz6dfq4jr2jnywye2w7hmisyfbdclloow2le7okgi@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me4rm6ferd2c" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me24od6xw22e" target="_blank" rel="noopener" class="timestamp">Feb 04, 2026 14:49 UTC</a>
+        </div>
+        <p class="post-text">The #NICAR26 T-Shirt Contest deadline is approaching! If you’ve ever had a clever data-journalism T-shirt idea, now’s the time.
+
+- Submit your design
+- Community voting
+- Bragging rights
+
+For more guidelines: https://bit.ly/4qhrcJE
+
+Deadline: Friday, Feb. 6. Email the design to conference@ire.org</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3me24od6xw22e" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Investigative Reporters &amp; Editors
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mdxw45aj5k2q" target="_blank" rel="noopener" class="timestamp">Feb 03, 2026 17:46 UTC</a>
+        </div>
+        <p class="post-text">We look forward to recognizing the winners at the upcoming NICAR Conference in Indianapolis! Learn more about the 2025 Philip Meyer Journalism Award winners and read their stories here: bit.ly/3Zhz7f7</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibbylb65xpcwlingmh3xslri7n7azhfiutkujvpyuwoaueerigaum@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mdxw45aj5k2q" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:xvkidauft4a2v4cd57d7epvh/bafkreifhyrqq6rfftehgfinqspmtjqkmigi4rp2xqamhptzt7tzg4pf7ty@jpeg" class="avatar" alt="sophiechou.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Sophie Chou</span>
+            <span class="handle">@sophiechou.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:xvkidauft4a2v4cd57d7epvh/post/3mdxvo3267s2i" target="_blank" rel="noopener" class="timestamp">Feb 03, 2026 17:38 UTC</a>
+        </div>
+        <p class="post-text">Proud to share that @andreasuozzo.com and I received second place in @ire.org’s Philip Meyer Award for our data reporting in “Life of the Mother,” which quantified the impact of Texas’s abortion ban on pregnancy loss ❤️💔 we will be at #nicar26 next month hosting a panel on maternal health reporting!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:xvkidauft4a2v4cd57d7epvh/post/3mdxvo3267s2i" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:fafoyafpfx2ize33fk7qe65s/bafkreibltzp64wgqko2zybvena2ajvyo6rt7gzw7qnyr3wfmp6qorslkhu@jpeg" class="avatar" alt="2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">2rZiKKbOU3nTafniR2qMMSE0gwZ</span>
+            <span class="handle">@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mdxp6qh5skm2" target="_blank" rel="noopener" class="timestamp">Feb 03, 2026 15:42 UTC</a>
+        </div>
+        <p class="post-text">It’s time for the NICAR 2026 T-shirt contest! IRE announces winners of the 2025 Philip Meyer Journalism Award Earn bragging rights and help raise money for future training events by participating...
+
+#IRE #News #Uncategorized #nicar26
+
+Origin | Interest | Match</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mdxp6qh5skm2" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:fafoyafpfx2ize33fk7qe65s/bafkreibltzp64wgqko2zybvena2ajvyo6rt7gzw7qnyr3wfmp6qorslkhu@jpeg" class="avatar" alt="2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">2rZiKKbOU3nTafniR2qMMSE0gwZ</span>
+            <span class="handle">@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mdupwa5vdh22" target="_blank" rel="noopener" class="timestamp">Feb 02, 2026 11:17 UTC</a>
+        </div>
+        <p class="post-text">Sign up for the NICAR26 mentorship program Promotions and new staff strengthen IRE (January 27, 2026) — IRE is now accepting applications for the NICAR26 mentorship program! Our annual data journ...
+
+#IRE #News #Uncategorized
+
+Origin | Interest | Match</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mdupwa5vdh22" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:aljpcrrf7qt6lhlnumjum6oz/bafkreig2g4jgkwkocxq7n54rsbislm3m4bmt4wtz6euuaodx5fqhiz45ym@jpeg" class="avatar" alt="olihawkins.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Oli Hawkins</span>
+            <span class="handle">@olihawkins.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:aljpcrrf7qt6lhlnumjum6oz/post/3mdss342yjs2y" target="_blank" rel="noopener" class="timestamp">Feb 01, 2026 16:50 UTC</a>
+        </div>
+        <p class="post-text">Looks like me and @eadehemingway.bsky.social are going to be running a workshop on data analysis with @pola.rs at NICAR in March. Maybe see some of you there!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:aljpcrrf7qt6lhlnumjum6oz/post/3mdss342yjs2y" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:f4oqzopads42k7wmx5dqoqno/bafkreiedgioapp2qweqzt6ugs5t6haoh2mu5z24xyltqtnrbn26ypiyf5e@jpeg" class="avatar" alt="allanlasser.com" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Allan Lasser</span>
+            <span class="handle">@allanlasser.com</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:f4oqzopads42k7wmx5dqoqno/post/3mdmhriy4z226" target="_blank" rel="noopener" class="timestamp">Jan 30, 2026 04:30 UTC</a>
+        </div>
+        <p class="post-text">I’m excited to have NICAR 2026 happening in my backyard! Let me know if you’re looking for things to do, eat, or see around Indy</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:f4oqzopads42k7wmx5dqoqno/post/3mdmhriy4z226" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mdluyxpnl32p" target="_blank" rel="noopener" class="timestamp">Jan 29, 2026 22:54 UTC</a>
+        </div>
+        <p class="post-text">Ooh! Look at this nifty bunch!
+
+Are you ready? #NICAR26
+
+go.bsky.app/H7iUZYd</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mdluyxpnl32p" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mdkx5sldf327" target="_blank" rel="noopener" class="timestamp">Jan 29, 2026 14:00 UTC</a>
+        </div>
+        <p class="post-text">Start your engines, journalists. The NICAR conference is heading to Indianapolis this March. 
+
+If your reporting relies on data, #NICAR26 is the premier conference for you. 
+
+Early-bird registration for #NICAR26 ends on Friday, Jan. 30.
+
+Register here: https://bit.ly/4oDxQJH</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mdkx5sldf327" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:6fnzney5yhgjcbw664awibcm/bafkreihjk4w3qruyqxmbezkf2dsdjnf5f4pmgbu3bhp2bgvurll273j4ui@jpeg" class="avatar" alt="karenho.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Karen K. Ho</span>
+            <span class="handle">@karenho.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mdje5ti74s2k" target="_blank" rel="noopener" class="timestamp">Jan 28, 2026 22:47 UTC</a>
+        </div>
+        <p class="post-text">I don't know how I would do it, but I think it would be funny to pitch a lightning talk about Heated Rivalry for NICAR, the investigative journalism conference focused on data reporting</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mdje5ti74s2k" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa@jpeg" class="avatar" alt="laurakurtzberg.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Laura Kurtzberg 🌻</span>
+            <span class="handle">@laurakurtzberg.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mdj5nrwk4k23" target="_blank" rel="noopener" class="timestamp">Jan 28, 2026 20:51 UTC</a>
+        </div>
+        <p class="post-text">I am so looking forward to being around this community of data journalists. If you are a NICAR speaker and I missed you, please DM me so I can add you to this starter pack! 
+go.bsky.app/H7iUZYd</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mdj5nrwk4k23" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:fbfp2xfdes74gd23obgomevo/bafkreihcnzrvjnzcfc5ly46j2l36r2vhfbrg4ghfyzdt4xpuz7yboiimtm@jpeg" class="avatar" alt="fishnette.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">sandra fish</span>
+            <span class="handle">@fishnette.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:fbfp2xfdes74gd23obgomevo/post/3mde275ihsk2w" target="_blank" rel="noopener" class="timestamp">Jan 26, 2026 20:06 UTC</a>
+        </div>
+        <p class="post-text">Hey, data journos, still time to get discounted rates for NICAR in Indianapolis! Check out the program and all the deets here:</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:fbfp2xfdes74gd23obgomevo/post/3mde275ihsk2w" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiecvazu7v2dhwuvj4xeuf7qozd2cad3ad5x6fvfzks5sjdnflryf4@jpeg" class="avatar" alt="ire.org" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Investigative Reporters &amp; Editors</span>
+            <span class="handle">@ire.org</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mczn45ys322z" target="_blank" rel="noopener" class="timestamp">Jan 22, 2026 16:45 UTC</a>
+        </div>
+        <p class="post-text">The early bird deadline for NICAR26 has been extended to Jan 30, 2026! The cutoff for the hotel rate is Feb 9, 2026. 
+
+Register now: https://bit.ly/4oDxQJH</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreif7f3yvudrq5bbsw477lqynmfc44n4tntpe5h24wpb4zoxeflo4sy@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mczn45ys322z" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:fafoyafpfx2ize33fk7qe65s/bafkreibltzp64wgqko2zybvena2ajvyo6rt7gzw7qnyr3wfmp6qorslkhu@jpeg" class="avatar" alt="2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">2rZiKKbOU3nTafniR2qMMSE0gwZ</span>
+            <span class="handle">@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mcxyr4kiay72" target="_blank" rel="noopener" class="timestamp">Jan 22, 2026 01:19 UTC</a>
+        </div>
+        <p class="post-text">It’s time for the NICAR 2026 T-shirt contest! It's time for the NICAR 2026 T-shirt contest! Earn bragging rights and help raise money for future training events by participating in the NICAR ...
+
+#IRE #News #Uncategorized #nicar26
+
+Origin | Interest | Match</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mcxyr4kiay72" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:fafoyafpfx2ize33fk7qe65s/bafkreibltzp64wgqko2zybvena2ajvyo6rt7gzw7qnyr3wfmp6qorslkhu@jpeg" class="avatar" alt="2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">2rZiKKbOU3nTafniR2qMMSE0gwZ</span>
+            <span class="handle">@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mcxyq3r674r2" target="_blank" rel="noopener" class="timestamp">Jan 22, 2026 01:19 UTC</a>
+        </div>
+        <p class="post-text">It’s time for the NICAR 2026 T-shirt contest! It's time for the NICAR 2026 T-shirt contest! Earn bragging rights and help raise money for future training events by participating in the NICAR ...
+
+#IRE #News #Uncategorized #nicar26
+
+Origin | Interest | Match</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:fafoyafpfx2ize33fk7qe65s/post/3mcxyq3r674r2" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreifbrocxwrtavfyng2geebedudemk5jyxt4vpin2cymhzxgjdrtit4@jpeg" class="avatar" alt="palewi.re" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Ben Welsh
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@palewi.re</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mcu5qglwsq72" target="_blank" rel="noopener" class="timestamp">Jan 20, 2026 12:32 UTC</a>
+        </div>
+        <p class="post-text">Starting Saturday at 9, we'll work through "Go Big with GitHub Actions," a hands-on class that debuted at the last NICAR data journalism conference. https://palewi.re/docs/go-big-with-github-actions/
+
+You should come! There will be bagels.</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreicv3wvkdyzhqmpy5oh3ttblbtil6pjfid4wawm4anwedtng4tu4lu@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mcu5qglwsq72" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreichud6tkswbjowwpfqatbbffmcp4b3ubahianxrsjrs4welsxsn7e@jpeg" class="avatar" alt="hinklej.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Josh Hinkle</span>
+            <span class="handle">@hinklej.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mccsojp42k2u" target="_blank" rel="noopener" class="timestamp">Jan 13, 2026 14:53 UTC</a>
+        </div>
+        <p class="post-text">Ask us anything (virtually) on Wednesday at Noon CST/1p ET! We’re ready to answer your questions about #NICAR26, the @ire.org Awards and more! Members can register here: bit.ly/49SOQak #IREforAll</p>
+        <div class="post-images">
+          <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreifksx7yvkorwdurfdzsed7xxi5bgrscc4wzch4qolxsddavmvj5em@jpeg" class="post-image" loading="lazy"/>
+        </div>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mccsojp42k2u" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreichud6tkswbjowwpfqatbbffmcp4b3ubahianxrsjrs4welsxsn7e@jpeg" class="avatar" alt="hinklej.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Josh Hinkle</span>
+            <span class="handle">@hinklej.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mcbhar5cls24" target="_blank" rel="noopener" class="timestamp">Jan 13, 2026 01:56 UTC</a>
+        </div>
+        <p class="post-text">This month, @ire.org is focused on getting you ready for #NICAR26! Our annual data journalism conference heads to Indianapolis March 5-8. Learn more in my latest President’s Message: bit.ly/4aXRo8q #IREforAll</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mcbhar5cls24" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:6fnzney5yhgjcbw664awibcm/bafkreihjk4w3qruyqxmbezkf2dsdjnf5f4pmgbu3bhp2bgvurll273j4ui@jpeg" class="avatar" alt="karenho.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Karen K. Ho</span>
+            <span class="handle">@karenho.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mcbem5uljk2i" target="_blank" rel="noopener" class="timestamp">Jan 13, 2026 01:09 UTC</a>
+        </div>
+        <p class="post-text">I am finally going to pitch all the NICAR sessions I wish other people would present like "Useful datasets for non-American journalists", "Intro to no-code data analysis using only Excel or Google Sheets" and "How to buy nice clothes on Goodwill Auctions when you don't make a lot of money."</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mcbem5uljk2i" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidgvfluiay6jfvda33hosift4afcvpxieesm6b25xu3aa7gsy62sm@jpeg" class="avatar" alt="dwillis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Derek Willis</span>
+            <span class="handle">@dwillis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mbxg57zqw22h" target="_blank" rel="noopener" class="timestamp">Jan 09, 2026 02:10 UTC</a>
+        </div>
+        <p class="post-text">Paging my #NICAR pals:</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mbxg57zqw22h" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiewl57f52tt6jrd7gtn75edweos7z6bjxsqhottxw4l7zme6o55ma@jpeg" class="avatar" alt="simonwillison.net" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">
+              Simon Willison
+              <span class="reply-badge">reply</span>
+            </span>
+            <span class="handle">@simonwillison.net</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mbwcmkv5ck27" target="_blank" rel="noopener" class="timestamp">Jan 08, 2026 15:34 UTC</a>
+        </div>
+        <p class="post-text">Are you coming to NICAR? I had a session accepted on using coding agent skills for exactly this kind of thing!</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mbwcmkv5ck27" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidgvfluiay6jfvda33hosift4afcvpxieesm6b25xu3aa7gsy62sm@jpeg" class="avatar" alt="dwillis.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Derek Willis</span>
+            <span class="handle">@dwillis.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mbpgolutf223" target="_blank" rel="noopener" class="timestamp">Jan 05, 2026 21:58 UTC</a>
+        </div>
+        <p class="post-text">To my NICAR pals: 
+
+I found a Caspio site.
+
+Only a few of you will know what this means, but I had to tell someone.</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mbpgolutf223" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+      <article class="card">
+        <div class="card-header">
+          <img src="https://cdn.bsky.app/img/avatar/plain/did:plc:zdwloxarpdonujopehny5oht/bafkreigyjaihrf5xw4yrajv7sxxkkpmstzxsdiz7ltiflfjwpugb7mx5eq@jpeg" class="avatar" alt="stacykess.bsky.social" loading="lazy"/>
+          <div class="author-info">
+            <span class="display-name">Stacy Kess, -30-</span>
+            <span class="handle">@stacykess.bsky.social</span>
+          </div>
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mbouy4a4h22u" target="_blank" rel="noopener" class="timestamp">Jan 05, 2026 16:41 UTC</a>
+        </div>
+        <p class="post-text">I'm leading an Accessibility Basics (sort of an Accessibility Basics II, if you will) panel in March for @ire.org #NICAR26. With it leaning ever more into movie references, one thing is for certain.
+
+I need a pyrotechnics display to pull this whole thing off properly. 
+
+Just saying...</p>
+        <div class="card-footer">
+          <a href="https://bsky.app/profile/did:plc:zdwloxarpdonujopehny5oht/post/3mbouy4a4h22u" target="_blank" rel="noopener" class="view-link">View on Bluesky →</a>
+        </div>
+      </article>
+    </main>
+  </body>
+</html>
+</html>
