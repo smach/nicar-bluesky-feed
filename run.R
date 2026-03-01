@@ -3,7 +3,7 @@ source("R/render_html.R")
 
 num_days_back <- as.integer(Sys.Date() - as.Date("2026-01-01"))
 
-posts <- fetch_nicar_posts(days_back = num_days_back, limit = 500)
+posts <- fetch_nicar_posts(days_back = num_days_back, limit = 800)
 
 if (nrow(posts) == 0) {
   message("No posts found. Exiting.")
