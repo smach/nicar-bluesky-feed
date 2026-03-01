@@ -4,7 +4,7 @@ on:
   schedule:
     # Conference mode: every 20 minutes
     # Post-conference: change to  0 */3 * * *  and remove the timezone check step
-    - cron: '*/20 * * * *'
+    - cron: '*/30 * * * *'
   workflow_dispatch:
 
 jobs:
