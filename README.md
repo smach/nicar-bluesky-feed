@@ -1,6 +1,6 @@
 # NICAR 2026 Bluesky Feed
 
-This projects aggregates Bluesky posts about the NICAR conference and creates a static HTML feed page to display them. The data updates automatically via an R script and GitHub Actions. Each post links back to the original on Bluesky, and replies are labeled with a `[reply]` badge.
+This projects aggregates Bluesky posts about the NICAR conference and creates a static HTML feed page to display them. It also should generate an RSS feed from these posts. The data updates automatically via an R script and GitHub Actions. Each post links back to the original on Bluesky, and replies are labeled with a `[reply]` badge.
 
 This was created based on idea of mine and a lot of back and forth between me and Claude Opus 4.5, but almost all the code was written by Claude. As was most of the following README, lightly edited by me and OpenAI Codex (I'm experimenting with different LLMs).
 
