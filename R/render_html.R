@@ -277,13 +277,36 @@ render_feed_rss <- function(posts, output_path = "output/feed.xml",
     # Author line for title
     author <- paste0(post$author_display_name, " (@", post$author_handle, ")")
 
+    # Build image HTML for description and media:content elements
+    imgs <- post$image_urls[[1]]
+    imgs <- if (length(imgs) > 0) imgs[!is.na(imgs)] else character(0)
+
+    img_html <- if (length(imgs) > 0) {
+      paste0(
+        "<br/><br/>",
+        paste0('<img src="', imgs, '" style="max-width:100%;" />', collapse = " ")
+      )
+    } else {
+      ""
+    }
+
+    media_xml <- if (length(imgs) > 0) {
+      paste0(
+        "\n",
+        paste0('  <media:content url="', xml_escape(imgs),
+               '" medium="image" type="image/jpeg" />', collapse = "\n")
+      )
+    } else {
+      ""
+    }
+
     glue::glue(
       "    <item>
       <title>{xml_escape(author)}</title>
       <link>{xml_escape(post_url)}</link>
       <guid isPermaLink=\"true\">{xml_escape(post_url)}</guid>
       <pubDate>{pub_date}</pubDate>
-      <description><![CDATA[{post$post_text}]]></description>
+      <description><![CDATA[{post$post_text}{img_html}]]></description>{media_xml}
     </item>"
     )
   })
@@ -300,7 +323,7 @@ render_feed_rss <- function(posts, output_path = "output/feed.xml",
 
   rss <- glue::glue(
     '<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>NICAR 2026 Bluesky Feed</title>
     <link>{xml_escape(site_link)}</link>
