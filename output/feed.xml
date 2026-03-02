@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>NICAR 2026 Bluesky Feed</title>
     <link>https://bsky.app</link>
     <description>Bluesky posts about the NICAR 2026 conference (#NICAR26, #NICAR2026)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 02 Mar 2026 21:21:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Mar 2026 21:31:46 +0000</lastBuildDate>
 
+<item>
+  <title>Tejal Wakchoure (@tejaldehyde.bsky.social)</title>
+  <link>https://bsky.app/profile/did:plc:gnx6i2bam3kppwm7bgkxonz6/post/3mg477u4vwk2l</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:gnx6i2bam3kppwm7bgkxonz6/post/3mg477u4vwk2l</guid>
+  <pubDate>Mon, 02 Mar 2026 21:30:28 +0000</pubDate>
+  <description><![CDATA[I'm moderating a panel at NICAR this week! Come hear @allanlasser.com, @elizabethrenter.bsky.social, @arlenemartinez.bsky.social and I talk about career pivots and finding your niche in news or news-adjacent roles. Stop by, say hi and bring your questions! schedules.ire.org/nicar-2026/#...]]></description>
+</item>
 <item>
   <title>Christian McDonald (@crit.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:mm4dfosoyai2zrhrmkezqisa/post/3mg44trifo22v</link>
@@ -53,7 +60,8 @@ schedules.ire.org/nicar-2026/#...]]></description>
 
 Join this hands-on #NICAR26 session designed for journalists and data pros who want faster, cleaner workflows.
 
-You’ll learn through real-world data journalism examples from Eade Hemingway and Oliver Hawkins of the Financial Times.]]></description>
+You’ll learn through real-world data journalism examples from Eade Hemingway and Oliver Hawkins of the Financial Times.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibcrum7kuxte2yluxqbs7cgtrzb444nnlkwyivj7hj4xl2o6y4u6u@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibcrum7kuxte2yluxqbs7cgtrzb444nnlkwyivj7hj4xl2o6y4u6u@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -62,7 +70,8 @@ You’ll learn through real-world data journalism examples from Eade Hemingway a
   <pubDate>Mon, 02 Mar 2026 16:14:08 +0000</pubDate>
   <description><![CDATA[When should journalists use AI and when shouldn’t we?
 
-The #NICAR26 panel “How to Use AI Responsibly” brings together newsroom leaders to discuss ethics, disclosure and combining AI tools with human review.]]></description>
+The #NICAR26 panel “How to Use AI Responsibly” brings together newsroom leaders to discuss ethics, disclosure and combining AI tools with human review.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiaauw5jcbbkrauuaeh26es6npg7gizqx7r4mmpyoeguegoswdj4sy@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiaauw5jcbbkrauuaeh26es6npg7gizqx7r4mmpyoeguegoswdj4sy@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -76,7 +85,8 @@ The #NICAR26 panel “How to Use AI Responsibly” brings together newsroom lead
 With:
 Disha Raychaudhuri (Reuters)
 Duy Nguyen (The New York Times)
-Clare Farley (Reuters)]]></description>
+Clare Farley (Reuters)<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigd2qpqntznzmkn45dsuvjo6nfovce7vjuprnem7ihp5l4cxkp7mm@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigd2qpqntznzmkn45dsuvjo6nfovce7vjuprnem7ihp5l4cxkp7mm@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Sharon Machlis (@smachlis.bsky.social)</title>
@@ -106,7 +116,8 @@ bsky.app/profile/smac...
   <link>https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mfwnkj7hac22</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mfwnkj7hac22</guid>
   <pubDate>Sat, 28 Feb 2026 16:31:16 +0000</pubDate>
-  <description><![CDATA[Just playing around with some NICAR-L archives:]]></description>
+  <description><![CDATA[Just playing around with some NICAR-L archives:<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidaoql6sewdh4cvko5arzoa24uiga5cpangprkl5w3yfw4fhe4gke@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidaoql6sewdh4cvko5arzoa24uiga5cpangprkl5w3yfw4fhe4gke@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>The Word (@the-word.news)</title>
@@ -144,7 +155,8 @@ We’re talking:
 ✨ Memberships, programming & projects
 
 🕒 12 p.m. PT / 3 p.m. ET
-📍 LIVE on IG @ire_nicar + @poynter_institute]]></description>
+📍 LIVE on IG @ire_nicar + @poynter_institute<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreih4h42iuiimtzcuuirpqgs7scezouh4zgeswqtcb4fvv4sg63dqmy@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreih4h42iuiimtzcuuirpqgs7scezouh4zgeswqtcb4fvv4sg63dqmy@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Sharon Machlis (@smachlis.bsky.social)</title>
@@ -162,7 +174,8 @@ We’re talking:
 App: apps.machlis.com/shiny/nicar2...
 #RStats code: github.com/smach/bskyconf
 #RShiny 
-[Did this for Twitter years ago, now updated]]]></description>
+[Did this for Twitter years ago, now updated]<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreia6bbbprk6cdpvnyf2ghu3i7nndnaci3xrxwvguc62qjwnhjyr72a@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreia6bbbprk6cdpvnyf2ghu3i7nndnaci3xrxwvguc62qjwnhjyr72a@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -173,7 +186,8 @@ App: apps.machlis.com/shiny/nicar2...
 
 This session is perfect for beginners. 
 
-Led by Aarushi Sahejpal from American University and Dhrumil Mehta from Columbia University. Register for #NICAR26: https://bit.ly/4oDxQJH]]></description>
+Led by Aarushi Sahejpal from American University and Dhrumil Mehta from Columbia University. Register for #NICAR26: https://bit.ly/4oDxQJH<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiat7o66yhdo5jd2y3fmq5ptym7jfon7ib6zy7jzzq7hnfhlb7pg5q@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiat7o66yhdo5jd2y3fmq5ptym7jfon7ib6zy7jzzq7hnfhlb7pg5q@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -182,7 +196,8 @@ Led by Aarushi Sahejpal from American University and Dhrumil Mehta from Columbia
   <pubDate>Thu, 26 Feb 2026 22:01:05 +0000</pubDate>
   <description><![CDATA[Want to build a dynamic, data-driven voter guide for your local elections? 
 
-At this hands-on #NICAR26 session, Adam Marton and Jerry Zremski from the University of Maryland will show you how the Local News Network creates its signature online voter guides using SvelteKit + Datasette.]]></description>
+At this hands-on #NICAR26 session, Adam Marton and Jerry Zremski from the University of Maryland will show you how the Local News Network creates its signature online voter guides using SvelteKit + Datasette.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiduxfoxwhafiisvaveczqj5hhlbq7lglef3hr756xrroils3ths6q@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiduxfoxwhafiisvaveczqj5hhlbq7lglef3hr756xrroils3ths6q@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Equal Access Public Media (EAPM) (@equalaccesspublicmedia.org)</title>
@@ -199,7 +214,8 @@ At this hands-on #NICAR26 session, Adam Marton and Jerry Zremski from the Univer
   <description><![CDATA[The Help Desk will be at #NICAR26 in Indianapolis! 
 
 Find us in the exhibitor area, where you can pick up swag, tell us about what’s working for your news organization or tell us about a challenge your newsroom is facing.
-https://www.ire.org/training/conferences/nicar-2026/ ]]></description>
+https://www.ire.org/training/conferences/nicar-2026/ <br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xyvwy33gyvh2gac7y3ynyogz/bafkreiekbdp7rh5uu3aggfqjur5a2w3qhfcpady4ucgosqqj5k42zukote@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:xyvwy33gyvh2gac7y3ynyogz/bafkreiekbdp7rh5uu3aggfqjur5a2w3qhfcpady4ucgosqqj5k42zukote@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -210,7 +226,8 @@ https://www.ire.org/training/conferences/nicar-2026/ ]]></description>
 
 At #NICAR26, “Using Immigration Data to Tell Stories in Your Community” breaks it down and shows you how to turn messy data into meaningful local stories.
 
-Come ready to dig in.]]></description>
+Come ready to dig in.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibmzvgvkac6wnihvs235vjxlttxjjrhsfy7zamlmwbgqd3xcqsl3m@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibmzvgvkac6wnihvs235vjxlttxjjrhsfy7zamlmwbgqd3xcqsl3m@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Silvia Canelón (@silviacanelon.com)</title>
@@ -266,14 +283,16 @@ Fret not. You can still hit the wait list. And we will be releasing an online te
   <link>https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mfq3cextus2n</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mfq3cextus2n</guid>
   <pubDate>Thu, 26 Feb 2026 01:48:22 +0000</pubDate>
-  <description><![CDATA[LEARN LIKE A BOSS! Are you a news leader attending #NICAR26 in Indy next week who could use some specialized, FREE @ire.org training? Register for our “Managing Investigators” master class (featuring tips for navigating AI)! And stick around for our manager networking session after the class! (1/2)]]></description>
+  <description><![CDATA[LEARN LIKE A BOSS! Are you a news leader attending #NICAR26 in Indy next week who could use some specialized, FREE @ire.org training? Register for our “Managing Investigators” master class (featuring tips for navigating AI)! And stick around for our manager networking session after the class! (1/2)<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreiamht3k3ouxgd47jhftzv3p5psxy4uzof4k3w6rbdacbf5lfta2xi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreiamht3k3ouxgd47jhftzv3p5psxy4uzof4k3w6rbdacbf5lfta2xi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Steven Rich (@datab.ae)</title>
   <link>https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mfptg4xnis2w</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mfptg4xnis2w</guid>
   <pubDate>Wed, 25 Feb 2026 23:27:17 +0000</pubDate>
-  <description><![CDATA[i'm so excited and terrified to announce that my lightning talk for #NICAR26 was accepted and that i'll give it next week in indianapolis. it will detail something i've struggled quietly with and kept largely private but am ready to talk more openly about. www.ire.org/2026/02/25/a...]]></description>
+  <description><![CDATA[i'm so excited and terrified to announce that my lightning talk for #NICAR26 was accepted and that i'll give it next week in indianapolis. it will detail something i've struggled quietly with and kept largely private but am ready to talk more openly about. www.ire.org/2026/02/25/a...<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreihorexscrtn3ucu2f6oxu7udd7lmi62its2ucrpbjrrvyqttvlchu@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreihorexscrtn3ucu2f6oxu7udd7lmi62its2ucrpbjrrvyqttvlchu@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Open Journalism Bot (@openjournalism.bsky.social)</title>
@@ -305,7 +324,8 @@ https://github.com/ireapps/nicar-2026-local-guide]]></description>
   <pubDate>Wed, 25 Feb 2026 21:04:19 +0000</pubDate>
   <description><![CDATA[I am impossibly excited to be speaking at #NICAR26 in Indianapolis!
 
-On Friday, I’ll be kicking things off with @stacykess.bsky.social and @patrickmgarvin.bsky.social for “Accessibility Basics.” We’ll give you a crash course in implementing more accessible practices in your own newsroom! (1/4)]]></description>
+On Friday, I’ll be kicking things off with @stacykess.bsky.social and @patrickmgarvin.bsky.social for “Accessibility Basics.” We’ll give you a crash course in implementing more accessible practices in your own newsroom! (1/4)<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreidklrnmj7mkawtoh5w5gffd3iq7ewg3jag4gx4ulllzb35cfjbzxy@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreidklrnmj7mkawtoh5w5gffd3iq7ewg3jag4gx4ulllzb35cfjbzxy@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -317,7 +337,8 @@ On Friday, I’ll be kicking things off with @stacykess.bsky.social and @patrick
 Bring your silliest data question and watch journalists break down how they’d actually report it using real investigative methods. 
 
 Submit your hypothetical:
-https://bit.ly/4qTpUoE]]></description>
+https://bit.ly/4qTpUoE<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibwqint2c4mdkw74fan7rn5vrvxatydxfo4uik5rvpv4qnfr3627u@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibwqint2c4mdkw74fan7rn5vrvxatydxfo4uik5rvpv4qnfr3627u@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Sharon Machlis (@smachlis.bsky.social)</title>
@@ -334,7 +355,8 @@ For a #NICAR26 #RStats workshop by @mattwaite.bsky.social]]></description>
   <link>https://bsky.app/profile/did:plc:4t74pkdbpx6rri4zsb5qc6hi/post/3mfmslo4mns2n</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:4t74pkdbpx6rri4zsb5qc6hi/post/3mfmslo4mns2n</guid>
   <pubDate>Tue, 24 Feb 2026 18:34:31 +0000</pubDate>
-  <description><![CDATA[I'll be at #NICAR26 next week, and I am so excited to once again to be leading the "Building your first SvelteKit data app" hands-on demo. Now with more Svelte 5. But the same number of cats.]]></description>
+  <description><![CDATA[I'll be at #NICAR26 next week, and I am so excited to once again to be leading the "Building your first SvelteKit data app" hands-on demo. Now with more Svelte 5. But the same number of cats.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4t74pkdbpx6rri4zsb5qc6hi/bafkreifjk6u53elehsusa7obaxdnexyfl6qgxtvgsvczq5et5jtkybmoyi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4t74pkdbpx6rri4zsb5qc6hi/bafkreifjk6u53elehsusa7obaxdnexyfl6qgxtvgsvczq5et5jtkybmoyi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -345,7 +367,10 @@ For a #NICAR26 #RStats workshop by @mattwaite.bsky.social]]></description>
 
 Sotiris Sideris is an investigative data journalist and educator from Athens, Greece, and a Nieman Fellow at Harvard based in Cambridge, Massachusetts. 
 
-He's looking forward to learning how journalists are actually applying AI in real-world investigative reporting. ]]></description>
+He's looking forward to learning how journalists are actually applying AI in real-world investigative reporting. <br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreickztteetjxshm4do3q27qmj5p26xlwkknvpxiyk3jmky3gzb3iym@jpeg" style="max-width:100%;" /> <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibrrvmopynk6mvpbefzg4g24i3y7zxiiozbv72ksxabtztvbqtpju@jpeg" style="max-width:100%;" /> <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigslc3xnajfsmlcifsbct2neb4dfvx6neyozpdg4iyphkhzebjetm@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreickztteetjxshm4do3q27qmj5p26xlwkknvpxiyk3jmky3gzb3iym@jpeg" medium="image" type="image/jpeg" />
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibrrvmopynk6mvpbefzg4g24i3y7zxiiozbv72ksxabtztvbqtpju@jpeg" medium="image" type="image/jpeg" />
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigslc3xnajfsmlcifsbct2neb4dfvx6neyozpdg4iyphkhzebjetm@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -354,7 +379,8 @@ He's looking forward to learning how journalists are actually applying AI in rea
   <pubDate>Tue, 24 Feb 2026 16:48:06 +0000</pubDate>
   <description><![CDATA[Meet the #NICAR26 Fellows! 
 
-Bella Davis is an Indigenous affairs reporter at New Mexico In Depth and a proud Yurok tribal member based in Albuquerque. Her reporting focuses on critical issues affecting Native communities across New Mexico. ]]></description>
+Bella Davis is an Indigenous affairs reporter at New Mexico In Depth and a proud Yurok tribal member based in Albuquerque. Her reporting focuses on critical issues affecting Native communities across New Mexico. <br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibi2ijshcn3faq4xbqkijg4sgckafnngsxotkhdlkgw3tk5caefve@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibi2ijshcn3faq4xbqkijg4sgckafnngsxotkhdlkgw3tk5caefve@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -365,7 +391,11 @@ Bella Davis is an Indigenous affairs reporter at New Mexico In Depth and a proud
 
 Jordan Gass-Pooré @jgasspoore.bsky.social is a podcast producer & investigative journalist based in NYC 
 
-She is looking forward to sharpening her skills in incorporating data into audio investigations & analyzing global environmental datasets for local reporting.]]></description>
+She is looking forward to sharpening her skills in incorporating data into audio investigations & analyzing global environmental datasets for local reporting.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifi5jrgqajjkykskuq2hnrud6fhlq2p6cyl5ator6sy6jmao7jnzy@jpeg" style="max-width:100%;" /> <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiehxhvfaypab4zmvs2h2bfsomoxos4slb5n3veirnswnuixw2wbnm@jpeg" style="max-width:100%;" /> <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibcjvwvmxhp3iiqbout7jbrx7eibdiszly2tnm3rwwk45rtwkavwe@jpeg" style="max-width:100%;" /> <img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigwkhjpsltdd7veumotjgpwbxqxxc7ud3s32yl2qrcf6h5qi3y7a4@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifi5jrgqajjkykskuq2hnrud6fhlq2p6cyl5ator6sy6jmao7jnzy@jpeg" medium="image" type="image/jpeg" />
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreiehxhvfaypab4zmvs2h2bfsomoxos4slb5n3veirnswnuixw2wbnm@jpeg" medium="image" type="image/jpeg" />
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibcjvwvmxhp3iiqbout7jbrx7eibdiszly2tnm3rwwk45rtwkavwe@jpeg" medium="image" type="image/jpeg" />
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreigwkhjpsltdd7veumotjgpwbxqxxc7ud3s32yl2qrcf6h5qi3y7a4@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -376,7 +406,8 @@ She is looking forward to sharpening her skills in incorporating data into audio
 
 She is hoping to bring back accountability story ideas for Philly and sharpen her ability to create custom interactive data visualizations. 
 
-Meet the rest of the #NICAR26 Fellows: https://bit.ly/4cAtujW]]></description>
+Meet the rest of the #NICAR26 Fellows: https://bit.ly/4cAtujW<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifu2vnrmkoxyj54fjp4ftn2udetlwfs7d7rqichntkkg7xojcqjym@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifu2vnrmkoxyj54fjp4ftn2udetlwfs7d7rqichntkkg7xojcqjym@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -387,7 +418,8 @@ Meet the rest of the #NICAR26 Fellows: https://bit.ly/4cAtujW]]></description>
 
 Stacy Kess, Chief of Editorial at Equal Access Public Media, is gearing up for #NICAR26 the only way she knows how: with coffee. Lots of it.
 
-Catch Stacy and her coffee-fueled data brilliance at #NICAR26!]]></description>
+Catch Stacy and her coffee-fueled data brilliance at #NICAR26!<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifhzxtqgqnloomah7g572sy2phar3t7met3f4d3b6e3x2nrzlpkj4@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifhzxtqgqnloomah7g572sy2phar3t7met3f4d3b6e3x2nrzlpkj4@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Karen K. Ho (@karenho.bsky.social)</title>
@@ -404,7 +436,8 @@ Catch Stacy and her coffee-fueled data brilliance at #NICAR26!]]></description>
   <description><![CDATA[Are you coming to the #NICAR26 conference? 
 
 Join @amondry.bsky.social and me for a conversation about how to report on housing and homelessness challenges!
-More info here: schedules.ire.org/nicar-2026/#... @ire.org]]></description>
+More info here: schedules.ire.org/nicar-2026/#... @ire.org<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sqfrmfs64l2mpqcxe5e6cpwf/bafkreigmnqkqsnr6rgj3wznvj6ojqtjlcnchcvfmeppokxjb7s3hbeegeq@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sqfrmfs64l2mpqcxe5e6cpwf/bafkreigmnqkqsnr6rgj3wznvj6ojqtjlcnchcvfmeppokxjb7s3hbeegeq@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Mike Reilley (@mikereilley.bsky.social)</title>
@@ -413,14 +446,16 @@ More info here: schedules.ire.org/nicar-2026/#... @ire.org]]></description>
   <pubDate>Mon, 23 Feb 2026 23:00:40 +0000</pubDate>
   <description><![CDATA[Anyone going to #NICAR26 in Indy next week: Swing by my Thursday 9 a.m. session, "AI Tools for Journalists". We'll focus on data and other multimedia tools. 
 
-Two-hour, hands-on session. Good fun. Tools, exercises to take with you. Good fun.]]></description>
+Two-hour, hands-on session. Good fun. Tools, exercises to take with you. Good fun.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreihnr5gvco7ccx5vshsvpxenubwjgzqtwqjixwuenjmwghgywl5my4@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreihnr5gvco7ccx5vshsvpxenubwjgzqtwqjixwuenjmwghgywl5my4@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Jill Castellano (@jillcastellano.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:gfpljqwcoruybsvjxi5rlfsl/post/3mfkqsb5a222q</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:gfpljqwcoruybsvjxi5rlfsl/post/3mfkqsb5a222q</guid>
   <pubDate>Mon, 23 Feb 2026 22:57:04 +0000</pubDate>
-  <description><![CDATA[Catch me at the #NICAR26 data journalism conference next week!]]></description>
+  <description><![CDATA[Catch me at the #NICAR26 data journalism conference next week!<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreiggexrwkou55i6v3g3bju5woyvd4a4dh5rndhiijqoxxu6cefgwqa@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreiggexrwkou55i6v3g3bju5woyvd4a4dh5rndhiijqoxxu6cefgwqa@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Lucia Walinchus (@walinchus.bsky.social)</title>
@@ -480,7 +515,8 @@ schedules.ire.org/nicar-2026/#/]]></description>
 
 All fellows meet IRE’s membership standards, engaging substantially in news gathering, production, research or journalism education. 
 
-Read more here: https://bit.ly/4cAtujW]]></description>
+Read more here: https://bit.ly/4cAtujW<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreih6na3krfqvkxtjayubcoajhehyzzvmiw4depjpk5yllljstanvn4@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreih6na3krfqvkxtjayubcoajhehyzzvmiw4depjpk5yllljstanvn4@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Reponytt (@reponytt.bsky.social)</title>
@@ -506,7 +542,8 @@ Inside:
 - IRE26 early-bird deadline
 
 Check your inbox. 
-Subscribe: https://www.ire.org/newsletters/]]></description>
+Subscribe: https://www.ire.org/newsletters/<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreib7qlaltg5ipahvwdzzhu3egrjmkn2ddi6wvlw7uouokzuapzk4ou@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreib7qlaltg5ipahvwdzzhu3egrjmkn2ddi6wvlw7uouokzuapzk4ou@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Open Journalism Bot (@openjournalism.bsky.social)</title>
@@ -550,7 +587,8 @@ https://github.com/ireapps/NICAR26-Intro-to-R]]></description>
   <description><![CDATA[#NICAR26 has several pre-registration workshops that go deep into data analysis, coding, scraping and investigative techniques. 
 
 Register now and secure your seat: 
-https://www.ire.org/training/conferences/nicar-2026/ ]]></description>
+https://www.ire.org/training/conferences/nicar-2026/ <br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreif7f3yvudrq5bbsw477lqynmfc44n4tntpe5h24wpb4zoxeflo4sy@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreif7f3yvudrq5bbsw477lqynmfc44n4tntpe5h24wpb4zoxeflo4sy@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Stacy Kess. -30- (@stacykess.bsky.social)</title>
@@ -597,7 +635,8 @@ The full menu of community meals is at […]]]></description>
 
 👯 Relationships are the most important piece
 
-Will I see you there?]]></description>
+Will I see you there?<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttnwl3lquudgol2wy2dihjal/bafkreifc2byjugepc2iq36smkwt7c77cjq64xjdyzn5qa5ugu4u5oc77ze@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ttnwl3lquudgol2wy2dihjal/bafkreifc2byjugepc2iq36smkwt7c77cjq64xjdyzn5qa5ugu4u5oc77ze@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -631,7 +670,8 @@ bsky.app/profile/emil...]]></description>
   <pubDate>Fri, 13 Feb 2026 21:55:52 +0000</pubDate>
   <description><![CDATA[If you’re joining us for #NICAR26 in March and hoping to get (or give!) one-on-one guidance, the deadline to sign up for the mentorship program is TODAY, Friday, Feb. 13 at 11:59 P.M. ET. 
 
-It's one of the most meaningful parts of the conference. Sign up here: https://bit.ly/4rJjGZc]]></description>
+It's one of the most meaningful parts of the conference. Sign up here: https://bit.ly/4rJjGZc<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifu7ueubpruf63yyfujdnafe4fmfdcmopnsj7lqfstbcz7n54kisi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifu7ueubpruf63yyfujdnafe4fmfdcmopnsj7lqfstbcz7n54kisi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Karen K. Ho (@karenho.bsky.social)</title>
@@ -693,7 +733,8 @@ Voting is open now and closes Feb. 20.
 
 The selected talks will be presented Friday, March 6 at #NICAR26.
 
-Have your say: https://bit.ly/4qrmZDa]]></description>
+Have your say: https://bit.ly/4qrmZDa<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreia3puq6ivndhn4bcqgt7gq74cdt44cwk7do3a5w5j7juzoupvh2wu@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreia3puq6ivndhn4bcqgt7gq74cdt44cwk7do3a5w5j7juzoupvh2wu@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Emilia Ruzicka (@emiliaruzicka.bsky.social)</title>
@@ -731,7 +772,8 @@ I swear.
 
 for virtual office hours this Wednesday, Feb. 11 at 1 PM ET.
 
-Register now: https://bit.ly/4kq5aDl]]></description>
+Register now: https://bit.ly/4kq5aDl<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibgtmacjd5gieczevzwkakra5nnjblbvw4waydc2334d2gptx5pgi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibgtmacjd5gieczevzwkakra5nnjblbvw4waydc2334d2gptx5pgi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>The Word (@the-word.news)</title>
@@ -782,7 +824,8 @@ More details soon. DM me if you want in.]]></description>
 - One-click button filters table to see only sessions AI bot mentions
 Code: github.com/smach/NICAR2...
 App: smach-nicar2026-chatbot.share.connect.posit.cloud
-#RStats #RShiny #NICAR26]]></description>
+#RStats #RShiny #NICAR26<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibv45fxfafb3teifs5ejn5ycdrlduighqtg26jmim46zevikclc5q@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibv45fxfafb3teifs5ejn5ycdrlduighqtg26jmim46zevikclc5q@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Diana Fuentes (@ddfonline.bsky.social)</title>
@@ -805,7 +848,8 @@ Submit your #NICAR26 Lightning Talk pitch by tonight at 11:59 p.m. ET (Feb. 8): 
 Voting opens Feb. 9.
 Talks take place March 6 at #NICAR26 in Indianapolis.
 
-Pitch it while you still can. ]]></description>
+Pitch it while you still can. <br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifnovatcdvk7oipaas6y5ge4tfdhuiqaujsezgpds3woltlbogfmi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreifnovatcdvk7oipaas6y5ge4tfdhuiqaujsezgpds3woltlbogfmi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Josh Hinkle (@hinklej.bsky.social)</title>
@@ -817,7 +861,8 @@ Pitch it while you still can. ]]></description>
 -Management Master Class: tinyurl.com/dfbbptzw
 -Manager Networking: tinyurl.com/4rxj6sz8
 
-@ire.org]]></description>
+@ire.org<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreiggagbkaa622vjoj4avssqaqpho3nrpj5gwng7demkkush5av2the@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreiggagbkaa622vjoj4avssqaqpho3nrpj5gwng7demkkush5av2the@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Josh Hinkle (@hinklej.bsky.social)</title>
@@ -826,7 +871,8 @@ Pitch it while you still can. ]]></description>
   <pubDate>Sat, 07 Feb 2026 16:05:52 +0000</pubDate>
   <description><![CDATA[Headed to #NICAR26 next month in Indy? Know a news leader who could use this specialized, FREE training? Join our “Managing Investigators” master class (with tips for navigating AI)! Stick around for our manager networking session, too! Links in the 🧵!
 
-@ire.org @ecg.bsky.social @justinmyers.net]]></description>
+@ire.org @ecg.bsky.social @justinmyers.net<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreibz5seghjhdpbw7kwsefhi4loykdiiqb4twmtf37u54lchc5bylqi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreibz5seghjhdpbw7kwsefhi4loykdiiqb4twmtf37u54lchc5bylqi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Karen K. Ho (@karenho.bsky.social)</title>
@@ -848,7 +894,8 @@ Pitch it while you still can. ]]></description>
 
 For more guidelines: https://bit.ly/4qhrcJE
 
-Deadline: Friday, Feb. 6. Email the design to conference@ire.org]]></description>
+Deadline: Friday, Feb. 6. Email the design to conference@ire.org<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -863,7 +910,8 @@ Deadline: Friday, Feb. 6. Email the design to conference@ire.org]]></description
 
 For more guidelines: https://bit.ly/4qhrcJE
 
-Deadline: Friday, Feb. 6. Email the design to conference@ire.org]]></description>
+Deadline: Friday, Feb. 6. Email the design to conference@ire.org<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -876,7 +924,8 @@ Deadline: Friday, Feb. 6. Email the design to conference@ire.org]]></description
 
 2026 marks 50 years since our first conference in Indianapolis. Get your hotel discount at the JW Marriott by Feb. 9. 
 
-Don’t wait — register now.  https://www.ire.org/training/conferences/nicar-2026/]]></description>
+Don’t wait — register now.  https://www.ire.org/training/conferences/nicar-2026/<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibu5ijx5oazyaz6dfq4jr2jnywye2w7hmisyfbdclloow2le7okgi@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibu5ijx5oazyaz6dfq4jr2jnywye2w7hmisyfbdclloow2le7okgi@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
@@ -891,14 +940,16 @@ Don’t wait — register now.  https://www.ire.org/training/conferences/nicar-2
 
 For more guidelines: https://bit.ly/4qhrcJE
 
-Deadline: Friday, Feb. 6. Email the design to conference@ire.org]]></description>
+Deadline: Friday, Feb. 6. Email the design to conference@ire.org<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreicmupvgg5u6ehe7f6j4fcga6whyd32ei5rthyu44nmt6q6ds6damq@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Investigative Reporters &amp; Editors (@ire.org)</title>
   <link>https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mdxw45aj5k2q</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mdxw45aj5k2q</guid>
   <pubDate>Tue, 03 Feb 2026 17:46:19 +0000</pubDate>
-  <description><![CDATA[We look forward to recognizing the winners at the upcoming NICAR Conference in Indianapolis! Learn more about the 2025 Philip Meyer Journalism Award winners and read their stories here: bit.ly/3Zhz7f7]]></description>
+  <description><![CDATA[We look forward to recognizing the winners at the upcoming NICAR Conference in Indianapolis! Learn more about the 2025 Philip Meyer Journalism Award winners and read their stories here: bit.ly/3Zhz7f7<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibbylb65xpcwlingmh3xslri7n7azhfiutkujvpyuwoaueerigaum@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreibbylb65xpcwlingmh3xslri7n7azhfiutkujvpyuwoaueerigaum@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Sophie Chou (@sophiechou.bsky.social)</title>
@@ -996,7 +1047,8 @@ go.bsky.app/H7iUZYd]]></description>
   <pubDate>Thu, 22 Jan 2026 16:45:23 +0000</pubDate>
   <description><![CDATA[The early bird deadline for NICAR26 has been extended to Jan 30, 2026! The cutoff for the hotel rate is Feb 9, 2026. 
 
-Register now: https://bit.ly/4oDxQJH]]></description>
+Register now: https://bit.ly/4oDxQJH<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreif7f3yvudrq5bbsw477lqynmfc44n4tntpe5h24wpb4zoxeflo4sy@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gepuyayq3n3mo5nt2iczhqb2/bafkreif7f3yvudrq5bbsw477lqynmfc44n4tntpe5h24wpb4zoxeflo4sy@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>2rZiKKbOU3nTafniR2qMMSE0gwZ (@2rzikkbou3ntafnir2qmmse0gwz.activitypub.awakari.com.ap.brid.gy)</title>
@@ -1027,14 +1079,16 @@ Origin | Interest | Match]]></description>
   <pubDate>Tue, 20 Jan 2026 12:32:19 +0000</pubDate>
   <description><![CDATA[Starting Saturday at 9, we'll work through "Go Big with GitHub Actions," a hands-on class that debuted at the last NICAR data journalism conference. https://palewi.re/docs/go-big-with-github-actions/
 
-You should come! There will be bagels.]]></description>
+You should come! There will be bagels.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreicv3wvkdyzhqmpy5oh3ttblbtil6pjfid4wawm4anwedtng4tu4lu@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreicv3wvkdyzhqmpy5oh3ttblbtil6pjfid4wawm4anwedtng4tu4lu@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Josh Hinkle (@hinklej.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mccsojp42k2u</link>
   <guid isPermaLink="true">https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mccsojp42k2u</guid>
   <pubDate>Tue, 13 Jan 2026 14:53:54 +0000</pubDate>
-  <description><![CDATA[Ask us anything (virtually) on Wednesday at Noon CST/1p ET! We’re ready to answer your questions about #NICAR26, the @ire.org Awards and more! Members can register here: bit.ly/49SOQak #IREforAll]]></description>
+  <description><![CDATA[Ask us anything (virtually) on Wednesday at Noon CST/1p ET! We’re ready to answer your questions about #NICAR26, the @ire.org Awards and more! Members can register here: bit.ly/49SOQak #IREforAll<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreifksx7yvkorwdurfdzsed7xxi5bgrscc4wzch4qolxsddavmvj5em@jpeg" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tjwo6giieciz332tuy2u2or3/bafkreifksx7yvkorwdurfdzsed7xxi5bgrscc4wzch4qolxsddavmvj5em@jpeg" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Josh Hinkle (@hinklej.bsky.social)</title>
