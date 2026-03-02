@@ -66,7 +66,7 @@ The RSS XML feed URL is:
 
 Example:
 
-[https://raw.githubusercontent.com/smach/nicar-bluesky-feed/refs/heads/main/output/feed.xml](https://raw.githubusercontent.com/smach/nicar-bluesky-feed/refs/heads/main/output/feed.xml)`
+[https://raw.githubusercontent.com/smach/nicar-bluesky-feed/refs/heads/main/output/feed.xml](https://raw.githubusercontent.com/smach/nicar-bluesky-feed/refs/heads/main/output/feed.xml)
 
 ### Add the feed to an RSS reader
 
