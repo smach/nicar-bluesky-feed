@@ -62,11 +62,11 @@ Your site will be live at:
 
 The RSS XML feed URL is:
 
-`https://<username>.github.io/<repo-name>/feed.xml`
+`https://raw.githubusercontent.com/<username>/<repo-name>/refs/heads/main/output/feed.xml`
 
 Example:
 
-`https://smachlis.github.io/nicar-bluesky-feed/feed.xml`
+`[https://smachlis.github.io/nicar-bluesky-feed/feed.xml](https://raw.githubusercontent.com/smach/nicar-bluesky-feed/refs/heads/main/output/feed.xml)](https://raw.githubusercontent.com/smach/nicar-bluesky-feed/refs/heads/main/output/feed.xml)`
 
 ### Add the feed to an RSS reader
 
