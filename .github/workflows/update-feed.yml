@@ -38,19 +38,17 @@ jobs:
       - name: Install R packages
         if: steps.timecheck.outputs.active == 'true'
         run: |
-          pkgs <- c("bskyr", "dplyr", "stringr",
-                     "htmltools", "jsonlite", "glue", "purrr")
-          for (attempt in 1:3) {
-            tryCatch({
-              install.packages(pkgs)
-              break
-            }, error = function(e) {
-              message(sprintf("Attempt %d failed: %s", attempt, e$message))
-              if (attempt < 3) Sys.sleep(10)
-            })
-          }
-          # Verify all packages loaded successfully
-          invisible(lapply(pkgs, library, character.only = TRUE))
+          # r2u packages (fast binary install)
+          r2u_pkgs <- c("dplyr", "stringr", "htmltools",
+                        "jsonlite", "glue", "purrr")
+          install.packages(r2u_pkgs)
+
+          # bskyr is not in r2u — install from CRAN source
+          install.packages("bskyr", repos = "https://cloud.r-project.org")
+
+          # Verify all packages load successfully
+          all_pkgs <- c(r2u_pkgs, "bskyr")
+          invisible(lapply(all_pkgs, library, character.only = TRUE))
         shell: Rscript {0}
 
       - name: Fetch and render feed
