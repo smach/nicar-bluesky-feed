@@ -5,8 +5,18 @@
     <link>https://bsky.app</link>
     <description>Bluesky posts about the NICAR 2026 conference (#NICAR26, #NICAR2026)</description>
     <language>en</language>
-    <lastBuildDate>Tue, 03 Mar 2026 13:36:01 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Mar 2026 14:27:27 +0000</lastBuildDate>
 
+<item>
+  <title>Sharon Machlis (@smachlis.bsky.social)</title>
+  <link>https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mg5wylsqac2k</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mg5wylsqac2k</guid>
+  <pubDate>Tue, 03 Mar 2026 14:08:33 +0000</pubDate>
+  <description><![CDATA[For fun (I'm retired 😅) I worked with Claude to do this in R to also get an RSS feed. Data currently updates  hourly but I'll try to ⬆️ frequency during #NICAR26.
+Web page: smach.github.io/nicar-bluesk...
+RSS feed: raw.githubusercontent.com/smach/nicar-...
+R code: github.com/smach/nicar-...]]></description>
+</item>
 <item>
   <title>Mike Reilley (@mikereilley.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mg5fuof6ll2n</link>

@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mg5wylsqac2k",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "For fun (I'm retired 😅) I worked with Claude to do this in R to also get an RSS feed. Data currently updates  hourly but I'll try to ⬆️ frequency during #NICAR26.\nWeb page: smach.github.io/nicar-bluesk...\nRSS feed: raw.githubusercontent.com/smach/nicar-...\nR code: github.com/smach/nicar-...",
+    "indexed_at": "2026-03-03T14:08:33.953Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mg5fuof6ll2n",
     "author_handle": "mikereilley.bsky.social",
     "author_display_name": "Mike Reilley",
