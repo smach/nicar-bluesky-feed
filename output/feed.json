@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:fjqvlcfakpht4exffejyfc25/post/3mg73tpovkc2w",
+    "author_handle": "alexgarcia.xyz",
+    "author_display_name": "Alex Garcia",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fjqvlcfakpht4exffejyfc25/bafkreiflqb2v5qzxnfug4b5i4qptfvoxaj5jqxg7ltiog7ff5pwxllfz2m@jpeg",
+    "post_text": "I will be at #NICAR26 this week teaching classes! \n\nFor campaign finance folks: come to my Thursday 11:30am class on libfec, a new fast CLI tool for working with FEC data! \n\nAlso get limited-edition libfec stickers + a campfin \"zine\"!\n\n(Bonus: find @simonwillison.net and I for Datasette stickers)",
+    "indexed_at": "2026-03-04T01:08:07.153Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:fjqvlcfakpht4exffejyfc25/bafkreifjgx2uxukvqsdhuyeybcio6wtzkt6copbc4w76e4rre3ta4456vq@jpeg"
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:wo6l2bdyjzslvw26unubpjn4/post/3mg6nojdu6k2z",
     "author_handle": "jimdaleywrites.bsky.social",
     "author_display_name": "Jim Daley",
