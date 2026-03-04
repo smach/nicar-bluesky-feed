@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/post/3mgb5vqaonc2m",
+    "author_handle": "dangerscarf.bsky.social",
+    "author_display_name": "j soma",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreic7brqa5h33onkpi3pzbtcpy6xfovjvwmumsim5wzeobypjpacnyy@jpeg",
+    "post_text": "Here we go #NICAR26, a zillion and one sessions on the docket!\n\nThurs: No-code AI pipelines with n8n\nFri: Analyzing images/video with AI + Wrangling PDFs with Natural PDF\nSat: Browser automation with Playwright + Ethical AI in Investigations\nSun: Build your own AI Benchmark",
+    "indexed_at": "2026-03-04T20:51:03.463Z",
+    "image_urls": ["https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreicitvbokxp6cjdf36lcbvq2xhtxaqmcneccsrq74zrwaiuhpiitme@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreics7nnkyw6rw764tvbnhe7f3yqdmuy4mn3ybbtkjirgwrfmt3qohi@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreiazmbcr7fasizu3yl5zfhpvwonkkkh2jecea3cghqt5aagjkvxvau@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreiepcom6pit4q5dx6zjf44lmx5utvi2d5qkquhtn7tsc7o64jxb4cq@jpeg"]
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:jwr3eceuu3uyf2jue2gpmeqi/post/3mgb4ccbpws2g",
+    "author_handle": "cj-robinson.bsky.social",
+    "author_display_name": "C.J. Robinson",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:jwr3eceuu3uyf2jue2gpmeqi/bafkreieyil7uybqkznawq2wbtfarqrc2uob7heizgihv4kxuttyobk4tna@jpeg",
+    "post_text": "speaking at two #NICAR26 sessions with some wonderful @towcenter.bsky.social colleagues! come say hi!",
+    "indexed_at": "2026-03-04T20:21:32.861Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:jwr3eceuu3uyf2jue2gpmeqi/bafkreih5q3ggk4augqqwhit54etstghceo2tglvpd2y57inagt3qajzccy@jpeg"
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:u4fkp34f7xgikmvw27pdlft6/post/3mgaygsezqs2v",
     "author_handle": "andyblarsen.bsky.social",
     "author_display_name": "Andy Larsen",
