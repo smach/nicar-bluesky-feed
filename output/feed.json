@@ -1,5 +1,32 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:kwqrpwlcajfu7dhhg72hc5ly/post/3mgcymssi3s25",
+    "author_handle": "wcraft.bsky.social",
+    "author_display_name": "Will Craft",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kwqrpwlcajfu7dhhg72hc5ly/bafkreidbyr6keyr5owctcrd3iltq542rw7pevpyxrdsf7ywsxd6n5da5ai@jpeg",
+    "post_text": "Hello, I am at #NICAR26, I'll be doing two panels on immigration reporting and a panel on hiring. Please come! \n\nImmigration records: Thurs 10:15 at White River 1 \n\nImmigration data and how to make sense of it: Sat 11:30 at White River G\n\nAn honest convo about hiring: Sat 3:45 White River D",
+    "indexed_at": "2026-03-05T14:21:07.759Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:vhcbx566jx6r5fbu44nfbrrm/post/3mgcykpl5d22y",
+    "author_handle": "reportercioffi.bsky.social",
+    "author_display_name": "Chris Cioffi",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vhcbx566jx6r5fbu44nfbrrm/bafkreiamdmr2rfgmiqe6av4gl5ofltvicsw43fdcfje3wnyhyyc4gbt5le@jpeg",
+    "post_text": "LDA news: Excited to lead my first #NICAR26 session today on LobbyR, an R package I developed that turns federal lobbying disclosures into structured data. \n\nIt’s a lot easier with than using the site!\n\nCheck it out on CRAN: cran.r-project.org/package=lobbyR\n\nschedules.ire.org/nicar-2026/#...",
+    "indexed_at": "2026-03-05T14:20:01.154Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vhcbx566jx6r5fbu44nfbrrm/bafkreiciiitc7zop6grvjf652jo4dnyjn3l4ptxpkl2ap4ttbvyzeei2bm@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:lse7quaysss2d3xxm76mouhd/post/3mgcxujahic2j",
+    "author_handle": "brianckeegan.com",
+    "author_display_name": "Brian C. Keegan, Ph.D.",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lse7quaysss2d3xxm76mouhd/bafkreicfipjusogzrmin7y7tazfkgvhlytnqo5x3cld4ye7hdqamgsznrm@jpeg",
+    "post_text": "Bald white Keegans unite at #NICAR26! Hi @jonkeegan.com 👋",
+    "indexed_at": "2026-03-05T14:07:33.953Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:lse7quaysss2d3xxm76mouhd/bafkreigpabwjnoixeuet3lzsdkpcxke3qhmfgjbjuob7h5q3pattcxowam@jpeg"
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mgcx6e2euu2g",
     "author_handle": "ire.org",
     "author_display_name": "Investigative Reporters & Editors",
