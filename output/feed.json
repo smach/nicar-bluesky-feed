@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgdqzw75as2j",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "Want to find out more about analyzing text with R? At his #NICAR26 presentation, @robwells.bsky.social mentioned @juliasilge.com 's book\nwww.tidytextmining.com\nJulia also has a free interactive online course juliasilge.com/blog/learn-t...\n#RStats \nHis repo: github.com/profrobwells...",
+    "indexed_at": "2026-03-05T21:37:57.052Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgdqnxxn2c24",
+    "author_handle": "jonkeegan.com",
+    "author_display_name": "Jon Keegan",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "post_text": "For our #NICAR26 panel we threw together this free, open-source glossary of AI terms and foundational concepts that journalists should know. \n\nWe will be adding to this! (Forked from prior work by @palewi.re @dwillis.bsky.social et al)\n\naiglossary.news",
+    "indexed_at": "2026-03-05T21:31:14.556Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:gis7kuorebuoqv2m4rx6uab6/post/3mgdplfqres25",
     "author_handle": "brentajones.bsky.social",
     "author_display_name": "brentajones.bsky.social",
@@ -30,7 +48,7 @@
     "post_url": "https://bsky.app/profile/did:plc:xvutxnwlxubhci2ljjy3vwwn/post/3mgdkgha4cc2o",
     "author_handle": "thed34n.bsky.social",
     "author_display_name": "Jason Dean",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xvutxnwlxubhci2ljjy3vwwn/bafkreifnefxmipbvd2ia645hnrcd4czena537ds7sirolcez4pgbt7bzam@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xvutxnwlxubhci2ljjy3vwwn/bafkreifnefxmipbvd2ia645hnrcd4czena537ds7sirolcez4pgbt7bzam",
     "post_text": "Man, I miss NICAR. Data journalism is kinda the best. #NICAR26",
     "indexed_at": "2026-03-05T19:39:38.263Z",
     "image_urls": []
@@ -192,10 +210,10 @@
     "post_url": "https://bsky.app/profile/did:plc:vs5s6ld4fi4zoqgratlzp4iy/post/3mgd3q2jbrs2x",
     "author_handle": "liamsadams.bsky.social",
     "author_display_name": "Liam Adams",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreicen2vhdddnmhrbnq7gzu3xmbmcz7qedbaxrsrpzan4yv6qc4mlu4@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreicen2vhdddnmhrbnq7gzu3xmbmcz7qedbaxrsrpzan4yv6qc4mlu4",
     "post_text": "Hey #NICAR26 @ire.org folks I’m here in Indy to improve my data and investigative reporting skills and find ways to integrate it better in religion reporting. If you’re interested in brainstorming more on religion reporting and data journalism, come find me!",
     "indexed_at": "2026-03-05T15:16:41.957Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreiezc4cyxmenxggs2a45r7pfw227cf3xxwuwtdteygrgenztisqos4@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreiezc4cyxmenxggs2a45r7pfw227cf3xxwuwtdteygrgenztisqos4"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:vjnzcd26k3w527veu6mekk2r/post/3mgd3iek2na2o",
@@ -309,7 +327,7 @@
     "post_url": "https://bsky.app/profile/did:plc:xcinm6zyywmiymjyz67qgm72/post/3mgcvscqijt27",
     "author_handle": "knightlab.northwestern.edu",
     "author_display_name": "Knight Lab",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcinm6zyywmiymjyz67qgm72/bafkreidepc5gkpiklc7h7bgejr4gubgb2u53qnzkuxrkxggxtgijv5udfa@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xcinm6zyywmiymjyz67qgm72/bafkreidepc5gkpiklc7h7bgejr4gubgb2u53qnzkuxrkxggxtgijv5udfa",
     "post_text": "We'll be at NICAR this week and would love to talk to you about your submission to our next cohort of data-driven projects. Deadline to apply is March 31.",
     "indexed_at": "2026-03-05T13:30:27.556Z",
     "image_urls": []
@@ -389,7 +407,7 @@
     "post_url": "https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mgc23ga6522f",
     "author_handle": "emiliaruzicka.bsky.social",
     "author_display_name": "Emilia Ruzicka",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii",
     "post_text": "Remember that time I did a #NICAR lightning talk about how medieval heraldry can teach us about how to make better data stories? Well, I made the lightning talk into a pre- #NICAR26 project! Go check it out! emiliaruzicka.com/LessonsInHer...",
     "indexed_at": "2026-03-05T05:14:30.550Z",
     "image_urls": []
@@ -694,7 +712,7 @@
     "post_url": "https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mg65dynk222c",
     "author_handle": "emiliaruzicka.bsky.social",
     "author_display_name": "Emilia Ruzicka",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii",
     "post_text": "This is a great way to make sure your social posts are accessible! And if you don’t know how to write alt text, join @stacykess.bsky.social and I for our “Implementing Accessibility” session at #NICAR26 on Friday!",
     "indexed_at": "2026-03-03T16:02:18.563Z",
     "image_urls": []
@@ -982,7 +1000,7 @@
     "post_url": "https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfra6hjmoq24",
     "author_handle": "reponytt.bsky.social",
     "author_display_name": "Reponytt",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky",
     "post_text": "muckrock har nettopp åpnet repoet MuckRock/NICAR: https://github.com/MuckRock/NICAR\n\nNICAR-sesjoner av MuckRock-ansatte",
     "indexed_at": "2026-02-26T12:48:17.651Z",
     "image_urls": []
@@ -991,7 +1009,7 @@
     "post_url": "https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfra6grymf2l",
     "author_handle": "reponytt.bsky.social",
     "author_display_name": "Reponytt",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky",
     "post_text": "ireapps har nettopp åpnet repoet ireapps/nicar-2026-local-guide: https://github.com/ireapps/nicar-2026-local-guide\n\nEn guide til lokal mat, attraksjoner og logistikk i Indianapolis for NICAR 2026-konferansen.",
     "indexed_at": "2026-02-26T12:48:16.649Z",
     "image_urls": []
@@ -1045,7 +1063,7 @@
     "post_url": "https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mfplgjf2us2y",
     "author_handle": "emiliaruzicka.bsky.social",
     "author_display_name": "Emilia Ruzicka",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii",
     "post_text": "Speaking aside, I’m pumped to connect with friends new and old this year at #NICAR26. I’m also still on the hunt for a full-time job, so if you or someone you know is looking for a data/investigative journalist, editor, or something related, please don’t hesitate to shoot me a message! (4/4)",
     "indexed_at": "2026-02-25T21:04:20.042Z",
     "image_urls": []
@@ -1054,10 +1072,10 @@
     "post_url": "https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mfplghnaqk2y",
     "author_handle": "emiliaruzicka.bsky.social",
     "author_display_name": "Emilia Ruzicka",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii",
     "post_text": "I am impossibly excited to be speaking at #NICAR26 in Indianapolis!\n\nOn Friday, I’ll be kicking things off with @stacykess.bsky.social and @patrickmgarvin.bsky.social for “Accessibility Basics.” We’ll give you a crash course in implementing more accessible practices in your own newsroom! (1/4)",
     "indexed_at": "2026-02-25T21:04:19.956Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreidklrnmj7mkawtoh5w5gffd3iq7ewg3jag4gx4ulllzb35cfjbzxy@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreidklrnmj7mkawtoh5w5gffd3iq7ewg3jag4gx4ulllzb35cfjbzxy"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfozuq2g6u2b",
@@ -1162,10 +1180,10 @@
     "post_url": "https://bsky.app/profile/did:plc:gfpljqwcoruybsvjxi5rlfsl/post/3mfkqsb5a222q",
     "author_handle": "jillcastellano.bsky.social",
     "author_display_name": "Jill Castellano",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreibeqkamwonjotfonibm3qrc4d24n75gr3beqhp5pslqbo64exr4jm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreibeqkamwonjotfonibm3qrc4d24n75gr3beqhp5pslqbo64exr4jm",
     "post_text": "Catch me at the #NICAR26 data journalism conference next week!",
     "indexed_at": "2026-02-23T22:57:04.659Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreiggexrwkou55i6v3g3bju5woyvd4a4dh5rndhiijqoxxu6cefgwqa@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:gfpljqwcoruybsvjxi5rlfsl/bafkreiggexrwkou55i6v3g3bju5woyvd4a4dh5rndhiijqoxxu6cefgwqa"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:hieu5evszvpm4bgfhme727ie/post/3mfknynsvel27",
@@ -1225,7 +1243,7 @@
     "post_url": "https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mfc5656efp24",
     "author_handle": "reponytt.bsky.social",
     "author_display_name": "Reponytt",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky",
     "post_text": "ireapps har nettopp åpnet repoet ireapps/nicar-2026-dining: https://github.com/ireapps/nicar-2026-dining\n\nEn guide til alle de beste spisestedene på NICAR 2026 i Indianapolis.",
     "indexed_at": "2026-02-20T12:44:29.154Z",
     "image_urls": []
@@ -1252,7 +1270,7 @@
     "post_url": "https://bsky.app/profile/did:plc:nhqa6ygnjqs6wdml56f7co5c/post/3mf7msk3dna2y",
     "author_handle": "reponytt.bsky.social",
     "author_display_name": "Reponytt",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:nhqa6ygnjqs6wdml56f7co5c/bafkreibhxbna5dtsckgq7swo6bi4fg625vuckcjjkj2ng4c6rz5dad3vky",
     "post_text": "ireapps har nettopp åpnet repoet ireapps/NICAR26-Intro-to-R: https://github.com/ireapps/NICAR26-Intro-to-R",
     "indexed_at": "2026-02-19T12:46:20.750Z",
     "image_urls": []
@@ -1405,7 +1423,7 @@
     "post_url": "https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mejczhmflk2s",
     "author_handle": "emiliaruzicka.bsky.social",
     "author_display_name": "Emilia Ruzicka",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii",
     "post_text": "Can’t wait to join @stacykess.bsky.social and @patrickmgarvin.bsky.social to present #AccessibilityBasics and #ImplementingAccessibility at #NICAR26! If you’ll be there, come join us!!",
     "indexed_at": "2026-02-10T15:52:41.550Z",
     "image_urls": []
