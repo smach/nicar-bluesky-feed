@@ -1,5 +1,41 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgbguci7wk24",
+    "author_handle": "datab.ae",
+    "author_display_name": "Steven Rich",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibikjf7zexyk77myf3ksuiu5vu344oemss52jrbbitaftnuvrrrxq@jpeg",
+    "post_text": "and session 3 is lightning talks! at 5:15 on Friday. I’ll be speaking about how while using data has made my career, it has nearly killed me. And yes, I mean that literally. #NICAR26",
+    "indexed_at": "2026-03-04T23:30:30.934Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibskhi42ln5fy6kczu6fowtorilzls4rugtafrdzlx6in2pb2cyzy@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgbgub22fc24",
+    "author_handle": "datab.ae",
+    "author_display_name": "Steven Rich",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibikjf7zexyk77myf3ksuiu5vu344oemss52jrbbitaftnuvrrrxq@jpeg",
+    "post_text": "session 2 is on Friday at 3:45pm on the art of the data FOIA. #NICAR26",
+    "indexed_at": "2026-03-04T23:30:30.909Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreihk3bbnhxye5vwfdrziwr7wuh3fjkvavouxidoe446zmlro2ovwgm@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgbgu4zl2s24",
+    "author_handle": "datab.ae",
+    "author_display_name": "Steven Rich",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibikjf7zexyk77myf3ksuiu5vu344oemss52jrbbitaftnuvrrrxq@jpeg",
+    "post_text": "session 1 is tomorrow morning at 9am and is an introduction to the command line on Mac. #NICAR26",
+    "indexed_at": "2026-03-04T23:30:30.876Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreigfa2aau3cxfid6r7ycjpwzohaux6ez2isbqeeu32ss7j2fawqw7u@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgbgu4yqp224",
+    "author_handle": "datab.ae",
+    "author_display_name": "Steven Rich",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibikjf7zexyk77myf3ksuiu5vu344oemss52jrbbitaftnuvrrrxq@jpeg",
+    "post_text": "I am en route to Indianapolis for #NICAR26 and am so excited to connect with all the nerds. I’m speaking at three sessions this year and I hope of you’re in attendance, you’ll consider joining me at them.",
+    "indexed_at": "2026-03-04T23:30:30.851Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:oikr7hbty5mpx4gixonxsxeb/post/3mgbfuisu522h",
     "author_handle": "robwells.bsky.social",
     "author_display_name": "Rob Wells",
