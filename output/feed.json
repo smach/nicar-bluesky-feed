@@ -1,5 +1,86 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:xvkidauft4a2v4cd57d7epvh/post/3mgd5pohqac25",
+    "author_handle": "sophiechou.bsky.social",
+    "author_display_name": "Sophie Chou",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:xvkidauft4a2v4cd57d7epvh/bafkreifhyrqq6rfftehgfinqspmtjqkmigi4rp2xqamhptzt7tzg4pf7ty@jpeg",
+    "post_text": "If you’re interested in learning more about how we did this story, @andreasuozzo.com and I are talking about it at #NICAR26",
+    "indexed_at": "2026-03-05T15:52:09.652Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgd5kxxpnq2s",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "On seeking data about immigration enforcement in the US: \"Every records request should start with reporting\", Will Craft from the Guardian tells #NICAR26. Know what you should ask for, he advised. \"You have to be very very very precise.\" In other words: Do a lot of work prior to filing a FOIA.",
+    "indexed_at": "2026-03-05T15:49:31.261Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mgd4sunixp2c",
+    "author_handle": "mikereilley.bsky.social",
+    "author_display_name": "Mike Reilley",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii@jpeg",
+    "post_text": "Some links on The Journalist's Toolbox that are helpful for #nicar26 attendees:\n\nPublic documents: journaliststoolbox.ai/databases-pu... \n\nData viz tools: journaliststoolbox.ai/ai-driven-da... \n\nData scraping: journaliststoolbox.ai/scraping-too... \n\n#ddj #dataviz #datajournalism",
+    "indexed_at": "2026-03-05T15:36:05.885Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:odfqrlx5qtjfl5troxykqd5c/post/3mgd4js66ok23",
+    "author_handle": "dwillis.bsky.social",
+    "author_display_name": "Derek Willis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:odfqrlx5qtjfl5troxykqd5c/bafkreidgvfluiay6jfvda33hosift4afcvpxieesm6b25xu3aa7gsy62sm@jpeg",
+    "post_text": "It's time for NICAR-India",
+    "indexed_at": "2026-03-05T15:31:19.556Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:ayzqp3abh3d737rt6kgnhwrl/post/3mgd4kg3l622m",
+    "author_handle": "ence.bsky.social",
+    "author_display_name": "ence morse",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ayzqp3abh3d737rt6kgnhwrl/bafkreid3woftudarswdbsqhpf3ub5jonlhdxwx6kx3he6ohfdirsaqi2ea@jpeg",
+    "post_text": "It's NICAR season! I'm in Indy talking about our TikTok data collection project on Friday and midterm elections on Saturday. Come say hi!",
+    "indexed_at": "2026-03-05T15:31:18.858Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgd46rvr2v2b",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "Interesting takeaway via Duy Nguyen [NY TImes]: Various AI-based tools have different places in the journalism process. For ex. chatbots can be useful to get started and find story ideas; AI-powered semantic search is better if you have subject expertise & more targeted questions #NICAR26 #GenAI\n",
+    "indexed_at": "2026-03-05T15:24:48.551Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:kk2a54fcplihszfwvzqprfwn/post/3mgd3yu6jmc27",
+    "author_handle": "emilyhopkins.bsky.social",
+    "author_display_name": "Emily Hopkins is at #NICAR26",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kk2a54fcplihszfwvzqprfwn/bafkreiar7pmsyyk34edj6rgeqmw6xaquhvtrqcb4bcth7lxx2h2m4btz2a@jpeg",
+    "post_text": "Hey #NICAR26: Mirror Indy's support organization, Free Press Indiana, is launching a new statewide reporting team. Which means we are hiring.\n\nHit me up if you want to chat about what it's like to work here!\n\nwww.freepressindiana.org/jobs/civic-a...",
+    "indexed_at": "2026-03-05T15:21:34.051Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:vs5s6ld4fi4zoqgratlzp4iy/post/3mgd3q2jbrs2x",
+    "author_handle": "liamsadams.bsky.social",
+    "author_display_name": "Liam Adams",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreicen2vhdddnmhrbnq7gzu3xmbmcz7qedbaxrsrpzan4yv6qc4mlu4@jpeg",
+    "post_text": "Hey #NICAR26 @ire.org folks I’m here in Indy to improve my data and investigative reporting skills and find ways to integrate it better in religion reporting. If you’re interested in brainstorming more on religion reporting and data journalism, come find me!",
+    "indexed_at": "2026-03-05T15:16:41.957Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreiezc4cyxmenxggs2a45r7pfw227cf3xxwuwtdteygrgenztisqos4@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:vjnzcd26k3w527veu6mekk2r/post/3mgd3iek2na2o",
+    "author_handle": "muckrock.com",
+    "author_display_name": "MuckRock",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vjnzcd26k3w527veu6mekk2r/bafkreibvnw43nz6l7bnikyxk5lu5yy6wwrylbsixr6ac74b25k4pqza6rq@jpeg",
+    "post_text": "Investigative and Research Journalist Audrey Nielsen demoing how reporters can collect and use state ethics disclosures to report on public officials and candidates for office. #NICAR26",
+    "indexed_at": "2026-03-05T15:12:17.250Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vjnzcd26k3w527veu6mekk2r/bafkreierhbdrxjykmtsduofi4ylmzqs5ibbyu2cdx5oa6emohrxlg4jiq4@jpeg"
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:z32vf5hl3vdml7t3xcewztke/post/3mgd2ezaxdc2d",
     "author_handle": "aman.bh",
     "author_display_name": "Aman Bhargava",
@@ -275,15 +356,6 @@
     "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oikr7hbty5mpx4gixonxsxeb/bafkreie5glzcx3bnsmburrhag2xhlnlulhokvhjrhn2hgo6s2zanrffscq@jpeg",
     "post_text": "Come on by my #NICAR2026 talk Thursday with Tiasia Saunders about narrative analysis in R. schedules.ire.org/nicar-2026/#...",
     "indexed_at": "2026-03-04T23:12:42.066Z",
-    "image_urls": []
-  },
-  {
-    "post_url": "https://bsky.app/profile/did:plc:ayzqp3abh3d737rt6kgnhwrl/post/3mgbdyjzfhc2c",
-    "author_handle": "ence.bsky.social",
-    "author_display_name": "ence morse",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ayzqp3abh3d737rt6kgnhwrl/bafkreid3woftudarswdbsqhpf3ub5jonlhdxwx6kx3he6ohfdirsaqi2ea@jpeg",
-    "post_text": "Talking TikTok on Friday and midterm elections on Saturday at NICAR this year!",
-    "indexed_at": "2026-03-04T22:39:09.368Z",
     "image_urls": []
   },
   {
