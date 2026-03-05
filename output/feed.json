@@ -1,5 +1,59 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z32vf5hl3vdml7t3xcewztke/post/3mgd2ezaxdc2d",
+    "author_handle": "aman.bh",
+    "author_display_name": "Aman Bhargava",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z32vf5hl3vdml7t3xcewztke/bafkreiglre7zcgf5u2yiptcp2f5m656k2peosesb6wqsenu6w3ni32kdau@jpeg",
+    "post_text": "Another NICAR, another year of FOMO. One day.",
+    "indexed_at": "2026-03-05T14:52:30.551Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:iaccghrltyonpt6kfbgmrepx/post/3mgd2b5m65c2m",
+    "author_handle": "patrickmgarvin.bsky.social",
+    "author_display_name": "Patrick Garvin",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:iaccghrltyonpt6kfbgmrepx/bafkreihj37r5g3cs6thw5ksx5n6dnyqsksm6h6hwnlrjerhajf7hjcaqti@jpeg",
+    "post_text": "If you're at @ire.org's NICAR, don't forget alt text on images you share in social media posts. If you're fuzzy on alt text best practices, @stacykess.bsky.social,  @emiliaruzicka.bsky.social, and have a session tomorrow followed by another session where they will dig deeper.\n\n#NICAR26 #NICAR2026",
+    "indexed_at": "2026-03-05T14:50:20.955Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:6fnzney5yhgjcbw664awibcm/post/3mgd26skxbk2c",
+    "author_handle": "karenho.bsky.social",
+    "author_display_name": "Karen K. Ho",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:6fnzney5yhgjcbw664awibcm/bafkreihjk4w3qruyqxmbezkf2dsdjnf5f4pmgbu3bhp2bgvurll273j4ui@jpeg",
+    "post_text": "multiple people have asked if I am at NICAR, which makes me a little sad, but so far everyone has understood I didn't attend this year due to security concerns",
+    "indexed_at": "2026-03-05T14:49:01.159Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:hieu5evszvpm4bgfhme727ie/post/3mgczzcq7mc2g",
+    "author_handle": "walinchus.bsky.social",
+    "author_display_name": "Lucia Walinchus",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:hieu5evszvpm4bgfhme727ie/bafkreidoggibxq2oztu5xqrpmaymr5ezfpt6ssrofhkoigvehjzf6u3ke4@jpeg",
+    "post_text": "This is neat: Visualping can monitor websites and has a free journalist plan! \n\n@azmatzahra.bsky.social used this in her Pulitzer Prize-winning investigation that found unreported civilian casualties.\n\n#NICAR26",
+    "indexed_at": "2026-03-05T14:46:00.150Z",
+    "image_urls": ["https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hieu5evszvpm4bgfhme727ie/bafkreidric3ldmyqs35rheconnlfjis6nnsl4toxgvrkdox4at6si4xxsm@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hieu5evszvpm4bgfhme727ie/bafkreibtjqpgkmz2kdfxwy6jbtazmpeentkomqtkt4zw6ieeae57ah6v3i@jpeg"]
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgcyza2s5y2b",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "R folks listening to this morning's #NICAR26 session on extracting data from documents and - importantly! - how to check your results: You can set up and run evaluations of LLM results with the {vitals} #rstats 📦\nwww.infoworld.com/ar... #DDJ \n",
+    "indexed_at": "2026-03-05T14:28:01.156Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgcyxwfyms2z",
+    "author_handle": "jonkeegan.com",
+    "author_display_name": "Jon Keegan",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "post_text": "Keegans gonna NICAR! #nicar26",
+    "indexed_at": "2026-03-05T14:27:17.258Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:kwqrpwlcajfu7dhhg72hc5ly/post/3mgcymssi3s25",
     "author_handle": "wcraft.bsky.social",
     "author_display_name": "Will Craft",
