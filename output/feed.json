@@ -1,5 +1,77 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:4kjgacumbbamnoq5v62kbnwz/post/3mgcqw3zq2c2a",
+    "author_handle": "moriartymaps.com",
+    "author_display_name": "Moriarty Maps",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4kjgacumbbamnoq5v62kbnwz/bafkreidnt7gsxuy7dpz7hpaig3fbfb6evq4ech72fuyy2skf3ogmgbnn6y@jpeg",
+    "post_text": "I'm at NICAR! \n\nSay hi if you're here too. \n\nRunning an hour long workshop Saturday if you'd like to hear me gab about automated workflows and try out some for yourself.\n\n#nicar26",
+    "indexed_at": "2026-03-05T12:03:09.152Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4kjgacumbbamnoq5v62kbnwz/bafkreiakme6zho4gehqpklx2taufgkxmgoyza3lf3hholtwnc4j37rycb4@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:sjwi4zsx2kgvtfs3yb64uzhj/post/3mgcqc23bnk22",
+    "author_handle": "jschleuss.com",
+    "author_display_name": "Jon Schleuss",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:sjwi4zsx2kgvtfs3yb64uzhj/bafkreifqvc2tci4pcdjihtehi62hnybcxhlnqrbdwweg5wtwnfxttew27i@jpeg",
+    "post_text": "Are you a union member or want to be and you're at #NICAR26?\n\nThe Indy NewsGuild and @newsguild.org are sponsoring a happy hour tonight from 6-8pm downtown. (appetizers provided!)",
+    "indexed_at": "2026-03-05T11:51:54.554Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:sjwi4zsx2kgvtfs3yb64uzhj/bafkreihcfkejzq5o5mv4jcd2spoxajtvcofbx4og23mzgcj6guqvzhw4qu@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:e34spoycjtgpwhqsrvjf7jzw/post/3mgcojkemqdx2",
+    "author_handle": "palewi.re",
+    "author_display_name": "Ben Welsh",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreifbrocxwrtavfyng2geebedudemk5jyxt4vpin2cymhzxgjdrtit4@jpeg",
+    "post_text": "The site, which launched today at #NICAR26, is powered by semantic search technology. That means it will use AI to match results based on the meaning of your words, not just exact keyword hits.",
+    "indexed_at": "2026-03-05T11:20:18.052Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:e34spoycjtgpwhqsrvjf7jzw/bafkreihtm7npn2yt37cntdi7pxcv5f37fmflrbq2vyfjjztwgexufs6dye@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mgcgssavcu23",
+    "author_handle": "mikereilley.bsky.social",
+    "author_display_name": "Mike Reilley",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii@jpeg",
+    "post_text": "Resources from my #nicar26 session on \"AI Tools That Won't Get You Fired\"\n\nbit.ly/nicar26 \n\n#ddj #dataviz",
+    "indexed_at": "2026-03-05T09:02:18.056Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreifvusnqugpot2evgty73q2mpeiy7h7rn2qzxb6n4oo6hr4omko46u@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:pbwwtakvu3qbyvbe4rjuq4cv/post/3mgc56q4hhc25",
+    "author_handle": "miskaknapek.bsky.social",
+    "author_display_name": "Miska Knapek ",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:pbwwtakvu3qbyvbe4rjuq4cv/bafkreib4zb6xvlew5pkdkkcnouyuiohf3rlkidcyjdz4dt6da6yfyhploa@jpeg",
+    "post_text": "One of the world's biggest investigative and data journalism #ddj conferences, starting today.\n\nUsually quite amor of good tutorials and tips are shared via the hashtag #nicar26, and some session recordings surface later online\n\n#datascience",
+    "indexed_at": "2026-03-05T06:09:59.750Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:v5cyzikmrpplpe2ywvdwoebe/post/3mgc23ga6522f",
+    "author_handle": "emiliaruzicka.bsky.social",
+    "author_display_name": "Emilia Ruzicka",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:v5cyzikmrpplpe2ywvdwoebe/bafkreif6wxcemvvbkn5pjohnup7lg7klvkdt6iyety3cpu3c2iq5qducii@jpeg",
+    "post_text": "Remember that time I did a #NICAR lightning talk about how medieval heraldry can teach us about how to make better data stories? Well, I made the lightning talk into a pre- #NICAR26 project! Go check it out! emiliaruzicka.com/LessonsInHer...",
+    "indexed_at": "2026-03-05T05:14:30.550Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:lse7quaysss2d3xxm76mouhd/post/3mgbzjtelzc22",
+    "author_handle": "brianckeegan.com",
+    "author_display_name": "Brian C. Keegan, Ph.D.",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:lse7quaysss2d3xxm76mouhd/bafkreicfipjusogzrmin7y7tazfkgvhlytnqo5x3cld4ye7hdqamgsznrm@jpeg",
+    "post_text": "Fun #NICAR26 fact, the schedule is stored as a JSON document: ire-nicar-conference-schedules.s3.us-east-2.amazonaws.com/nicar-2026/n...",
+    "indexed_at": "2026-03-05T05:04:38.555Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:fw7fqqkytanxf25c65c3z7fa/post/3mgbxp53ti222",
+    "author_handle": "songbogong.bsky.social",
+    "author_display_name": "songbogong",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fw7fqqkytanxf25c65c3z7fa/bafkreidkasttf5d4hm3pzkdhvxe5rovlbzq2secuciyrxmvf2n6qkab4f4@jpeg",
+    "post_text": "At least 2 NICAR ians have their flight to Indianapolis cancelled due to heavy rain at Dallas, Texas. I’m really glad to stay overnight at an airport for the first time!!!",
+    "indexed_at": "2026-03-05T04:32:09.750Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:sjwi4zsx2kgvtfs3yb64uzhj/post/3mgbpr6esqc2n",
     "author_handle": "jschleuss.com",
     "author_display_name": "Jon Schleuss",
