@@ -2,8 +2,8 @@ name: Update NICAR Bluesky Feed
 
 on:
   schedule:
-    # Every hour at :08 (cron is evaluated in UTC; we gate execution to ET hours below)
-    - cron: '8 * * * *'
+    # Every half hour at :08 (cron is evaluated in UTC; we gate execution to ET hours below)
+    - cron: '8,38 * * * *'
   workflow_dispatch:
 
 jobs:
