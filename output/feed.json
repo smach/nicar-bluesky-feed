@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgg3onckr22l",
+    "author_handle": "bayareadata.press",
+    "author_display_name": "Daniel J. Willis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "post_text": "There are quite a few LLM sessions at #NICAR26 as you might imagine, some good some not, and they’ve clarified what bothers me: chatbots are AI in the same way 2015 hoverboards were Back to the Future hoverboards. The branding makes promises the tech can’t keep but in this case it’s not as obvious.",
+    "indexed_at": "2026-03-06T19:53:46.158Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:kk2a54fcplihszfwvzqprfwn/post/3mgg3npreo22m",
+    "author_handle": "emilyhopkins.bsky.social",
+    "author_display_name": "Emily Hopkins is at #NICAR26",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kk2a54fcplihszfwvzqprfwn/bafkreiar7pmsyyk34edj6rgeqmw6xaquhvtrqcb4bcth7lxx2h2m4btz2a@jpeg",
+    "post_text": "If you're staying at the #NICAR26 conference hotel, you might be able to see a vacant plot of land a few blocks away. That's the site of Indy's first public burial ground, and it's been through some stuff.\n\nHere's the backstory:\n\nmirrorindy.org/greenlawn-ce...",
+    "indexed_at": "2026-03-06T19:53:17.050Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfzem4lv224",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
@@ -78,6 +96,24 @@
     "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
     "post_text": "R folks in Jonathan Soma's #NICAR26 session on Analyzing Images & Video with AI: The {ellmer} #RStats 📦 can request structured data, and you can use multiple providers & LLMs\nGet started: ellmer.tidyverse.org/articles/ell...\nStructured data: ellmer.tidyverse.org/articles/str...",
     "indexed_at": "2026-03-06T15:31:01.453Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:rny5cagrfvu6g6mmxbfbc3y3/post/3mgfldrnhz227",
+    "author_handle": "juliajrh.bsky.social",
+    "author_display_name": "Julia Haslanger",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rny5cagrfvu6g6mmxbfbc3y3/bafkreigatbuus3rngwm3knofqlehm227ldwu3qijzjbkftygz4qiz7mz24@jpeg",
+    "post_text": "And of course, also great insights and advice from the whole panel on working with reporters and editors who are excited about what's possible now, and training them to do it safely. #NICAR26",
+    "indexed_at": "2026-03-06T15:01:19.087Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:rny5cagrfvu6g6mmxbfbc3y3/post/3mgfldqwrh227",
+    "author_handle": "juliajrh.bsky.social",
+    "author_display_name": "Julia Haslanger",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rny5cagrfvu6g6mmxbfbc3y3/bafkreigatbuus3rngwm3knofqlehm227ldwu3qijzjbkftygz4qiz7mz24@jpeg",
+    "post_text": "In session on editing AI-powered journalism (code and stories), @meghanhoyer.bsky.social has had some great lines: \n\"That's not a story; that's a blob\" \n\"Trying to keep people from yeeting things into the paper\" \n\n #NICAR26",
+    "indexed_at": "2026-03-06T15:01:19.058Z",
     "image_urls": []
   },
   {
