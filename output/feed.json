@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mgfnbryqib2t",
+    "author_handle": "mikereilley.bsky.social",
+    "author_display_name": "Mike Reilley",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii@jpeg",
+    "post_text": "Keep up with the latest fact-checking tools on The Journalist's Toolbox: journaliststoolbox.ai/ai-fact-chec... \n\n#nicar26",
+    "indexed_at": "2026-03-06T15:36:05.864Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfmyst2b22g",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "R folks in Jonathan Soma's #NICAR26 session on Analyzing Images & Video with AI: The {ellmer} #RStats 📦 can request structured data, and you can use multiple providers & LLMs\nGet started: ellmer.tidyverse.org/articles/ell...\nStructured data: ellmer.tidyverse.org/articles/str...",
+    "indexed_at": "2026-03-06T15:31:01.453Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mgfldayiqc2g",
     "author_handle": "ire.org",
     "author_display_name": "Investigative Reporters & Editors",
