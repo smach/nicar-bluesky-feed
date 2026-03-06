@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfpgysofc2g",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "Analyzing Images & Video with AI - Jonathan Soma's @dangerscarf.bsky.social #NICAR26 session presentation\nIncludes links to lots of great Colab notebooks!\njsoma.github.io/workshop-ai-...\n#GenAI #Python",
+    "indexed_at": "2026-03-06T16:14:45.649Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:l67vavqzc2ayanc6fxwuozfg/post/3mgfos2n5kk2k",
+    "author_handle": "joeyerardi.bsky.social",
+    "author_display_name": "Joe Yerardi",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:l67vavqzc2ayanc6fxwuozfg/bafkreifmmkde57oi2nppvd4ovfy7xvmcyejxt3cjevvucziwx6l55om2lm@jpeg",
+    "post_text": "Here's the repo for me and Julia Ingram's \"Using immigration data to tell stories in your community\" #NICAR26 session: github.com/juliaingram/... And feel free to email me with any questions (whether or not you were able to attend)! joe.yerardi@gmail.com",
+    "indexed_at": "2026-03-06T16:03:05.564Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mgfnbryqib2t",
     "author_handle": "mikereilley.bsky.social",
     "author_display_name": "Mike Reilley",
