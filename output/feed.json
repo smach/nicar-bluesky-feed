@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgg5hpi4pk2t",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "While I've been at #GenAI talks at #Nicar26: \"GPT-5.4 is now available,\" OpenAI announced. \"It completes complex tasks with less back-and-forth while using significantly fewer tokens than GPT-5.2.\"\nNew prompt guide: developers.openai.com/api/docs/gui...",
+    "indexed_at": "2026-03-06T20:25:45.054Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgg3onckr22l",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
@@ -63,6 +72,15 @@
     "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:hieu5evszvpm4bgfhme727ie/bafkreidcygxixp3ah6sdujypcvdveufmfq63qzl4lanusz3kj4dtvopkem@jpeg"
   },
   {
+    "post_url": "https://bsky.app/profile/did:plc:e7nifb4uq4qzulm5wweno5nh/post/3mgfpr5t7rk24",
+    "author_handle": "murphywoodhouse.bsky.social",
+    "author_display_name": "Murphy Woodhouse",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:e7nifb4uq4qzulm5wweno5nh/bafkreif3vhyisbujjj2ii3ykc4fz3vrp22jwlkda22nbx5yo6im3lyfdsq",
+    "post_text": "Could not currently be closer to Indianapolis! #nicar26",
+    "indexed_at": "2026-03-06T16:20:26.754Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfpgysofc2g",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
@@ -97,6 +115,15 @@
     "post_text": "R folks in Jonathan Soma's #NICAR26 session on Analyzing Images & Video with AI: The {ellmer} #RStats 📦 can request structured data, and you can use multiple providers & LLMs\nGet started: ellmer.tidyverse.org/articles/ell...\nStructured data: ellmer.tidyverse.org/articles/str...",
     "indexed_at": "2026-03-06T15:31:01.453Z",
     "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:rny5cagrfvu6g6mmxbfbc3y3/post/3mgflzf2hz227",
+    "author_handle": "juliajrh.bsky.social",
+    "author_display_name": "Julia Haslanger",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:rny5cagrfvu6g6mmxbfbc3y3/bafkreigatbuus3rngwm3knofqlehm227ldwu3qijzjbkftygz4qiz7mz24@jpeg",
+    "post_text": "If you're at #NICAR26 and have questions about this job on the job board, I'm happy to talk! It's a role on my old team. (I'm not involved in hiring, though.)",
+    "indexed_at": "2026-03-06T15:13:26.154Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:rny5cagrfvu6g6mmxbfbc3y3/bafkreia5oxpsruljkhfkx6bio3r2z3fl7unzhb4gxmskismtqfexwgzt4y@jpeg"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:rny5cagrfvu6g6mmxbfbc3y3/post/3mgfldrnhz227",
