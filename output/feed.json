@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:aljpcrrf7qt6lhlnumjum6oz/post/3mghq6vbddk2m",
+    "author_handle": "olihawkins.com",
+    "author_display_name": "Oli Hawkins",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:aljpcrrf7qt6lhlnumjum6oz/bafkreig2g4jgkwkocxq7n54rsbislm3m4bmt4wtz6euuaodx5fqhiz45ym",
+    "post_text": "If you use Python and are curious about learning Polars, you might like the workshop @eadehemingway.bsky.social and I delivered at #NICAR26: Analyzing election data with Polars and Python. The repo contains a detailed walkthrough of everything we covered in the session.\n\ngithub.com/olihawkins/n...",
+    "indexed_at": "2026-03-07T11:33:30.759Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mghhqa6kto2t",
+    "author_handle": "mikereilley.bsky.social",
+    "author_display_name": "Mike Reilley",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii@jpeg",
+    "post_text": "Some links on The Journalist's Toolbox that are helpful for #nicar26 attendees ...\n\nPublic documents: journaliststoolbox.ai/databases-pu... \n\nData viz tools: journaliststoolbox.ai/ai-driven-da... \n\nData scraping: journaliststoolbox.ai/scraping-too... \n\n#ddj #dataviz #datajournalism",
+    "indexed_at": "2026-03-07T09:02:05.350Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgggehmlrc2o",
     "author_handle": "datab.ae",
     "author_display_name": "Steven Rich",
