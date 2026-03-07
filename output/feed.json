@@ -1,5 +1,32 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgi47zk4xc2d",
+    "author_handle": "datab.ae",
+    "author_display_name": "Steven Rich",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tlisahl4gkdahatdk22ryjnq/bafkreibikjf7zexyk77myf3ksuiu5vu344oemss52jrbbitaftnuvrrrxq@jpeg",
+    "post_text": "it’s the third day of #NICAR26 and i am barely awake. god i love this conference.",
+    "indexed_at": "2026-03-07T15:08:49.059Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgi3tkbt5s2e",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "I've been at a few #NICAR26 Python AI sessions but haven't heard this package mentioned: chatlas from Posit (formerly RStudio) which lets you use LLMs from various providers. Might be of interest to some?\nposit.co/blog/announc...\n#GenAI #Python",
+    "indexed_at": "2026-03-07T15:01:54.156Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:vgt23vx7rtqqgqe5pfmqmar4/post/3mgi2gvtpjk2s",
+    "author_handle": "jonathanellis.bsky.social",
+    "author_display_name": "Jonathan Ellis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vgt23vx7rtqqgqe5pfmqmar4/bafkreifrtswmwci5iecacsxgjugunyl2sptvy3g5nkc56imeg7ln4swl4q",
+    "post_text": "New @upshot.nytimes.com job just posted — come help us explain the news!\n\nWe're looking for a visual journalist and graphics developer to report, write, design and code data-driven stories and visualizations.\n\nIf you're at #NICAR26, come say hi.\n\nDetails here: www.nytco.com/careers/job-...",
+    "indexed_at": "2026-03-07T14:36:54.150Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:xyvwy33gyvh2gac7y3ynyogz/post/3mghyhrco522p",
     "author_handle": "newsmediahelpdesk.org",
     "author_display_name": "News Media Help Desk",
