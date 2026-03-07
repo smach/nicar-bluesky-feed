@@ -1,5 +1,59 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:it66pqlgj3el3xkuvefluc4u/post/3mgibjtoxbc2b",
+    "author_handle": "simonrogers.bsky.social",
+    "author_display_name": "Simon Rogers",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:it66pqlgj3el3xkuvefluc4u/bafkreid7qequ7d6fg5wcgxufklcci4xvye6bnuigb7cuu2apyhmi2pe7pm",
+    "post_text": "🚨Are you at #NICAR26 today? Don't miss the Data Journalism Podcast live recording at 5pm with @propublica.org plus @kleinmatic.bsky.social, @albertocairo.com and me!\n\nschedules.ire.org/nicar-2026/#...",
+    "indexed_at": "2026-03-07T16:43:53.658Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:it66pqlgj3el3xkuvefluc4u/bafkreicfgfptj2sdgwspvfzed6e7jm4tpoizniy4zhafo4dqjecmqn7nc4"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/post/3mgibgxim522o",
+    "author_handle": "dangerscarf.bsky.social",
+    "author_display_name": "j soma",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreic7brqa5h33onkpi3pzbtcpy6xfovjvwmumsim5wzeobypjpacnyy@jpeg",
+    "post_text": "Notes from my #NICAR26 session on browser automation and scraping with Playwright!\n\njsoma.github.io/workshop-bro...",
+    "indexed_at": "2026-03-07T16:42:12.068Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreidqqyzp7l56sqjpsnmwxxiqp5a67ykfpbuc5wanh2f44rnxryyrry@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/post/3mgibdebqnc2y",
+    "author_handle": "dangerscarf.bsky.social",
+    "author_display_name": "j soma",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreic7brqa5h33onkpi3pzbtcpy6xfovjvwmumsim5wzeobypjpacnyy@jpeg",
+    "post_text": "Notes and code from my #NICAR26 talk on my FAVORITE pdf processing library (very not biased), Natural PDF\n\njsoma.github.io/natural-pdf-...",
+    "indexed_at": "2026-03-07T16:40:11.865Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreihqlp3c4j2zy4uopcylwaaznoqj3dufpmureeggcdtqzgad2ufavy@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/post/3mgib76avi22y",
+    "author_handle": "dangerscarf.bsky.social",
+    "author_display_name": "j soma",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreic7brqa5h33onkpi3pzbtcpy6xfovjvwmumsim5wzeobypjpacnyy@jpeg",
+    "post_text": "Notes and code from my #NICAR26 talk: Analyzing Images and Video with AI!\n\njsoma.github.io/workshop-ai-...",
+    "indexed_at": "2026-03-07T16:37:49.064Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/post/3mgib3wb2bc2y",
+    "author_handle": "dangerscarf.bsky.social",
+    "author_display_name": "j soma",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:4qfrdgf5qpvzbg6a6idq2tkx/bafkreic7brqa5h33onkpi3pzbtcpy6xfovjvwmumsim5wzeobypjpacnyy@jpeg",
+    "post_text": "Slides and notes for #NICAR26 No-Code AI pipelines with n8n!\n\ngithub.com/jsoma/worksh...",
+    "indexed_at": "2026-03-07T16:36:02.854Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:vs5s6ld4fi4zoqgratlzp4iy/post/3mgiae65ft22z",
+    "author_handle": "liamsadams.bsky.social",
+    "author_display_name": "Liam Adams",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vs5s6ld4fi4zoqgratlzp4iy/bafkreicen2vhdddnmhrbnq7gzu3xmbmcz7qedbaxrsrpzan4yv6qc4mlu4",
+    "post_text": "Excited to currently be in a #NICAR26 nonprofit deep dive session co-led by @andreasuozzo.com, who authored this bombshell story from 2022 I still remember of the Family Research Council registering with the IRS as a church to shield its donor info. www.propublica.org/article/fami...",
+    "indexed_at": "2026-03-07T16:22:44.555Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgi6leczoc2e",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
