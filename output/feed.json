@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj3tcuf5c2z",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "It was so interesting to hear at #NICAR26 how different newsrooms are - and aren't - using AI. The NY Times looks to have a very well thought out approach, always making sure human experts start and review any AI work.\n(And they have some amazing internal tools)\n#GenAI",
+    "indexed_at": "2026-03-08T00:34:23.952Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreias4wew55p3bum5zm4kj7uhlmfovc42o7pwggwst2kwc5tbxwx6t4@jpeg"
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:oikr7hbty5mpx4gixonxsxeb/post/3mgj2orstoc2j",
+    "author_handle": "robwells.bsky.social",
+    "author_display_name": "Rob Wells",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:oikr7hbty5mpx4gixonxsxeb/bafkreie5glzcx3bnsmburrhag2xhlnlulhokvhjrhn2hgo6s2zanrffscq",
+    "post_text": "Here's the repo for my computational text analysis talks at #nicar2026\n\nThanks to the brave souls who attended!\n\ngithub.com/profrobwells...",
+    "indexed_at": "2026-03-08T00:13:56.761Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgiy2g3hb22g",
     "author_handle": "datab.ae",
     "author_display_name": "Steven Rich",
