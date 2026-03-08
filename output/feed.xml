@@ -5,7 +5,7 @@
     <link>https://bsky.app</link>
     <description>Bluesky posts about the NICAR 2026 conference (#NICAR26, #NICAR2026)</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 21:16:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 21:45:39 +0000</lastBuildDate>
 
 <item>
   <title>Sharon Machlis (@smachlis.bsky.social)</title>
@@ -23,6 +23,14 @@
   <description><![CDATA[For an actual R- and Python-specific coding agent, Positron Assistant has an Agent mode. You can choose from a couple of different model providers, but alas it's all pay-per-use API -- you can't use a $20 Claude or ChatGPT subscription. 
 www.youtube.com/watch?v=9ZW2...
 FYI #NICAR26]]></description>
+</item>
+<item>
+  <title>Andrea Suozzo (@andreasuozzo.com)</title>
+  <link>https://bsky.app/profile/did:plc:wbikzb3gcriudrggv2pm7bqj/post/3mgl35o3cbc2d</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:wbikzb3gcriudrggv2pm7bqj/post/3mgl35o3cbc2d</guid>
+  <pubDate>Sun, 08 Mar 2026 19:27:40 +0000</pubDate>
+  <description><![CDATA[What a whirlwind #nicar26 was. Sitting quietly in one place and knocking out the colorwork portion of this sock was a deeply satisfying way to pass the time on the flight(s) home.<br/><br/><img src="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wbikzb3gcriudrggv2pm7bqj/bafkreia5p6aqkv2i4korptr2p2yxfdkjhzlvm3nknwgynnm6j7hhnmabvm" style="max-width:100%;" />]]></description>
+  <media:content url="https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:wbikzb3gcriudrggv2pm7bqj/bafkreia5p6aqkv2i4korptr2p2yxfdkjhzlvm3nknwgynnm6j7hhnmabvm" medium="image" type="image/jpeg" />
 </item>
 <item>
   <title>Steven Rich (@datab.ae)</title>
