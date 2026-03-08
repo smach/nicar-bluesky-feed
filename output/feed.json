@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgl5yzqmas2u",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "For an actual R- and Python-specific coding agent, Positron Assistant has an Agent mode. You can choose from a couple of different model providers, but alas it's all pay-per-use API -- you can't use a $20 Claude or ChatGPT subscription. \nwww.youtube.com/watch?v=9ZW2...\nFYI #NICAR26",
+    "indexed_at": "2026-03-08T20:18:42.055Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:tlisahl4gkdahatdk22ryjnq/post/3mgkud47ljc2f",
     "author_handle": "datab.ae",
     "author_display_name": "Steven Rich",
