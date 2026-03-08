@@ -5,8 +5,25 @@
     <link>https://bsky.app</link>
     <description>Bluesky posts about the NICAR 2026 conference (#NICAR26, #NICAR2026)</description>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 00:51:59 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 01:45:52 +0000</lastBuildDate>
 
+<item>
+  <title>Sharon Machlis (@smachlis.bsky.social)</title>
+  <link>https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj5y4dyf22z</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj5y4dyf22z</guid>
+  <pubDate>Sun, 08 Mar 2026 01:12:53 +0000</pubDate>
+  <description><![CDATA[Semantra is an open-source tool for searching documents by meaning, not keywords. It aims "to make running a specialized semantic search engine easy, friendly, configurable, and private/secure." Developed by @dylanfreedman.nytimes.com 
+github.com/freedmand/se...
+(Needs #Python installed) 
+#NICAR26]]></description>
+</item>
+<item>
+  <title>Ethan Corey (@ethanscorey.bsky.social)</title>
+  <link>https://bsky.app/profile/did:plc:fag53mdehzrwk43qjvrgmkyk/post/3mgj4pr3mgk2l</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:fag53mdehzrwk43qjvrgmkyk/post/3mgj4pr3mgk2l</guid>
+  <pubDate>Sun, 08 Mar 2026 00:50:18 +0000</pubDate>
+  <description><![CDATA[I had the pleasure of running a hands-on workshop on fact-checking data stories at #NICAR26 today, where we had lots of fun diagnosing errors in data analysis. For those who couldn't make it, check out the Google Colab notebook here: colab.research.google.com/drive/1NrbfS...]]></description>
+</item>
 <item>
   <title>Sharon Machlis (@smachlis.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj3tcuf5c2z</link>

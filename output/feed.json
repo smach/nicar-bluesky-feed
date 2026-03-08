@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj5y4dyf22z",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "Semantra is an open-source tool for searching documents by meaning, not keywords. It aims \"to make running a specialized semantic search engine easy, friendly, configurable, and private/secure.\" Developed by @dylanfreedman.nytimes.com \ngithub.com/freedmand/se...\n(Needs #Python installed) \n#NICAR26",
+    "indexed_at": "2026-03-08T01:12:53.052Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:fag53mdehzrwk43qjvrgmkyk/post/3mgj4pr3mgk2l",
+    "author_handle": "ethanscorey.bsky.social",
+    "author_display_name": "Ethan Corey",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fag53mdehzrwk43qjvrgmkyk/bafkreihsrsjp663lkxsu4geiextzvj6fkn36uxm7lt4ybvokhp3bkbthoy",
+    "post_text": "I had the pleasure of running a hands-on workshop on fact-checking data stories at #NICAR26 today, where we had lots of fun diagnosing errors in data analysis. For those who couldn't make it, check out the Google Colab notebook here: colab.research.google.com/drive/1NrbfS...",
+    "indexed_at": "2026-03-08T00:50:18.152Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj3tcuf5c2z",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
