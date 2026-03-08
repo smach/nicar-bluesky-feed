@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgksl6w2ck2s",
+    "author_handle": "smachlis.bsky.social",
+    "author_display_name": "Sharon Machlis",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "post_text": "Hey R and Python folks at #NICAR26 looking at coding agents for data analysis: Databot from Posit (formerly RStudio) is another option. It's an assistant for the Positron IDE specifically designed for data work.\nSee a demo from September's Posit conference:\nyoutu.be/Ve7cNChzq5Q?...\n#RStats #Python",
+    "indexed_at": "2026-03-08T16:54:06.256Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:tjwo6giieciz332tuy2u2or3/post/3mgkovz3k3k22",
     "author_handle": "hinklej.bsky.social",
     "author_display_name": "Josh Hinkle",
