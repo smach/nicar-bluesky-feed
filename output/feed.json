@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:35vhrw4vfcilzxggzbhxukyy/post/3mgn6pqcud22b",
+    "author_handle": "matthodges.bsky.social",
+    "author_display_name": "Matt Hodges",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:35vhrw4vfcilzxggzbhxukyy/bafkreigbtpgqtzfnnycmmc45smdrrkk55ayx35cwusopv2ax6sv44dgc2u",
+    "post_text": "Hey this is fun, agent-fecfile¹ was featured in @akesslerdc.bsky.social's talk² at NICAR³ over the weekend.\n\n¹ github.com/hodgesmr/agent-fecfile\n² github.com/amkessler/ni...\n³ schedules.ire.org/nicar-2026/#...",
+    "indexed_at": "2026-03-09T15:36:43.463Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mgn6okgjgl27",
+    "author_handle": "mikereilley.bsky.social",
+    "author_display_name": "Mike Reilley",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii",
+    "post_text": "Interesting #nicar26 session: \"Fact-Checking AI-Assisted Reporting in the Newsroom\". A lot of talk about disclosures both internally and externally. We post disclosures on stories and AI policy on our principles page on",
+    "indexed_at": "2026-03-09T15:36:06.052Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgn5dhuzks24",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
