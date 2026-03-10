@@ -39,7 +39,7 @@
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgn5dhuzks24",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "Hey #NICAR26 attendees! Especially @newsguild.org members! Did you know that by buying coffee at the hotel Starbucks, the only coffee shop anywhere nearby during a massive rain storm, you crossed a picket line?\n\nAtone by donating however much you spent to the @sbworkersunited.org strike fund!",
     "indexed_at": "2026-03-09T15:11:58.450Z",
     "image_urls": []
@@ -57,10 +57,10 @@
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgn4elqxrc24",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "I couldn’t get a flight without a stupid time or layover until today so, in case you were wondering what’s here after #NICAR26, it’s the exact opposite conference: Work Truck Week.",
     "indexed_at": "2026-03-09T14:54:44.161Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreiapf4f7tp74h2ynykcuxcugecsg4asoej3laqotpqhhf5adrzzmjm@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreiapf4f7tp74h2ynykcuxcugecsg4asoej3laqotpqhhf5adrzzmjm"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:vfbippewiweehtso5gt5j4ly/post/3mgmze7dtak2j",
@@ -102,7 +102,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgl7zd5bos2s",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Dug up my notes and handout files from NICAR 2007, including how to scrape a website with Perl. 😅\n#NICAR",
     "indexed_at": "2026-03-08T20:54:37.267Z",
     "image_urls": []
@@ -111,7 +111,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgl5yzqmas2u",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "For an actual R- and Python-specific coding agent, Positron Assistant has an Agent mode. You can choose from a couple of different model providers, but alas it's all pay-per-use API -- you can't use a $20 Claude or ChatGPT subscription. \nwww.youtube.com/watch?v=9ZW2...\nFYI #NICAR26",
     "indexed_at": "2026-03-08T20:18:42.055Z",
     "image_urls": []
@@ -156,7 +156,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgksl6w2ck2s",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Hey R and Python folks at #NICAR26 looking at coding agents for data analysis: Databot from Posit (formerly RStudio) is another option. It's an assistant for the Positron IDE specifically designed for data work.\nSee a demo from September's Posit conference:\nyoutu.be/Ve7cNChzq5Q?...\n#RStats #Python",
     "indexed_at": "2026-03-08T16:54:06.256Z",
     "image_urls": []
@@ -237,16 +237,16 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgjdwcnvak2b",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "Fun time in Indianapolis this week for #nicar26",
     "indexed_at": "2026-03-08T02:59:18.849Z",
-    "image_urls": ["https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreicq2d7dcoxflym5uer5vusvuu7shlkjdf5gj6moxwt5uhi5scqziy@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreiaelv6rrmwwyqdcsbismescwenpu6vzxjcufpriziufl4prxtvq3u@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreid5uxz66gbgvfkrloe6za74wogxdkrkrpnfunvpv4ryxzrmn6vf2i@jpeg", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreiftfyxe23fk7ubmp2bwonkgrd3sno543gkfnexofqbzdsnefuyb5u@jpeg"]
+    "image_urls": ["https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreicq2d7dcoxflym5uer5vusvuu7shlkjdf5gj6moxwt5uhi5scqziy", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreiaelv6rrmwwyqdcsbismescwenpu6vzxjcufpriziufl4prxtvq3u", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreid5uxz66gbgvfkrloe6za74wogxdkrkrpnfunvpv4ryxzrmn6vf2i", "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreiftfyxe23fk7ubmp2bwonkgrd3sno543gkfnexofqbzdsnefuyb5u"]
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgja22nthk22",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "In case anyone at #NICAR26 was wondering, the “JW” in JW Marriott is after the founder, J. Willard Marriott.\n\nAlso, in case you were wondering, the J stands for John. He could have been John W. Marriott but instead opted for J. Willard. The past, man.",
     "indexed_at": "2026-03-08T01:49:43.455Z",
     "image_urls": []
@@ -255,7 +255,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj5y4dyf22z",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Semantra is an open-source tool for searching documents by meaning, not keywords. It aims \"to make running a specialized semantic search engine easy, friendly, configurable, and private/secure.\" Developed by @dylanfreedman.nytimes.com \ngithub.com/freedmand/se...\n(Needs #Python installed) \n#NICAR26",
     "indexed_at": "2026-03-08T01:12:53.052Z",
     "image_urls": []
@@ -273,10 +273,10 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgj3tcuf5c2z",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "It was so interesting to hear at #NICAR26 how different newsrooms are - and aren't - using AI. The NY Times looks to have a very well thought out approach, always making sure human experts start and review any AI work.\n(And they have some amazing internal tools)\n#GenAI",
     "indexed_at": "2026-03-08T00:34:23.952Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreias4wew55p3bum5zm4kj7uhlmfovc42o7pwggwst2kwc5tbxwx6t4@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreias4wew55p3bum5zm4kj7uhlmfovc42o7pwggwst2kwc5tbxwx6t4"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:oikr7hbty5mpx4gixonxsxeb/post/3mgj2orstoc2j",
@@ -471,7 +471,7 @@
     "post_url": "https://bsky.app/profile/did:plc:k6a35s56ijvrb4zjkq4ojll5/post/3mgie55rqmq2s",
     "author_handle": "toptags.bsky.social",
     "author_display_name": "Trending Hashtags",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k6a35s56ijvrb4zjkq4ojll5/bafkreig245kjl6p7mqi5dfklu4dkz6ljeatazqhpmylzh6tvwxk33mdyyu@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:k6a35s56ijvrb4zjkq4ojll5/bafkreig245kjl6p7mqi5dfklu4dkz6ljeatazqhpmylzh6tvwxk33mdyyu",
     "post_text": "🔥 BlueSky trending hashtags (30m) #16-30:\n\n#oc #birds #scs #ass #furryart #nature #fanart #indiedev #ffxiv #nicar26 #screenshotsaturday #butt #digitalart #landscape #iran\n\n👇 #1-15 trending hashtags",
     "indexed_at": "2026-03-07T17:30:22.556Z",
     "image_urls": []
@@ -489,7 +489,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgidunrlck2e",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Correction! @jamditis.bsky.social 's skills collection is at skills.amditis.tech (Not presented at #NICAR26 as far as I know but a worthwhile resource for journalists interested in skills!)",
     "indexed_at": "2026-03-07T17:25:38.555Z",
     "image_urls": []
@@ -498,7 +498,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgidm6fyck2e",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Interested in using AI skills for Claude/Codex in journalism? Check out @akesslerdc.bsky.social 's #NICAR26 session repo: github.com/amkessler/ni...\n\nAnother great resource: @jamditis.bsky.social 's skills collection for journalists/researchers/academics github.com/amkessler/ni...",
     "indexed_at": "2026-03-07T17:20:55.461Z",
     "image_urls": []
@@ -525,10 +525,10 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgid3dqpjs23",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Census swag from #NICAR26 😀 Move the wheel to get some basic facts about a state",
     "indexed_at": "2026-03-07T17:11:34.862Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreid2fsznpthxlqh5qjex5oa3qc2gux2tp3yjiuxd5ficdw6t6gpame@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreid2fsznpthxlqh5qjex5oa3qc2gux2tp3yjiuxd5ficdw6t6gpame"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:it66pqlgj3el3xkuvefluc4u/post/3mgibjtoxbc2b",
@@ -588,7 +588,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgi6leczoc2e",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Interesting #NICAR26 session this AM on creating a background 'beat book' for local journalists based on a publication's archives, AND adding other data for more context. The idea seems transferable for other uses too.\nRepo: github.com/NewsAppsUMD/...",
     "indexed_at": "2026-03-07T15:51:05.358Z",
     "image_urls": []
@@ -642,7 +642,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgi3tkbt5s2e",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "I've been at a few #NICAR26 Python AI sessions but haven't heard this package mentioned: chatlas from Posit (formerly RStudio) which lets you use LLMs from various providers. Might be of interest to some?\nposit.co/blog/announc...\n#GenAI #Python",
     "indexed_at": "2026-03-07T15:01:54.156Z",
     "image_urls": []
@@ -732,7 +732,7 @@
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mggd44yey22e",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "Hey, anyone in #NICAR leadership following any of the hashtags? #NICAR26, #NICAR2026, #INDYNICAR? @ire.org? I have a question:\n\nThe slide said attendees from 48 states, territories, and DC. I assume that means DC (obviously) and Puerto Rico are represented. So which four states didn’t send anyone?",
     "indexed_at": "2026-03-06T22:06:35.262Z",
     "image_urls": []
@@ -777,7 +777,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgg5hpi4pk2t",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "While I've been at #GenAI talks at #Nicar26: \"GPT-5.4 is now available,\" OpenAI announced. \"It completes complex tasks with less back-and-forth while using significantly fewer tokens than GPT-5.2.\"\nNew prompt guide: developers.openai.com/api/docs/gui...",
     "indexed_at": "2026-03-06T20:25:45.054Z",
     "image_urls": []
@@ -786,7 +786,7 @@
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgg3onckr22l",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "There are quite a few LLM sessions at #NICAR26 as you might imagine, some good some not, and they’ve clarified what bothers me: chatbots are AI in the same way 2015 hoverboards were Back to the Future hoverboards. The branding makes promises the tech can’t keep but in this case it’s not as obvious.",
     "indexed_at": "2026-03-06T19:53:46.158Z",
     "image_urls": []
@@ -804,10 +804,10 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfzem4lv224",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "It's nice to be someplace without 3 feet of snow piled up everywhere! Not to mention taking a lunchtime walk without a coat. ☀️ Current temperature: 73F/23C #Nicar26 #Indianapolis",
     "indexed_at": "2026-03-06T19:12:29.956Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibrhzybmnm33sf332uot7usmsalofndx5zootk3fy2ypk54li7tau@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibrhzybmnm33sf332uot7usmsalofndx5zootk3fy2ypk54li7tau"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:vjnzcd26k3w527veu6mekk2r/post/3mgfxrxrxu72o",
@@ -858,7 +858,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfpgysofc2g",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Analyzing Images & Video with AI - Jonathan Soma's @dangerscarf.bsky.social #NICAR26 session presentation\nIncludes links to lots of great Colab notebooks!\njsoma.github.io/workshop-ai-...\n#GenAI #Python",
     "indexed_at": "2026-03-06T16:14:45.649Z",
     "image_urls": []
@@ -885,7 +885,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfmyst2b22g",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "R folks in Jonathan Soma's #NICAR26 session on Analyzing Images & Video with AI: The {ellmer} #RStats 📦 can request structured data, and you can use multiple providers & LLMs\nGet started: ellmer.tidyverse.org/articles/ell...\nStructured data: ellmer.tidyverse.org/articles/str...",
     "indexed_at": "2026-03-06T15:31:01.453Z",
     "image_urls": []
@@ -930,10 +930,10 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgfl3ignv22o",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "Fascinating breakdown by @leonyin.org of the influencer / crypto gambling investigations he worked on at @bloomberg.com \n\nLeon made a great point here: Data journalism is less about code, more about organization and being thorough. Believe me, he is!\n\nwww.bloomberg.com/features/202...\n\n#nicar26",
     "indexed_at": "2026-03-06T14:56:48.751Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreibdhr4jctvircvczpnd4h7sm57pldwos2gsq5meaih3kggky3tzkm@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreibdhr4jctvircvczpnd4h7sm57pldwos2gsq5meaih3kggky3tzkm"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:qlvytrdnw5xfmnih5oozvqld/post/3mgfk6cabrc2a",
@@ -966,10 +966,10 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgfg3hi3ic2g",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "25 free resources, presentations & tip sheets so far added to my searchable table of #NICAR26 materials, including\n10 Things you Didn't Know You Could Do in R\nAI Glossary for Journalists\nDecoding Deportation Data\napps.machlis.com/shiny/nicar2...\nPlus lots from prior yrs\n#RStats #Python #GenAI #DDJ",
     "indexed_at": "2026-03-06T13:27:16.650Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreihcw2uftj5vvtrpk3hhmsddfzf6um24tgr7e2c7ykxawbpyzwkvci@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreihcw2uftj5vvtrpk3hhmsddfzf6um24tgr7e2c7ykxawbpyzwkvci"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:c3uxhlqdmi4ltuv677spswvi/post/3mgfexyw4hs2w",
@@ -1047,7 +1047,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgdsfva43c2j",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "@dangerscarf.bsky.social 's videos on No-Code Pipelines and AI Agents with n8n\nbit.ly/nicar-workflows\n#NICAR26 #GenAI",
     "indexed_at": "2026-03-05T22:02:30.855Z",
     "image_urls": []
@@ -1056,7 +1056,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgdqzw75as2j",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Want to find out more about analyzing text with R? At his #NICAR26 presentation, @robwells.bsky.social mentioned @juliasilge.com 's book\nwww.tidytextmining.com\nJulia also has a free interactive online course juliasilge.com/blog/learn-t...\n#RStats \nHis repo: github.com/profrobwells...",
     "indexed_at": "2026-03-05T21:37:57.052Z",
     "image_urls": []
@@ -1065,7 +1065,7 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgdqnxxn2c24",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "For our #NICAR26 panel we threw together this free, open-source glossary of AI terms and foundational concepts that journalists should know. \n\nWe will be adding to this! (Forked from prior work by @palewi.re @dwillis.bsky.social et al)\n\naiglossary.news",
     "indexed_at": "2026-03-05T21:31:14.556Z",
     "image_urls": []
@@ -1110,7 +1110,7 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgdj4pshqc2l",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "Finish your lunch and come join us at 2:30! #nicar26",
     "indexed_at": "2026-03-05T19:16:17.953Z",
     "image_urls": []
@@ -1137,7 +1137,7 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgddaqiwp22e",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "Hey #NICAR26! Coming up at 2:30pm @ryanserpi.co @libbyseline.bsky.social and I will be doing our panel “AI concepts you should know.”\n\nWe will walk you through some of the fundamental concepts of AI and explain the jargon you should know! \n\nschedules.ire.org/nicar-2026/#...\nWhite River D, Level 1.",
     "indexed_at": "2026-03-05T17:31:11.674Z",
     "image_urls": []
@@ -1146,7 +1146,7 @@
     "post_url": "https://bsky.app/profile/did:plc:n6qqda3ikmu5injobtqmmoan/post/3mgdcjmchvk2b",
     "author_handle": "hannahrecht.bsky.social",
     "author_display_name": "Hannah Recht",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n6qqda3ikmu5injobtqmmoan/bafkreihvmnt5trw6xmnchvyu7g42q2uzcxng3fgx2imicfqlan34p2ood4@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:n6qqda3ikmu5injobtqmmoan/bafkreihvmnt5trw6xmnchvyu7g42q2uzcxng3fgx2imicfqlan34p2ood4",
     "post_text": "most surprising factoid of #nicar26 so far: there are AI toilets\n🤯",
     "indexed_at": "2026-03-05T17:18:14.663Z",
     "image_urls": []
@@ -1209,7 +1209,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgd5kxxpnq2s",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "On seeking data about immigration enforcement in the US: \"Every records request should start with reporting\", Will Craft from the Guardian tells #NICAR26. Know what you should ask for, he advised. \"You have to be very very very precise.\" In other words: Do a lot of work prior to filing a FOIA.",
     "indexed_at": "2026-03-05T15:49:31.261Z",
     "image_urls": []
@@ -1245,7 +1245,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgd46rvr2v2b",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Interesting takeaway via Duy Nguyen [NY TImes]: Various AI-based tools have different places in the journalism process. For ex. chatbots can be useful to get started and find story ideas; AI-powered semantic search is better if you have subject expertise & more targeted questions #NICAR26 #GenAI\n",
     "indexed_at": "2026-03-05T15:24:48.551Z",
     "image_urls": []
@@ -1317,7 +1317,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgcyza2s5y2b",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "R folks listening to this morning's #NICAR26 session on extracting data from documents and - importantly! - how to check your results: You can set up and run evaluations of LLM results with the {vitals} #rstats 📦\nwww.infoworld.com/ar... #DDJ \n",
     "indexed_at": "2026-03-05T14:28:01.156Z",
     "image_urls": []
@@ -1326,7 +1326,7 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mgcyxwfyms2z",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "Keegans gonna NICAR! #nicar26",
     "indexed_at": "2026-03-05T14:27:17.258Z",
     "image_urls": []
@@ -1344,10 +1344,10 @@
     "post_url": "https://bsky.app/profile/did:plc:vhcbx566jx6r5fbu44nfbrrm/post/3mgcykpl5d22y",
     "author_handle": "reportercioffi.bsky.social",
     "author_display_name": "Chris Cioffi",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vhcbx566jx6r5fbu44nfbrrm/bafkreiamdmr2rfgmiqe6av4gl5ofltvicsw43fdcfje3wnyhyyc4gbt5le@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vhcbx566jx6r5fbu44nfbrrm/bafkreiamdmr2rfgmiqe6av4gl5ofltvicsw43fdcfje3wnyhyyc4gbt5le",
     "post_text": "LDA news: Excited to lead my first #NICAR26 session today on LobbyR, an R package I developed that turns federal lobbying disclosures into structured data. \n\nIt’s a lot easier with than using the site!\n\nCheck it out on CRAN: cran.r-project.org/package=lobbyR\n\nschedules.ire.org/nicar-2026/#...",
     "indexed_at": "2026-03-05T14:20:01.154Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vhcbx566jx6r5fbu44nfbrrm/bafkreiciiitc7zop6grvjf652jo4dnyjn3l4ptxpkl2ap4ttbvyzeei2bm@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vhcbx566jx6r5fbu44nfbrrm/bafkreiciiitc7zop6grvjf652jo4dnyjn3l4ptxpkl2ap4ttbvyzeei2bm"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:lse7quaysss2d3xxm76mouhd/post/3mgcxujahic2j",
@@ -1389,7 +1389,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mgcvjaag422s",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "This looks like it will be a very cool resource for data journalism ⬇️⬇️⬇️\nYou need to be an @ire.org member to access. Announced at the #NICAR26 data journalism conference #DDJ",
     "indexed_at": "2026-03-05T13:25:23.456Z",
     "image_urls": []
@@ -1595,7 +1595,7 @@
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgayfeeins2b",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "There’s an upgrade request for a D. Willis and I’m going to #NICAR26 so history suggests it’s @dwillis.bsky.social pretending to be me again.",
     "indexed_at": "2026-03-04T19:11:35.561Z",
     "image_urls": []
@@ -1675,7 +1675,7 @@
     "post_url": "https://bsky.app/profile/did:plc:mbapud2iwd44mypaxqa23iwy/post/3mgaejuhtms2b",
     "author_handle": "bayareadata.press",
     "author_display_name": "Daniel J. Willis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mbapud2iwd44mypaxqa23iwy/bafkreieetab7hjc63vujwkybam7xz2xrdcmuz2afnajpr4g22zn5h4xwcm",
     "post_text": "It is so incredibly early. You better be worth it, #NICAR26.",
     "indexed_at": "2026-03-04T13:16:11.462Z",
     "image_urls": []
@@ -1756,7 +1756,7 @@
     "post_url": "https://bsky.app/profile/did:plc:2aumdq7odforvxlyxucofbov/post/3mg66jfiih22c",
     "author_handle": "jonkeegan.com",
     "author_display_name": "Jon Keegan",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:2aumdq7odforvxlyxucofbov/bafkreib2qhuulj7kghjsisuwfkmatxti2gyj6fhkzgqocvn6za336lbg5u",
     "post_text": "Really looking forward to attending this week’s @ire.org NICAR conference in Indianapolis! 🏎️🏁\n\nI’ll be doing a panel with Libby Seline and Ryan Serpico where we dive into some of the AI concepts that journalists should know, and share some tips for reporting on AI. \nschedules.ire.org/nicar-2026/#...",
     "indexed_at": "2026-03-03T16:23:15.172Z",
     "image_urls": []
@@ -1810,7 +1810,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mg5wylsqac2k",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "For fun (I'm retired 😅) I worked with Claude to do this in R to also get an RSS feed. Data currently updates  hourly but I'll try to ⬆️ frequency during #NICAR26.\nWeb page: smach.github.io/nicar-bluesk...\nRSS feed: raw.githubusercontent.com/smach/nicar-...\nR code: github.com/smach/nicar-...",
     "indexed_at": "2026-03-03T14:08:33.953Z",
     "image_urls": []
@@ -1837,7 +1837,7 @@
     "post_url": "https://bsky.app/profile/did:plc:gnx6i2bam3kppwm7bgkxonz6/post/3mg47fraffc2p",
     "author_handle": "tejaldehyde.bsky.social",
     "author_display_name": "Tejal Wakchoure",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gnx6i2bam3kppwm7bgkxonz6/bafkreigoptgwasvwwuq72dpqe5cr6zdrwpjpq76drbcabajsh43ohfggny@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:gnx6i2bam3kppwm7bgkxonz6/bafkreigoptgwasvwwuq72dpqe5cr6zdrwpjpq76drbcabajsh43ohfggny",
     "post_text": "I'm moderating a panel at NICAR this week! Come hear @allanlasser.com, @elizabethrenter.bsky.social, @arlenemartinez.bsky.social and I talk about careers and finding your niche in news or news-adjacent roles. Stop by, say hi and bring your questions! schedules.ire.org/nicar-2026/#...",
     "indexed_at": "2026-03-02T21:33:45.960Z",
     "image_urls": []
@@ -1909,7 +1909,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfzeo3aabs2j",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Interest in posts about the NICAR data journalism conference March 5-8? This Bluesky feed collects posts with either the #NICAR26 or #NICAR2026 hashtag - plus searching for \"NICAR\" without a hashtag\nbsky.app/profile/smac...\n(Created with @blueskyfeedcreator.com ) #DDJ",
     "indexed_at": "2026-03-01T18:29:54.256Z",
     "image_urls": []
@@ -1918,7 +1918,7 @@
     "post_url": "https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mfzbne7dos2n",
     "author_handle": "laurakurtzberg.bsky.social",
     "author_display_name": "Laura Kurtzberg 🌻",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa",
     "post_text": "Reposting with hashtags! #NICAR26 #NICAR2026 Check out the start pack at bsky.app/starter-pack...",
     "indexed_at": "2026-03-01T17:35:48.962Z",
     "image_urls": []
@@ -1927,7 +1927,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfxaywao4c2a",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Alt text by gemma3:12b running on ollama: \"Presentation: Running LLMs locally! Aarushee Sahejpel & Dhrumil Mehta discuss at NICAR 26 (Indianapolis, March 5-8). Thursday, 3:45-4:45pm. Featuring race track graphic & speaker headshots.\"",
     "indexed_at": "2026-02-28T22:19:05.158Z",
     "image_urls": []
@@ -1972,7 +1972,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfua26wcf22x",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "[NICAR 2026 is a data journalism conference happening next week in Indianapolis #ddj ]",
     "indexed_at": "2026-02-27T17:23:54.351Z",
     "image_urls": []
@@ -1981,10 +1981,10 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfu6dpbuzs2x",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Browse, search, and filter all the NICAR 2026 posts on Bluesky R Shiny app collects all the posts with the #NICAR26 or #NICAR2026 hashtags\nApp: apps.machlis.com/shiny/nicar2...\n#RStats code: github.com/smach/bskyconf\n#RShiny \n[Did this for Twitter years ago, now updated]",
     "indexed_at": "2026-02-27T16:53:29.062Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreia6bbbprk6cdpvnyf2ghu3i7nndnaci3xrxwvguc62qjwnhjyr72a@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreia6bbbprk6cdpvnyf2ghu3i7nndnaci3xrxwvguc62qjwnhjyr72a"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:gepuyayq3n3mo5nt2iczhqb2/post/3mfu2zmxamq2g",
@@ -2044,7 +2044,7 @@
     "post_url": "https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mfrdnygsq22d",
     "author_handle": "laurakurtzberg.bsky.social",
     "author_display_name": "Laura Kurtzberg 🌻",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa",
     "post_text": "NICAR is next week already? I just added a bunch more speakers to the starter pack! Should be up-to-date now! Also, check out the NICAR schedule: schedules.ire.org/nicar-2026",
     "indexed_at": "2026-02-26T13:50:39.753Z",
     "image_urls": []
@@ -2143,7 +2143,7 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mfnbrrfg7s2p",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Ooo just spotted on GitHub: Scraping Sports Data With R\n\"Three R notebooks with step by step instructions on how to scrape data when it's easy, when it's a little harder, and when it's the NCAA and is awful.\"\ngithub.com/mattwaite/ni...\nFor a #NICAR26 #RStats workshop by @mattwaite.bsky.social",
     "indexed_at": "2026-02-24T23:06:22.451Z",
     "image_urls": []
@@ -2548,10 +2548,10 @@
     "post_url": "https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3meeds2lgu22e",
     "author_handle": "smachlis.bsky.social",
     "author_display_name": "Sharon Machlis",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibnnnsszsequwywf4bftmirf6t7xtywu6fp7gtadwywf7ymdyrdzi",
     "post_text": "Conference app chatbot built in R that:\n- Answers schedule questions\n- Includes both chatbot and searchable table\n- One-click button filters table to see only sessions AI bot mentions\nCode: github.com/smach/NICAR2...\nApp: smach-nicar2026-chatbot.share.connect.posit.cloud\n#RStats #RShiny #NICAR26",
     "indexed_at": "2026-02-08T16:23:12.655Z",
-    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibv45fxfafb3teifs5ejn5ycdrlduighqtg26jmim46zevikclc5q@jpeg"
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:z4cp3uwgxiioi7uaxn2boq47/bafkreibv45fxfafb3teifs5ejn5ycdrlduighqtg26jmim46zevikclc5q"
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:erviwprddtaax4tuu5w2m6z3/post/3meedjbqkrk2n",
@@ -2719,7 +2719,7 @@
     "post_url": "https://bsky.app/profile/did:plc:7wapwqskvzkdkgor6d637exo/post/3mdj5nrwk4k23",
     "author_handle": "laurakurtzberg.bsky.social",
     "author_display_name": "Laura Kurtzberg 🌻",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:7wapwqskvzkdkgor6d637exo/bafkreigewmk5ukcfnvcz7vy4vttb7mnybwmfswn2kzw6nhohwlkynyp3oa",
     "post_text": "I am so looking forward to being around this community of data journalists. If you are a NICAR speaker and I missed you, please DM me so I can add you to this starter pack! \ngo.bsky.app/H7iUZYd",
     "indexed_at": "2026-01-28T20:51:30.458Z",
     "image_urls": []
@@ -2809,7 +2809,7 @@
     "post_url": "https://bsky.app/profile/did:plc:kft6lu4trxowqmter2b6vg6z/post/3mbwcmkv5ck27",
     "author_handle": "simonwillison.net",
     "author_display_name": "Simon Willison",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiewl57f52tt6jrd7gtn75edweos7z6bjxsqhottxw4l7zme6o55ma@jpeg",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:kft6lu4trxowqmter2b6vg6z/bafkreiewl57f52tt6jrd7gtn75edweos7z6bjxsqhottxw4l7zme6o55ma",
     "post_text": "Are you coming to NICAR? I had a session accepted on using coding agent skills for exactly this kind of thing!",
     "indexed_at": "2026-01-08T15:34:32.133Z",
     "image_urls": []
