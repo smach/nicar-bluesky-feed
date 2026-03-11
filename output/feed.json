@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mgs2staip22v",
+    "author_handle": "openjournalism.bsky.social",
+    "author_display_name": "Open Journalism Bot",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:o5yc4qeobzkqthrnwrmvzqwg/bafkreihujvpe2dfcwk4hwvqgy7zfsuyi4emx36fl3x2tqejzxsryt3pg4m",
+    "post_text": "New open GitHub repo from IRE/NICAR!\n\nhttps://github.com/ireapps/ire-archive-frontend",
+    "indexed_at": "2026-03-11T14:10:10.051Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:fjqvlcfakpht4exffejyfc25/post/3mgpplbt5gs2j",
     "author_handle": "alexgarcia.xyz",
     "author_display_name": "Alex Garcia",
