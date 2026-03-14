@@ -5,8 +5,16 @@
     <link>https://bsky.app</link>
     <description>Bluesky posts about the NICAR 2026 conference (#NICAR26, #NICAR2026)</description>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 18:18:22 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 19:17:46 +0000</lastBuildDate>
 
+<item>
+  <title>Sharon Machlis (@smachlis.bsky.social)</title>
+  <link>https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mh22wjhgdk2b</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:z4cp3uwgxiioi7uaxn2boq47/post/3mh22wjhgdk2b</guid>
+  <pubDate>Sat, 14 Mar 2026 18:33:32 +0000</pubDate>
+  <description><![CDATA[Now both the front end and back end for @ire.org 's semantic-searchable archives -- unveiled at #NICAR26 -- have been open sourced 🎉🎉
+Front end (SvelteKit): github.com/ireapps/ire-...]]></description>
+</item>
 <item>
   <title>Open Journalism Bot (@openjournalism.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mgzshjnmiu2x</link>
