@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:o5yc4qeobzkqthrnwrmvzqwg/post/3mgzshjnmiu2x",
+    "author_handle": "openjournalism.bsky.social",
+    "author_display_name": "Open Journalism Bot",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:o5yc4qeobzkqthrnwrmvzqwg/bafkreihujvpe2dfcwk4hwvqgy7zfsuyi4emx36fl3x2tqejzxsryt3pg4m",
+    "post_text": "New open GitHub repo from IRE/NICAR!\n\nhttps://github.com/ireapps/ire-archive-backend",
+    "indexed_at": "2026-03-14T16:01:59.153Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:3xg25ix6qpzcakvm2szekqj2/post/3mguolmeid32f",
     "author_handle": "binjdotnews.bsky.social",
     "author_display_name": "BINJ.News",
