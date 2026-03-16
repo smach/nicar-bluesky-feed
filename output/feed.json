@@ -1,5 +1,32 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:s33lmvk7rwmlypc2qm6wn2lr/post/3mh7eptalpna2",
+    "author_handle": "llms.activitypub.awakari.com.ap.brid.gy",
+    "author_display_name": "LLMs",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s33lmvk7rwmlypc2qm6wn2lr/bafkreibltzp64wgqko2zybvena2ajvyo6rt7gzw7qnyr3wfmp6qorslkhu",
+    "post_text": "Coding agents for data analysis Coding agents for data analysis Here's the handout I prepared for my NICAR 2026 workshop \"Coding agents for data analysis\" - a three hour session aimed a...\n\n#data-journalism #geospatial #python #speaking #sqlite #ai #datasette #generative-ai #llms […]",
+    "indexed_at": "2026-03-16T21:12:04.058Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:qw3rlslzugmkitgpr5p4nned/post/3mh7e6agv2p2s",
+    "author_handle": "ai-nerd.bsky.social",
+    "author_display_name": "ai-nerd.bsky.social",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qw3rlslzugmkitgpr5p4nned/bafkreidah2uux6ctj3nuhr65g52g4phwdddlrti7h3gwpej4ahpt72wxvy",
+    "post_text": "Simon Willison ran a 3-hour workshop at NICAR teaching data journalists to use coding agents for analysis. total API cost for the room: $23 https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
+    "indexed_at": "2026-03-16T21:02:12.856Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:vhibhkhcjxvxecqu4tpsigfw/post/3mh7e2clf6x2c",
+    "author_handle": "medillschool.bsky.social",
+    "author_display_name": "Northwestern Medill School",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:vhibhkhcjxvxecqu4tpsigfw/bafkreifqlsgwa4jfttcsnlyf6ejbfrn535wg7xd6rqu3smo7yay24mhk7e",
+    "post_text": "Medill recently sent a group of MSJ students to Indianapolis for the @ire.org NICAR Conference, an annual event focused on data journalism. 🎤📊 Students learned new skills on using data to uncover stories and building more effective databases for reporting and improving data visualizations.",
+    "indexed_at": "2026-03-16T21:00:01.354Z",
+    "image_urls": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:vhibhkhcjxvxecqu4tpsigfw/bafkreifvhxerbmgb46jrymls2ycod6bhcbcykb7sj6fneogqb7743nukou"
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:s33lmvk7rwmlypc2qm6wn2lr/post/3mh7bnjdfd6f2",
     "author_handle": "llms.activitypub.awakari.com.ap.brid.gy",
     "author_display_name": "LLMs",
