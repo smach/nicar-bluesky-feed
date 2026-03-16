@@ -5,8 +5,24 @@
     <link>https://bsky.app</link>
     <description>Bluesky posts about the NICAR 2026 conference (#NICAR26, #NICAR2026)</description>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 19:32:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 20:22:02 +0000</lastBuildDate>
 
+<item>
+  <title>LLMs (@llms.activitypub.awakari.com.ap.brid.gy)</title>
+  <link>https://bsky.app/profile/did:plc:s33lmvk7rwmlypc2qm6wn2lr/post/3mh7bnjdfd6f2</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:s33lmvk7rwmlypc2qm6wn2lr/post/3mh7bnjdfd6f2</guid>
+  <pubDate>Mon, 16 Mar 2026 20:17:08 +0000</pubDate>
+  <description><![CDATA[Coding agents for data analysis Coding agents for data analysis Here's the handout I prepared for my NICAR 2026 workshop "Coding agents for data analysis" - a three hour session aimed a...
+
+#data-journalism #python #speaking #sqlite #ai #datasette #generative-ai #llms #github-codespaces #nicar […]]]></description>
+</item>
+<item>
+  <title>Simon Willison (@simon.fedi.simonwillison.net.ap.brid.gy)</title>
+  <link>https://bsky.app/profile/did:plc:mro7axagquvjt63foaqzddjx/post/3mh7bhk7vkqc2</link>
+  <guid isPermaLink="true">https://bsky.app/profile/did:plc:mro7axagquvjt63foaqzddjx/post/3mh7bhk7vkqc2</guid>
+  <pubDate>Mon, 16 Mar 2026 20:14:00 +0000</pubDate>
+  <description><![CDATA[Here's the handout for a three hour workshop I presented at the NICAR data journalism conference on using coding agents (Codex CLI, Claude Code etc) for data exploration, visualization and analysis https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/]]></description>
+</item>
 <item>
   <title>Investigate Midwest (@investigatemidwest.bsky.social)</title>
   <link>https://bsky.app/profile/did:plc:c3uxhlqdmi4ltuv677spswvi/post/3mh774nmej22u</link>

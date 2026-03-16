@@ -1,5 +1,23 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:s33lmvk7rwmlypc2qm6wn2lr/post/3mh7bnjdfd6f2",
+    "author_handle": "llms.activitypub.awakari.com.ap.brid.gy",
+    "author_display_name": "LLMs",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:s33lmvk7rwmlypc2qm6wn2lr/bafkreibltzp64wgqko2zybvena2ajvyo6rt7gzw7qnyr3wfmp6qorslkhu",
+    "post_text": "Coding agents for data analysis Coding agents for data analysis Here's the handout I prepared for my NICAR 2026 workshop \"Coding agents for data analysis\" - a three hour session aimed a...\n\n#data-journalism #python #speaking #sqlite #ai #datasette #generative-ai #llms #github-codespaces #nicar […]",
+    "indexed_at": "2026-03-16T20:17:08.353Z",
+    "image_urls": []
+  },
+  {
+    "post_url": "https://bsky.app/profile/did:plc:mro7axagquvjt63foaqzddjx/post/3mh7bhk7vkqc2",
+    "author_handle": "simon.fedi.simonwillison.net.ap.brid.gy",
+    "author_display_name": "Simon Willison",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:mro7axagquvjt63foaqzddjx/bafkreigtu7mgutjjn5uyghivylwfak6s2ivbzsoe55mkfhkewzkqmuuqwq",
+    "post_text": "Here's the handout for a three hour workshop I presented at the NICAR data journalism conference on using coding agents (Codex CLI, Claude Code etc) for data exploration, visualization and analysis https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
+    "indexed_at": "2026-03-16T20:14:00.653Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:c3uxhlqdmi4ltuv677spswvi/post/3mh774nmej22u",
     "author_handle": "investigatemidwest.bsky.social",
     "author_display_name": "Investigate Midwest",
