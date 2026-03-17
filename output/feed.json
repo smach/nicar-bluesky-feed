@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:ppvxhapnptcy5v6cih3ynmzg/post/3mhb55ikkfb2n",
+    "author_handle": "stephenturner.us",
+    "author_display_name": "Stephen Turner",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ppvxhapnptcy5v6cih3ynmzg/bafkreif6sokzuisvfmv6hd3rzfhraijpk3o7236wiuydhz7bfaxvac62wm",
+    "post_text": "Coding agents for data analysis simonw.github.io/nicar-2026-c... Handouts for NICAR 2026 workshop \"Coding agents for data analysis\" - a 3hr session aimed at data journalists demonstrating ways that tools like Claude Code and OpenAI Codex can be used to explore, analyze and clean data.",
+    "indexed_at": "2026-03-17T14:01:51.056Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mharuiyums2u",
     "author_handle": "mikereilley.bsky.social",
     "author_display_name": "Mike Reilley",
