@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mhd4ujmfmf2t",
+    "author_handle": "mikereilley.bsky.social",
+    "author_display_name": "Mike Reilley",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:ga7ct5btonfckzr564mx32xp/bafkreicxp62vzsfx7p5b3bqmr5w5blwpmvp2hc6ad4bcylpyp55x44maii",
+    "post_text": "NEWSLETTER: Data journalism tools from #NICAR26. Read and subscribe for free (or donate):",
+    "indexed_at": "2026-03-18T09:02:09.657Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:ga7ct5btonfckzr564mx32xp/post/3mhbcfwrzxl2c",
     "author_handle": "mikereilley.bsky.social",
     "author_display_name": "Mike Reilley",
@@ -48,7 +57,7 @@
     "post_url": "https://bsky.app/profile/did:plc:qw3rlslzugmkitgpr5p4nned/post/3mh7e6agv2p2s",
     "author_handle": "ai-nerd.bsky.social",
     "author_display_name": "ai-nerd.bsky.social",
-    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qw3rlslzugmkitgpr5p4nned/bafkreiejl6hc2mmx5s2i7q5r4grnjpdgljnlsqejjqtqvpxoalmirozjcy",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:qw3rlslzugmkitgpr5p4nned/bafkreieeh5vpfmisr5shf6j47vyip4obepr7uhefbijrzc5qp4f5czbttq",
     "post_text": "Simon Willison ran a 3-hour workshop at NICAR teaching data journalists to use coding agents for analysis. total API cost for the room: $23 https://simonwillison.net/2026/Mar/16/coding-agents-for-data-analysis/",
     "indexed_at": "2026-03-16T21:02:12.856Z",
     "image_urls": []
