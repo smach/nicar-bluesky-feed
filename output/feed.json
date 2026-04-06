@@ -1,5 +1,14 @@
 [
   {
+    "post_url": "https://bsky.app/profile/did:plc:tnlhrgmbce34nvpyti46miej/post/3mitbjnopcs2d",
+    "author_handle": "cingraham.bsky.social",
+    "author_display_name": "Chris Ingraham",
+    "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:tnlhrgmbce34nvpyti46miej/bafkreie6c5c7nwzkkqajc4fjrvbecytzfuwbqcgglfe4sytuvt3ppxp5t4",
+    "post_text": "I was at NICAR a year ago and the amount of AI *already being used,* even then, was eye-opening. It was mostly for the non-flashy stuff, data cleaning and analyzing, digging up nuggets of info in folders containing thousands of PDFs, etc.",
+    "indexed_at": "2026-04-06T12:33:21.261Z",
+    "image_urls": []
+  },
+  {
     "post_url": "https://bsky.app/profile/did:plc:4zwxjabgbrt6cxohzeg5vpf7/post/3mihcculdic2e",
     "author_handle": "kleinmatic.bsky.social",
     "author_display_name": "Scott Klein",
