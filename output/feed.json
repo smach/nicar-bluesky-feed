@@ -757,7 +757,7 @@
   },
   {
     "post_url": "https://bsky.app/profile/did:plc:fag53mdehzrwk43qjvrgmkyk/post/3mgj4pr3mgk2l",
-    "author_handle": "ethanscorey.bsky.social",
+    "author_handle": "handle.invalid",
     "author_display_name": "Ethan Corey",
     "author_avatar": "https://cdn.bsky.app/img/avatar/plain/did:plc:fag53mdehzrwk43qjvrgmkyk/bafkreihsrsjp663lkxsu4geiextzvj6fkn36uxm7lt4ybvokhp3bkbthoy",
     "post_text": "I had the pleasure of running a hands-on workshop on fact-checking data stories at #NICAR26 today, where we had lots of fun diagnosing errors in data analysis. For those who couldn't make it, check out the Google Colab notebook here: colab.research.google.com/drive/1NrbfS...",
